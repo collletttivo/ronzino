@@ -1,0 +1,40 @@
+{
+color = 1;
+glyphname = .notdef;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(641,0,l),
+(641,700,l),
+(65,700,l),
+(65,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(137,632,l),
+(569,632,l),
+(569,70,l),
+(137,70,l)
+);
+}
+);
+width = 706;
+},
+{
+associatedMasterId = m01;
+layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
+width = 653;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 653;
+}
+);
+metricRight = "=|";
+}

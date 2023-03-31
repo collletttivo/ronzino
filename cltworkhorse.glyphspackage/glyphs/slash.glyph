@@ -1,0 +1,37 @@
+{
+glyphname = slash;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(103,-115,l),
+(424,712,l),
+(338,712,l),
+(16,-115,l)
+);
+}
+);
+width = 440;
+},
+{
+associatedMasterId = m01;
+layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
+width = 520;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 520;
+}
+);
+metricRight = "=|";
+unicode = 47;
+userData = {
+KernOnSpecialSpacing = {
+L = slash;
+R = slash;
+};
+};
+}

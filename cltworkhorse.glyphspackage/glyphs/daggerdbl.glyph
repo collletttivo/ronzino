@@ -1,0 +1,49 @@
+{
+glyphname = daggerdbl;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(275,0,l),
+(275,700,l),
+(185,700,l),
+(185,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(428,472,l),
+(428,548,l),
+(32,548,l),
+(32,472,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(430,160,l),
+(430,238,l),
+(30,238,l),
+(30,160,l)
+);
+}
+);
+width = 460;
+},
+{
+associatedMasterId = m01;
+layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
+width = 530;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 530;
+}
+);
+metricRight = "=|";
+unicode = 8225;
+}

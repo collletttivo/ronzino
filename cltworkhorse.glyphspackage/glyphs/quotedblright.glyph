@@ -1,0 +1,37 @@
+{
+glyphname = quotedblright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (2,620);
+ref = comma;
+},
+{
+pos = (174,620);
+ref = comma;
+}
+);
+width = 380;
+},
+{
+associatedMasterId = m01;
+layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
+width = 484;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 484;
+}
+);
+metricLeft = quoteright;
+metricRight = quoteright;
+unicode = 8221;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

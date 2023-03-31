@@ -1,0 +1,57 @@
+{
+glyphname = numbersign;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(404,0,l),
+(552,700,l),
+(478,700,l),
+(330,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(566,182,l),
+(580,250,l),
+(44,250,l),
+(30,182,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(172,0,l),
+(320,700,l),
+(246,700,l),
+(98,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(608,452,l),
+(622,520,l),
+(86,520,l),
+(72,452,l)
+);
+}
+);
+width = 652;
+},
+{
+associatedMasterId = m01;
+layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
+width = 626;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 626;
+}
+);
+unicode = 35;
+}

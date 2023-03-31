@@ -1,0 +1,38 @@
+{
+glyphname = t_t.liga;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (300,0);
+ref = t;
+},
+{
+closed = 1;
+nodes = (
+(316,474,l),
+(316,544,l),
+(292,544,l),
+(292,474,l)
+);
+}
+);
+width = 628;
+},
+{
+associatedMasterId = m01;
+layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
+width = 614;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 614;
+}
+);
+metricLeft = t;
+metricRight = t;
+}

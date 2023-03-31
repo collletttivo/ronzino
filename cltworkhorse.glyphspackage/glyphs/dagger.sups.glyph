@@ -1,0 +1,39 @@
+{
+glyphname = dagger.sups;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(182,432,l),
+(182,732,l),
+(116,732,l),
+(116,432,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(262,592,l),
+(262,650,l),
+(36,650,l),
+(36,592,l)
+);
+}
+);
+width = 298;
+},
+{
+associatedMasterId = m01;
+layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
+width = 449;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 449;
+}
+);
+metricRight = "=|";
+}

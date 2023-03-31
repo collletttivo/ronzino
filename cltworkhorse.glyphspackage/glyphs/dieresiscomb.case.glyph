@@ -1,0 +1,44 @@
+{
+glyphname = dieresiscomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (0,548);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(128,628,l),
+(128,720,l),
+(36,720,l),
+(36,628,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(-36,628,l),
+(-36,720,l),
+(-128,720,l),
+(-128,628,l)
+);
+}
+);
+width = 0;
+},
+{
+associatedMasterId = m01;
+layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
+width = 300;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 300;
+}
+);
+}

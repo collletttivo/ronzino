@@ -1,0 +1,77 @@
+{
+glyphname = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(626,0,l),
+(626,700,l),
+(530,700,l),
+(530,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(178,0,l),
+(178,700,l),
+(82,700,l),
+(82,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(542,330,l),
+(542,406,l),
+(166,406,l),
+(166,330,l)
+);
+}
+);
+width = 708;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(646,0,l),
+(646,700,l),
+(500,700,l),
+(500,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(218,0,l),
+(218,700,l),
+(72,700,l),
+(72,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(512,306,l),
+(512,418,l),
+(206,418,l),
+(206,306,l)
+);
+}
+);
+width = 718;
+}
+);
+metricRight = "=|";
+unicode = 72;
+userData = {
+KernOnSpecialSpacing = {
+};
+};
+}
