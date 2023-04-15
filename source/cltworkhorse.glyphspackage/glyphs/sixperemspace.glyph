@@ -3,12 +3,13 @@ glyphname = sixperemspace;
 layers = (
 {
 layerId = m01;
-width = 168;
+width = 167;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 width = 384;
 }
 );
+metricWidth = "=emspace/6";
 unicode = 8198;
 }

@@ -7,6 +7,52 @@ shapes = (
 {
 closed = 1;
 nodes = (
+(1118,0,l),
+(1118,544,l),
+(1030,544,l),
+(1030,0,l)
+);
+},
+{
+pos = (1,0);
+ref = t;
+},
+{
+pos = (320,0);
+ref = t;
+},
+{
+pos = (639,0);
+ref = t;
+},
+{
+pos = (1074,0);
+ref = dotaccentcomb;
+},
+{
+closed = 1;
+nodes = (
+(1038,474,l),
+(1038,544,l),
+(6,544,l),
+(6,474,l)
+);
+}
+);
+width = 1190;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 872;
+},
+{
+associatedMasterId = m01;
+layerId = "7139CBF9-BE77-4471-9550-B7EDF6E170C0";
+name = "15 apr 23, 22:42";
+shapes = (
+{
+closed = 1;
+nodes = (
 (1078,0,l),
 (1078,544,l),
 (990,544,l),
@@ -62,10 +108,6 @@ nodes = (
 }
 );
 width = 1150;
-},
-{
-layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 872;
 }
 );
 metricLeft = t;
