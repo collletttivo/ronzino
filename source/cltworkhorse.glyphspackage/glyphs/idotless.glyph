@@ -5,15 +5,15 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (110,0);
+pos = (116,0);
 },
 {
 name = ogonek;
-pos = (142,12);
+pos = (148,12);
 },
 {
 name = top;
-pos = (110,548);
+pos = (116,548);
 }
 );
 layerId = m01;
@@ -21,49 +21,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(154,0,l),
-(154,548,l),
-(66,548,l),
-(66,0,l)
+(160,0,l),
+(160,548,l),
+(72,548,l),
+(72,0,l)
 );
 }
 );
-width = 220;
-},
-{
-associatedMasterId = m01;
-layerId = "D31711CA-05EE-4EB0-AA33-8D1A5EFDCDD1";
-width = 600;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (124,0);
-},
-{
-name = ogonek;
-pos = (186,11);
-},
-{
-name = top;
-pos = (124,548);
-}
-);
-associatedMasterId = m01;
-layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
-shapes = (
-{
-closed = 1;
-nodes = (
-(192,0,l),
-(192,548,l),
-(56,548,l),
-(56,0,l)
-);
-}
-);
-width = 248;
+width = 232;
 },
 {
 anchors = (

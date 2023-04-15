@@ -1,0 +1,68 @@
+{
+glyphname = V;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(362,0,l),
+(610,700,l),
+(516,700,l),
+(310,104,l),
+(318,104,l),
+(108,700,l),
+(6,700,l),
+(258,0,l)
+);
+}
+);
+width = 616;
+},
+{
+associatedMasterId = m01;
+layerId = "793C5E9A-EB2D-4164-9C8C-EF959FFA5A55";
+name = "13 mar 22, 16:11";
+shapes = (
+{
+closed = 1;
+nodes = (
+(104,700,l),
+(322,96,l),
+(538,700,l),
+(636,700,l),
+(371,0,l),
+(269,0,l),
+(4,700,l)
+);
+}
+);
+width = 640;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(402,0,l),
+(642,700,l),
+(500,700,l),
+(326,168,l),
+(334,168,l),
+(156,700,l),
+(-2,700,l),
+(242,0,l)
+);
+}
+);
+width = 640;
+}
+);
+metricRight = "=|";
+unicode = 86;
+userData = {
+KernOnName = V;
+};
+}

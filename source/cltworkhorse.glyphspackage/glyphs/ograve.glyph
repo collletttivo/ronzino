@@ -8,16 +8,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (290,0);
+pos = (288,0);
 ref = gravecomb;
 }
 );
-width = 580;
-},
-{
-associatedMasterId = m01;
-layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
-width = 590;
+width = 576;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";

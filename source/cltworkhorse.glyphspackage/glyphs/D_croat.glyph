@@ -8,17 +8,7 @@ shapes = (
 ref = Eth;
 }
 );
-width = 708;
-},
-{
-associatedMasterId = m01;
-layerId = "D31711CA-05EE-4EB0-AA33-8D1A5EFDCDD1";
-width = 600;
-},
-{
-associatedMasterId = m01;
-layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
-width = 654;
+width = 728;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";

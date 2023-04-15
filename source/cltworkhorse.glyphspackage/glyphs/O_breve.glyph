@@ -8,11 +8,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (372,152);
+pos = (368,152);
 ref = brevecomb.case;
 }
 );
-width = 744;
+width = 736;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";

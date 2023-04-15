@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = a;
 layers = (
 {
@@ -65,7 +64,7 @@ nodes = (
 );
 }
 );
-width = 544;
+width = 550;
 },
 {
 anchors = (
@@ -134,4 +133,7 @@ width = 560;
 }
 );
 unicode = 97;
+userData = {
+KernOnName = a;
+};
 }

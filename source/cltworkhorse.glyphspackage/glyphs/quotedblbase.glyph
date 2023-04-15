@@ -1,23 +1,19 @@
 {
+color = 5;
 glyphname = quotedblbase;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (172,0);
+pos = (176,0);
 ref = comma;
 },
 {
 ref = comma;
 }
 );
-width = 384;
-},
-{
-associatedMasterId = m01;
-layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
-width = 486;
+width = 430;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";

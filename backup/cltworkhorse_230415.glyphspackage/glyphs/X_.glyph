@@ -1,0 +1,63 @@
+{
+glyphname = X;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(106,0,l),
+(589,700,l),
+(482,700,l),
+(-2,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(594,0,l),
+(122,700,l),
+(10,700,l),
+(480,0,l)
+);
+}
+);
+width = 592;
+},
+{
+associatedMasterId = m01;
+layerId = "D0A7B26D-A2F9-4E96-BD90-4F706C87CB1B";
+name = "13 set 22, 18:39";
+shapes = (
+{
+closed = 1;
+nodes = (
+(129,0,l),
+(313,284,l),
+(499,0,l),
+(613,0,l),
+(371,360,l),
+(603,700,l),
+(497,700,l),
+(319,432,l),
+(149,700,l),
+(37,700,l),
+(261,356,l),
+(25,0,l)
+);
+}
+);
+width = 639;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 596;
+}
+);
+metricRight = "=|";
+unicode = 88;
+userData = {
+KernOnName = X;
+};
+}

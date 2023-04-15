@@ -80,7 +80,9 @@ nodes = (
 width = 710;
 }
 );
-metricLeft = "=|";
-metricRight = "=J";
+metricRight = "=|";
 unicode = 85;
+userData = {
+KernOnName = U;
+};
 }

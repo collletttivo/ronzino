@@ -26,37 +26,6 @@ nodes = (
 width = 0;
 },
 {
-anchors = (
-{
-name = _top;
-pos = (300,548);
-}
-);
-associatedMasterId = m01;
-layerId = "7776529D-2D56-43AA-8763-E08D3679F810";
-name = "13 mar 22, 21:39";
-shapes = (
-{
-closed = 1;
-nodes = (
-(347,570,l),
-(456,726,l),
-(380,726,l),
-(300,616,l),
-(220,726,l),
-(144,726,l),
-(251,570,l)
-);
-}
-);
-width = 600;
-},
-{
-associatedMasterId = m01;
-layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
-width = 300;
-},
-{
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 width = 300;
 }

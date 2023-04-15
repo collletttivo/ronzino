@@ -8,15 +8,10 @@ shapes = (
 ref = n;
 },
 {
-pos = (302,0);
+pos = (300,0);
 ref = acutecomb;
 }
 );
-width = 576;
-},
-{
-associatedMasterId = m01;
-layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
 width = 588;
 },
 {

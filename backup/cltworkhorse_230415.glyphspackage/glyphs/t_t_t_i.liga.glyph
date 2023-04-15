@@ -1,0 +1,78 @@
+{
+glyphname = t_t_t_i.liga;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1078,0,l),
+(1078,544,l),
+(990,544,l),
+(990,0,l)
+);
+},
+{
+ref = t;
+},
+{
+pos = (300,0);
+ref = t;
+},
+{
+closed = 1;
+nodes = (
+(316,474,l),
+(316,544,l),
+(292,544,l),
+(292,474,l)
+);
+},
+{
+pos = (600,0);
+ref = t;
+},
+{
+closed = 1;
+nodes = (
+(616,474,l),
+(616,544,l),
+(592,544,l),
+(592,474,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1002,474,l),
+(1002,544,l),
+(892,544,l),
+(892,474,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1081,628,l),
+(1081,724,l),
+(987,724,l),
+(987,628,l)
+);
+}
+);
+width = 1144;
+},
+{
+associatedMasterId = m01;
+layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
+width = 872;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 872;
+}
+);
+metricLeft = t;
+metricRight = i;
+}

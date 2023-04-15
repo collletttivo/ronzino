@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = comma;
 layers = (
 {
@@ -7,44 +8,22 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(124,-110,o),
-(162,-60,o),
-(162,0,cs),
-(162,112,l),
-(52,112,l),
-(52,0,l),
-(112,0,l),
-(112,-8,ls),
-(112,-40,o),
-(86,-70,o),
-(42,-82,c),
-(60,-128,l)
+(139,-121,o),
+(184,-60,o),
+(184,8,cs),
+(184,120,l),
+(66,120,l),
+(66,0,l),
+(128,0,l),
+(128,-8,ls),
+(128,-48,o),
+(100,-80,o),
+(56,-92,c),
+(76,-140,l)
 );
 }
 );
-width = 212;
-},
-{
-associatedMasterId = m01;
-layerId = "A243CDD8-8C6C-4B12-9F07-8D2E2A9150E5";
-name = "15. 10. 21, 14:20";
-shapes = (
-{
-closed = 1;
-nodes = (
-(100,-104,l),
-(168,112,l),
-(76,112,l),
-(28,-104,l)
-);
-}
-);
-width = 208;
-},
-{
-associatedMasterId = m01;
-layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
-width = 406;
+width = 254;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -70,7 +49,7 @@ nodes = (
 width = 228;
 }
 );
-metricLeft = "=|-8";
+metricRight = period;
 unicode = 44;
 userData = {
 KernOnSpecialSpacing = {

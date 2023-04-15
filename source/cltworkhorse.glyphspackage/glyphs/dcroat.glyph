@@ -5,36 +5,25 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (1,0);
 ref = d;
 },
 {
 closed = 1;
 nodes = (
-(609,628,l),
-(609,692,l),
-(305,692,l),
-(305,628,l)
+(598,630,l),
+(598,692,l),
+(290,692,l),
+(290,630,l)
 );
 }
 );
-width = 605;
-},
-{
-associatedMasterId = m01;
-layerId = "D31711CA-05EE-4EB0-AA33-8D1A5EFDCDD1";
-width = 600;
-},
-{
-associatedMasterId = m01;
-layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
-width = 602.5;
+width = 612;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 width = 602.5;
 }
 );
-metricLeft = "=o+1";
+metricLeft = o;
 unicode = 273;
 }

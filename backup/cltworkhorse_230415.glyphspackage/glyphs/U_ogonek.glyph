@@ -1,0 +1,65 @@
+{
+glyphname = Uogonek;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(498,-148,l),
+(442,-180,o),
+(394,-160,o),
+(394,-112,cs),
+(394,-64,o),
+(442,-12,o),
+(518,28,c),
+(422,12,l),
+(362,-25,o),
+(322,-82,o),
+(322,-136,cs),
+(322,-220,o),
+(422,-248,o),
+(514,-204,c)
+);
+},
+{
+ref = U;
+}
+);
+width = 710;
+},
+{
+associatedMasterId = m01;
+layerId = "FD721580-ACC0-4080-9CF2-94C9D876CD69";
+name = "13 nov 22, 11:19";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (458,12);
+ref = ogonekcomb;
+}
+);
+width = 710;
+},
+{
+associatedMasterId = m01;
+layerId = "D31711CA-05EE-4EB0-AA33-8D1A5EFDCDD1";
+width = 600;
+},
+{
+associatedMasterId = m01;
+layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
+width = 655;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 655;
+}
+);
+metricLeft = "=|";
+metricRight = "=J";
+unicode = 370;
+}

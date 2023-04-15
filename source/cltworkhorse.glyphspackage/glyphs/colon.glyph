@@ -1,24 +1,20 @@
 {
+color = 5;
 glyphname = colon;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (8,0);
+pos = (-30,0);
 ref = period;
 },
 {
-pos = (8,380);
+pos = (-30,380);
 ref = period;
 }
 );
-width = 236;
-},
-{
-associatedMasterId = m01;
-layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
-width = 418;
+width = 196;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -38,6 +34,7 @@ width = 252;
 metricRight = "=|";
 unicode = 58;
 userData = {
+KernOnName = colon;
 KernOnSpecialSpacing = {
 L = "spaced-off";
 R = "spaced-off";

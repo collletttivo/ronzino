@@ -1,5 +1,5 @@
 {
-.appVersion = "3148";
+.appVersion = "3151";
 .formatVersion = 3;
 axes = (
 {
@@ -233,15 +233,15 @@ value = 244;
 },
 {
 name = paramArea;
-value = 360;
+value = "400";
 },
 {
 name = paramDepth;
-value = 10;
+value = "20";
 },
 {
 name = paramOver;
-value = 4;
+value = "0";
 }
 );
 id = m01;
@@ -272,49 +272,10 @@ GSCornerRadius = 20;
 GSOffsetHorizontal = 10;
 GSOffsetVertical = 5;
 KernOnModels = (
-"A Y",
-"P A",
-"T u",
-"V o",
-"k hyphen",
-"R T",
-"T S",
-"B A",
-"t o",
-"y o",
-"U T",
-"K H",
-"H colon",
-"t period",
-"x a",
-"E i",
-"W i",
-"E x",
-"X X",
-"V H",
-"o t",
-"k y",
-"r i",
-"k i",
-"t l",
-"t t",
-"c t",
-"k t",
-"w s",
-"s hyphen",
-"R A",
-"n i",
-"i d",
-"d l",
 "l l",
+"n i",
 "n r",
-"h n",
-"g g",
-"O O",
-"hyphen H",
-"y w",
-"z z",
-"seven seven"
+"hyphen H"
 );
 };
 },
@@ -418,222 +379,6 @@ name = Bold;
 weightClass = 700;
 }
 );
-kerningLTR = {
-m01 = {
-A = {
-Y = -120;
-};
-B = {
-A = -24;
-};
-E = {
-i = -8;
-x = -8;
-};
-H = {
-colon = -16;
-};
-K = {
-H = -16;
-};
-O = {
-O = 0;
-};
-P = {
-A = -92;
-};
-R = {
-A = -4;
-T = -40;
-};
-T = {
-S = -32;
-u = -68;
-};
-U = {
-T = -16;
-};
-V = {
-H = -8;
-o = -60;
-};
-W = {
-i = -8;
-};
-X = {
-X = -8;
-};
-c = {
-t = -4;
-};
-d = {
-l = 0;
-};
-g = {
-g = 0;
-};
-h = {
-n = 0;
-};
-hyphen = {
-H = 0;
-};
-i = {
-d = 0;
-};
-k = {
-hyphen = -52;
-i = -4;
-t = -4;
-y = -6;
-};
-l = {
-l = 0;
-};
-n = {
-i = 0;
-r = 0;
-};
-o = {
-t = -6;
-};
-r = {
-i = -4;
-};
-s = {
-hyphen = -4;
-};
-seven = {
-seven = 6;
-};
-t = {
-l = -4;
-o = -20;
-period = -12;
-t = -4;
-};
-w = {
-s = -4;
-};
-x = {
-a = -8;
-};
-y = {
-o = -20;
-w = 2;
-};
-z = {
-z = 4;
-};
-};
-"E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81" = {
-A = {
-Y = -60;
-};
-B = {
-A = -12;
-};
-E = {
-i = -4;
-x = -4;
-};
-H = {
-colon = -8;
-};
-K = {
-H = -8;
-};
-O = {
-O = 0;
-};
-P = {
-A = -46;
-};
-R = {
-A = -2;
-T = -20;
-};
-T = {
-S = -16;
-u = -34;
-};
-U = {
-T = -8;
-};
-V = {
-H = -4;
-o = -30;
-};
-W = {
-i = -4;
-};
-X = {
-X = -4;
-};
-c = {
-t = -2;
-};
-d = {
-l = 0;
-};
-g = {
-g = 0;
-};
-h = {
-n = 0;
-};
-hyphen = {
-H = 0;
-};
-i = {
-d = 0;
-};
-k = {
-hyphen = -26;
-i = -2;
-t = -2;
-y = -3;
-};
-l = {
-l = 0;
-};
-n = {
-i = 0;
-r = 0;
-};
-o = {
-t = -3;
-};
-r = {
-i = -2;
-};
-s = {
-hyphen = -2;
-};
-seven = {
-seven = 3;
-};
-t = {
-l = -2;
-o = -10;
-period = -6;
-t = -2;
-};
-w = {
-s = -2;
-};
-x = {
-a = -4;
-};
-y = {
-o = -10;
-w = 1;
-};
-z = {
-z = 2;
-};
-};
-};
 metrics = (
 {
 type = ascender;
@@ -739,9 +484,10 @@ nV = "88";
 nd = "68";
 oH = "72";
 oV = "92";
-tH = "70";
+tH = 70tt;
 };
 };
+KernOnVersion = "1.21";
 };
 versionMajor = 1;
 versionMinor = 0;

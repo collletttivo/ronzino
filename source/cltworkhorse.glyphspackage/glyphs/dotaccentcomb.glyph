@@ -13,36 +13,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(47,636,l),
-(47,732,l),
-(-47,732,l),
-(-47,636,l)
+(48,634,l),
+(48,732,l),
+(-48,732,l),
+(-48,634,l)
 );
 }
 );
 width = 0;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (150,548);
-}
-);
-associatedMasterId = m01;
-layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
-shapes = (
-{
-closed = 1;
-nodes = (
-(220,616,l),
-(220,754,l),
-(81,754,l),
-(81,616,l)
-);
-}
-);
-width = 300;
 },
 {
 anchors = (

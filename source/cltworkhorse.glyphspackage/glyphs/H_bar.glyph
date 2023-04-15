@@ -5,20 +5,20 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (4,0);
+pos = (8,0);
 ref = H;
 },
 {
 closed = 1;
 nodes = (
-(688,524,l),
-(688,596,l),
-(28,596,l),
-(28,524,l)
+(698,538,l),
+(698,604,l),
+(48,604,l),
+(48,538,l)
 );
 }
 );
-width = 716;
+width = 746;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -39,5 +39,6 @@ nodes = (
 width = 718;
 }
 );
+metricRight = "=|";
 unicode = 294;
 }

@@ -1,0 +1,655 @@
+{
+.appVersion = "3151";
+.formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+},
+{
+name = Italic;
+tag = ital;
+}
+);
+classes = (
+{
+automatic = 1;
+code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Schwa F G Gbreve Gcommaaccent H I Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek J K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scommaaccent Germandbls T Tcaron Tcedilla Tcommaaccent U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W X Y Yacute Ydieresis Z Zacute Zcaron Zdotaccent";
+name = Uppercase;
+}
+);
+customParameters = (
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Write lastChange";
+value = 0;
+},
+{
+name = "Write DisplayStrings";
+value = 0;
+}
+);
+date = "2021-10-14 10:00:00 +0000";
+familyName = CLTdotCom;
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
+";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature locl;
+feature sups;
+feature frac;
+feature ordn;
+feature case;
+feature subs;
+feature sinf;
+";
+tag = aalt;
+},
+{
+automatic = 1;
+code = "lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [cedillacomb ogonekcomb];
+	sub [i j]' @CombiningTopAccents by [idotless jdotless];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb];
+	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+";
+tag = ccmp;
+},
+{
+automatic = 1;
+code = "lookup locl_latn_0 {
+	script latn;
+	language AZE;
+	sub i by idotaccent;
+	language CRT;
+	sub i by idotaccent;
+	language KAZ;
+	sub i by idotaccent;
+	language TAT;
+	sub i by idotaccent;
+	language TRK;
+	sub i by idotaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
+	language ROM;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+	language MOL;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_1;
+";
+tag = locl;
+},
+{
+automatic = 1;
+code = "sub zero by zeroinferior;
+sub four by fourinferior;
+";
+tag = subs;
+},
+{
+automatic = 1;
+code = "sub zero by zeroinferior;
+sub four by fourinferior;
+";
+tag = sinf;
+},
+{
+automatic = 1;
+code = "sub zero by zerosuperior;
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub four by foursuperior;
+sub five by fivesuperior;
+sub six by sixsuperior;
+sub seven by sevensuperior;
+sub eight by eightsuperior;
+sub nine by ninesuperior;
+";
+tag = sups;
+},
+{
+automatic = 1;
+code = "sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+";
+tag = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+";
+tag = ordn;
+},
+{
+automatic = 1;
+code = "sub dieresiscomb by dieresiscomb.case;
+sub dotaccentcomb by dotaccentcomb.case;
+sub gravecomb by gravecomb.case;
+sub acutecomb by acutecomb.case;
+sub hungarumlautcomb by hungarumlautcomb.case;
+sub circumflexcomb by circumflexcomb.case;
+sub caroncomb by caroncomb.case;
+sub brevecomb by brevecomb.case;
+sub ringcomb by ringcomb.case;
+sub tildecomb by tildecomb.case;
+sub macroncomb by macroncomb.case;
+";
+tag = case;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub t t t i by t_t_t_i.liga;
+sub f i by f_i;
+sub f l by f_l;
+sub t t by t_t.liga;
+";
+tag = liga;
+}
+);
+fontMaster = (
+{
+axesValues = (
+88,
+0
+);
+customParameters = (
+{
+name = hheaAscender;
+value = 898;
+},
+{
+name = hheaDescender;
+value = -244;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoAscender;
+value = 898;
+},
+{
+name = typoDescender;
+value = -244;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 898;
+},
+{
+name = winDescent;
+value = 244;
+},
+{
+name = paramArea;
+value = 360;
+},
+{
+name = paramDepth;
+value = 10;
+},
+{
+name = paramOver;
+value = 4;
+}
+);
+id = m01;
+metricValues = (
+{
+over = 12;
+pos = 732;
+},
+{
+over = 12;
+pos = 700;
+},
+{
+over = 12;
+pos = 548;
+},
+{
+over = -12;
+},
+{
+over = -12;
+pos = -224;
+}
+);
+name = Regular;
+userData = {
+GSCornerRadius = 20;
+GSOffsetHorizontal = 10;
+GSOffsetVertical = 5;
+KernOnIndependentPairs = (
+"k i",
+"X X"
+);
+KernOnModels = (
+"A Y",
+"P A",
+"T u",
+"V o",
+"k hyphen",
+"R T",
+"T S",
+"B A",
+"t o",
+"y o",
+"U T",
+"H colon",
+"t period",
+"x a",
+"E i",
+"W i",
+"E x",
+"V H",
+"o t",
+"k y",
+"t l",
+"r i",
+"c t",
+"k t",
+"w s",
+"s hyphen",
+"R A",
+"d l",
+"l l",
+"n i",
+"i d",
+"n r",
+"g g",
+"O O",
+"hyphen H",
+"y w",
+"z z",
+"seven seven"
+);
+};
+},
+{
+axesValues = (
+136,
+0
+);
+customParameters = (
+{
+name = hheaAscender;
+value = 898;
+},
+{
+name = hheaDescender;
+value = -244;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoAscender;
+value = 898;
+},
+{
+name = typoDescender;
+value = -244;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 898;
+},
+{
+name = winDescent;
+value = 244;
+},
+{
+name = paramArea;
+value = 360;
+},
+{
+name = paramDepth;
+value = 10;
+},
+{
+name = paramOver;
+value = 4;
+}
+);
+iconName = Bold;
+id = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+metricValues = (
+{
+over = 12;
+pos = 732;
+},
+{
+over = 12;
+pos = 700;
+},
+{
+over = 12;
+pos = 548;
+},
+{
+over = -12;
+},
+{
+over = -12;
+pos = -224;
+}
+);
+name = Bold;
+}
+);
+instances = (
+{
+axesValues = (
+88,
+0
+);
+instanceInterpolations = {
+m01 = 1;
+};
+name = Regular;
+},
+{
+axesValues = (
+136,
+0
+);
+instanceInterpolations = {
+"E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81" = 1;
+};
+name = Bold;
+weightClass = 700;
+}
+);
+kerningLTR = {
+m01 = {
+i = {
+d = 0;
+};
+d = {
+l = 0;
+};
+H = {
+D = -26;
+K = -26;
+V = -9;
+colon = -16;
+};
+X = {
+X = -8;
+};
+s = {
+hyphen = -4;
+};
+D = {
+I = -13;
+};
+P = {
+A = -92;
+};
+A = {
+Y = -120;
+};
+O = {
+O = 0;
+};
+V = {
+H = -8;
+o = -60;
+};
+g = {
+g = 0;
+};
+n = {
+i = 0;
+r = 0;
+};
+x = {
+a = -8;
+i = 5;
+};
+t = {
+i = -5;
+l = -4;
+o = -20;
+t = 5;
+period = -12;
+};
+e = {
+};
+T = {
+E = -19;
+S = -32;
+u = -68;
+};
+z = {
+z = 4;
+};
+o = {
+t = -6;
+};
+U = {
+T = -16;
+};
+k = {
+i = -4;
+t = -4;
+y = -6;
+hyphen = -52;
+};
+seven = {
+seven = 6;
+};
+c = {
+t = -4;
+};
+h = {
+n = 2;
+};
+E = {
+H = -18;
+i = -8;
+x = -8;
+};
+I = {
+V = -9;
+};
+l = {
+l = 0;
+};
+w = {
+s = -4;
+};
+W = {
+i = -8;
+};
+r = {
+i = -4;
+};
+y = {
+o = -20;
+w = 2;
+};
+R = {
+A = -4;
+T = -40;
+};
+B = {
+A = -24;
+};
+K = {
+};
+hyphen = {
+H = 0;
+};
+};
+};
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+}
+);
+properties = (
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Luigi Gorlero";
+},
+{
+language = dflt;
+value = "Nunzio Mazzaferro";
+}
+);
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = Collletttivo;
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://collletttivo.it/";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "Internal use only";
+}
+);
+},
+{
+key = designerURL;
+value = "https://www.luigigorlero.com/";
+},
+{
+key = vendorID;
+value = CLT;
+}
+);
+unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"0F170B98-79D9-408B-A13F-F2E42C97F8D9" = {
+HH = "124";
+HV = "164";
+OH = "130";
+OV = "170";
+nV = "152";
+nd = "115";
+oH = "114";
+oV = "156";
+};
+"D37369A4-F7D7-4CC7-B8C3-D5D0E9814A4A" = {
+HH = "148";
+HV = "196";
+OH = "144";
+OV = "208";
+nV = "184";
+nd = "140";
+oH = "132";
+oV = "192";
+tH = "128";
+};
+"E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81" = {
+HH = "112";
+HV = "146";
+OV = "154";
+nV = "136";
+nd = "92";
+oH = "102";
+oV = "144";
+tH = "98";
+};
+m01 = {
+HH = "76";
+HV = "96";
+OH = "76";
+OV = "102";
+nV = "88";
+nd = "68";
+oH = "72";
+oV = "92";
+tH = "70";
+};
+};
+KernOnVersion = "1.21";
+};
+versionMajor = 1;
+versionMinor = 0;
+}

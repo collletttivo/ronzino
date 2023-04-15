@@ -7,19 +7,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(134,424,l),
-(148,700,l),
-(56,700,l),
-(70,424,l)
+(159,424,l),
+(173,700,l),
+(81,700,l),
+(95,424,l)
 );
 }
 );
-width = 200;
-},
-{
-associatedMasterId = m01;
-layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
-width = 400;
+width = 254;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";

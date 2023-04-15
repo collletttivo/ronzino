@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = bracketleft;
 layers = (
 {
@@ -7,32 +8,26 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(308,-224,l),
-(308,-149,l),
-(156,-149,l),
-(168,-161,l),
-(168,650,l),
-(156,638,l),
-(308,638,l),
-(308,712,l),
-(82,712,l),
-(82,-224,l)
+(314,-224,l),
+(314,-149,l),
+(162,-149,l),
+(174,-161,l),
+(174,638,l),
+(162,626,l),
+(314,626,l),
+(314,700,l),
+(88,700,l),
+(88,-224,l)
 );
 }
 );
 width = 324;
 },
 {
-associatedMasterId = m01;
-layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
-width = 462;
-},
-{
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 width = 462;
 }
 );
-metricLeft = H;
 unicode = 91;
 userData = {
 KernOnSpecialSpacing = {

@@ -21,26 +21,6 @@ nodes = (
 width = 616;
 },
 {
-associatedMasterId = m01;
-layerId = "793C5E9A-EB2D-4164-9C8C-EF959FFA5A55";
-name = "13 mar 22, 16:11";
-shapes = (
-{
-closed = 1;
-nodes = (
-(104,700,l),
-(322,96,l),
-(538,700,l),
-(636,700,l),
-(371,0,l),
-(269,0,l),
-(4,700,l)
-);
-}
-);
-width = 640;
-},
-{
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
@@ -62,4 +42,7 @@ width = 640;
 );
 metricRight = "=|";
 unicode = 86;
+userData = {
+KernOnName = V;
+};
 }

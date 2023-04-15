@@ -7,19 +7,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(332,232,l),
-(332,312,l),
-(60,312,l),
-(60,232,l)
+(345,232,l),
+(345,312,l),
+(73,312,l),
+(73,232,l)
 );
 }
 );
-width = 392;
-},
-{
-associatedMasterId = m01;
-layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
-width = 496;
+width = 418;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -29,6 +24,7 @@ width = 496;
 metricRight = "=|";
 unicode = 45;
 userData = {
+KernOnName = hyphen;
 KernOnSpecialSpacing = {
 L = hyphen;
 R = hyphen;

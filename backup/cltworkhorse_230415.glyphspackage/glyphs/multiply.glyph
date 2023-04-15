@@ -1,0 +1,45 @@
+{
+glyphname = multiply;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(496,136,l),
+(142,490,l),
+(85,432,l),
+(439,79,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(495,432,l),
+(438,490,l),
+(84,136,l),
+(141,79,l)
+);
+}
+);
+width = 580;
+},
+{
+associatedMasterId = m01;
+layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
+width = 590;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 590;
+}
+);
+unicode = 215;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

@@ -1,17 +1,19 @@
 {
+color = 4;
 glyphname = exclamdouble;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+pos = (216,0);
 ref = exclam;
 },
 {
 ref = exclam;
 }
 );
-width = 236;
+width = 460;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -26,5 +28,7 @@ ref = exclam;
 width = 252;
 }
 );
+metricLeft = exclam;
+metricRight = exclam;
 unicode = 8252;
 }

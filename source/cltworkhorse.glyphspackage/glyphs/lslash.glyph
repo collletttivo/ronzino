@@ -5,29 +5,54 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (58,0);
+closed = 1;
+nodes = (
+(296,452,l),
+(268,512,l),
+(144,448,l),
+(144,372,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(144,376,l),
+(144,452,l),
+(-8,374,l),
+(22,314,l)
+);
+},
+{
+pos = (28,0);
+ref = l;
+}
+);
+width = 288;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 468;
+},
+{
+associatedMasterId = m01;
+layerId = "98CDF1AC-8AF7-4DAB-9BDB-8F698362E116";
+name = "15 apr 23, 20:38";
+shapes = (
+{
+pos = (28,0);
 ref = l;
 },
 {
 closed = 1;
 nodes = (
-(318,468,l),
-(286,524,l),
-(18,364,l),
-(54,308,l)
+(296,456,l),
+(268,516,l),
+(-8,374,l),
+(22,314,l)
 );
 }
 );
-width = 336;
-},
-{
-associatedMasterId = m01;
-layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
-width = 468;
-},
-{
-layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 468;
+width = 288;
 }
 );
 metricRight = "=|";

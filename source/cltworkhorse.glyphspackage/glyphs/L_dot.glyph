@@ -8,10 +8,16 @@ shapes = (
 ref = L;
 },
 {
-ref = periodcentered;
+closed = 1;
+nodes = (
+(381,330,l),
+(381,430,l),
+(283,430,l),
+(283,330,l)
+);
 }
 );
-width = 536;
+width = 532;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -26,5 +32,6 @@ ref = periodcentered;
 width = 548;
 }
 );
+metricLeft = H;
 unicode = 319;
 }

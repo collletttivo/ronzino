@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = j;
 layers = (
 {
@@ -9,11 +8,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (112,0);
+pos = (120,0);
 ref = dotaccentcomb;
 }
 );
-width = 222;
+width = 236;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";

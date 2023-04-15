@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = i;
 layers = (
 {
@@ -9,11 +8,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (110,0);
+pos = (116,0);
 ref = dotaccentcomb;
 }
 );
-width = 220;
+width = 232;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -30,4 +29,7 @@ width = 248;
 }
 );
 unicode = 105;
+userData = {
+KernOnName = i;
+};
 }

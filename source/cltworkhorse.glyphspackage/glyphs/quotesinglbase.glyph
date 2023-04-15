@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = quotesinglbase;
 layers = (
 {
@@ -8,12 +9,7 @@ shapes = (
 ref = comma;
 }
 );
-width = 212;
-},
-{
-associatedMasterId = m01;
-layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
-width = 406;
+width = 254;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";

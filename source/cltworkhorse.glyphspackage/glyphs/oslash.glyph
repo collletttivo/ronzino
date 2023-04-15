@@ -7,27 +7,45 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(456,588,l),
-(394,614,l),
-(120,-38,l),
-(184,-66,l)
+(468,614,l),
+(406,638,l),
+(116,-64,l),
+(178,-90,l)
 );
 },
 {
 ref = o;
 }
 );
-width = 580;
-},
-{
-associatedMasterId = m01;
-layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
-width = 590;
+width = 576;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 width = 590;
+},
+{
+associatedMasterId = m01;
+layerId = "CE548E82-843A-4479-A657-D28BC794D090";
+name = "15 apr 23, 17:34";
+shapes = (
+{
+closed = 1;
+nodes = (
+(457,588,l),
+(395,614,l),
+(121,-38,l),
+(185,-66,l)
+);
+},
+{
+pos = (1,0);
+ref = o;
 }
 );
+width = 578;
+}
+);
+metricLeft = o;
+metricRight = o;
 unicode = 248;
 }

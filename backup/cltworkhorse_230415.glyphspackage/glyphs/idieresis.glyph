@@ -1,0 +1,42 @@
+{
+glyphname = idieresis;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(58,608,l),
+(58,698,l),
+(-24,698,l),
+(-24,608,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(218,608,l),
+(218,698,l),
+(136,698,l),
+(136,608,l)
+);
+},
+{
+ref = idotless;
+}
+);
+width = 218;
+},
+{
+associatedMasterId = m01;
+layerId = "2743AE31-5E10-493A-AAF8-244AFE4C878D";
+width = 409;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 409;
+}
+);
+unicode = 239;
+}
