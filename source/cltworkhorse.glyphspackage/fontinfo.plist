@@ -319,15 +319,15 @@ value = 244;
 },
 {
 name = paramArea;
-value = 360;
+value = "360";
 },
 {
 name = paramDepth;
-value = 10;
+value = "20";
 },
 {
 name = paramOver;
-value = 4;
+value = "0";
 }
 );
 iconName = Bold;
