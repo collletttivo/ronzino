@@ -8,6 +8,33 @@ shapes = (
 closed = 1;
 nodes = (
 (160,0,l),
+(160,584,ls),
+(160,660,o),
+(212,686,o),
+(300,650,c),
+(316,722,l),
+(164,774,o),
+(72,728,o),
+(72,596,cs),
+(72,0,l)
+);
+}
+);
+width = 268;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 600;
+},
+{
+associatedMasterId = m01;
+layerId = "6867417F-64D2-4255-B9CE-F442A51E132B";
+name = "16 apr 23, 13:00";
+shapes = (
+{
+closed = 1;
+nodes = (
+(160,0,l),
 (160,604,ls),
 (160,665,o),
 (206,687,o),
@@ -21,10 +48,6 @@ nodes = (
 }
 );
 width = 260;
-},
-{
-layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 600;
 }
 );
 metricLeft = l;
