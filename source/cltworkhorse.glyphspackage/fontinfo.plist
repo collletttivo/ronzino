@@ -29,6 +29,14 @@ value = (
 );
 },
 {
+name = unicodeRanges;
+value = (
+0,
+1,
+2
+);
+},
+{
 name = "Write lastChange";
 value = 0;
 },
@@ -414,24 +422,28 @@ value = Collletttivo;
 },
 {
 key = manufacturerURL;
-value = "https://collletttivo.it/";
+value = "https://collletttivo.it";
 },
 {
 key = licenses;
 values = (
 {
 language = dflt;
-value = "Internal use only";
+value = "SIL OpenFont License";
 }
 );
 },
 {
 key = designerURL;
-value = "https://www.luigigorlero.com/";
+value = "https://www.luigigorlero.com";
 },
 {
 key = vendorID;
 value = CLT;
+},
+{
+key = licenseURL;
+value = "https://scripts.sil.org/OFL_web";
 }
 );
 unitsPerEm = 1000;
