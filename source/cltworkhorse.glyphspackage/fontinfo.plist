@@ -1,5 +1,5 @@
 {
-.appVersion = "3151";
+.appVersion = "3148";
 .formatVersion = 3;
 axes = (
 {
@@ -327,22 +327,22 @@ id = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 metricValues = (
 {
 over = 12;
-pos = 732;
+pos = 748;
 },
 {
 over = 12;
-pos = 700;
+pos = 712;
 },
 {
-over = 12;
-pos = 548;
+over = 14;
+pos = 560;
 },
 {
-over = -12;
+over = -14;
 },
 {
-over = -12;
-pos = -224;
+over = -14;
+pos = -240;
 }
 );
 name = Bold;
@@ -368,6 +368,7 @@ exports = 0;
 instanceInterpolations = {
 "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81" = 1;
 };
+isBold = 1;
 name = Bold;
 weightClass = 700;
 }
