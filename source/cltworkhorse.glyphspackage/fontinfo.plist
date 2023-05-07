@@ -1,5 +1,5 @@
 {
-.appVersion = "3148";
+.appVersion = "3151";
 .formatVersion = 3;
 axes = (
 {
@@ -200,24 +200,24 @@ axesValues = (
 );
 customParameters = (
 {
-name = hheaAscender;
-value = 898;
+name = paramArea;
+value = "400";
 },
 {
-name = hheaDescender;
-value = -244;
+name = paramDepth;
+value = "16";
 },
 {
-name = hheaLineGap;
-value = 0;
+name = paramOver;
+value = "0";
 },
 {
 name = typoAscender;
-value = 898;
+value = 766;
 },
 {
 name = typoDescender;
-value = -244;
+value = -234;
 },
 {
 name = typoLineGap;
@@ -225,50 +225,50 @@ value = 0;
 },
 {
 name = winAscent;
-value = 898;
+value = 0;
 },
 {
 name = winDescent;
-value = 244;
+value = 0;
 },
 {
-name = paramArea;
-value = "400";
+name = hheaAscender;
+value = 766;
 },
 {
-name = paramDepth;
-value = "20";
+name = hheaDescender;
+value = -234;
 },
 {
-name = paramOver;
-value = "0";
+name = hheaLineGap;
+value = 0;
 }
 );
 id = m01;
 metricValues = (
 {
-over = 12;
+over = 14;
+pos = 766;
+},
+{
+over = 14;
 pos = 732;
 },
 {
-over = 12;
-pos = 700;
+over = 14;
+pos = 572;
 },
 {
-over = 12;
-pos = 548;
+over = -14;
 },
 {
-over = -12;
-},
-{
-over = -12;
-pos = -224;
+over = -14;
+pos = -234;
 }
 );
 name = Regular;
 userData = {
-GSCornerRadius = 20;
+GSCornerRadius = 40;
 GSOffsetHorizontal = 10;
 GSOffsetVertical = 5;
 KernOnModels = (
@@ -286,24 +286,24 @@ axesValues = (
 );
 customParameters = (
 {
-name = hheaAscender;
-value = 898;
+name = paramArea;
+value = "380";
 },
 {
-name = hheaDescender;
-value = -244;
+name = paramDepth;
+value = "16";
 },
 {
-name = hheaLineGap;
-value = 0;
+name = paramOver;
+value = "0";
 },
 {
 name = typoAscender;
-value = 898;
+value = 766;
 },
 {
 name = typoDescender;
-value = -244;
+value = -234;
 },
 {
 name = typoLineGap;
@@ -311,46 +311,46 @@ value = 0;
 },
 {
 name = winAscent;
-value = 898;
+value = 0;
 },
 {
 name = winDescent;
-value = 244;
+value = 0;
 },
 {
-name = paramArea;
-value = "360";
+name = hheaAscender;
+value = 766;
 },
 {
-name = paramDepth;
-value = "20";
+name = hheaDescender;
+value = -234;
 },
 {
-name = paramOver;
-value = "0";
+name = hheaLineGap;
+value = 0;
 }
 );
 iconName = Bold;
 id = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 metricValues = (
 {
-over = 12;
-pos = 748;
+over = 16;
+pos = 766;
 },
 {
-over = 12;
-pos = 712;
+over = 16;
+pos = 732;
 },
 {
-over = 14;
-pos = 560;
+over = 16;
+pos = 586;
 },
 {
-over = -14;
+over = -16;
 },
 {
-over = -14;
-pos = -240;
+over = -16;
+pos = -234;
 }
 );
 name = Bold;
@@ -475,21 +475,21 @@ tH = "128";
 HH = "112";
 HV = "146";
 OV = "154";
-nV = "136";
-nd = "92";
-oH = "102";
-oV = "144";
-tH = "98";
+nV = "140";
+nd = "100";
+oH = "98";
+oV = "148";
+tH = "86";
 };
 m01 = {
-HH = "76";
-HV = "96";
-OH = "76";
-OV = "102";
-nV = "88";
-nd = "68";
-oH = "72";
-oV = "92";
+HH = "80";
+HV = "100";
+OH = "80";
+OV = "108";
+nV = "92";
+nd = "80";
+oH = "76";
+oV = "96";
 tH = 70tt;
 };
 };

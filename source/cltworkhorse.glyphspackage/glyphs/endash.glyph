@@ -7,20 +7,22 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(445,235,l),
-(445,309,l),
-(73,309,l),
-(73,235,l)
+(444,246,l),
+(444,324,l),
+(56,324,l),
+(56,246,l)
 );
 }
 );
-width = 518;
+width = 500;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 486;
+width = 508;
 }
 );
+metricLeft = hyphen;
+metricRight = hyphen;
 unicode = 8211;
 userData = {
 KernOnSpecialSpacing = {

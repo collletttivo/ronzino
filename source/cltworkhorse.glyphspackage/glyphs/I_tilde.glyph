@@ -8,11 +8,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (140,152);
+pos = (138,160);
 ref = tildecomb.case;
 }
 );
-width = 280;
+width = 276;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -24,7 +24,7 @@ ref = I;
 ref = tildecomb.case;
 }
 );
-width = 290;
+width = 317;
 }
 );
 unicode = 296;

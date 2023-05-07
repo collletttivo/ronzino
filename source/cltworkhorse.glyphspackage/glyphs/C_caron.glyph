@@ -8,15 +8,15 @@ shapes = (
 ref = C;
 },
 {
-pos = (366,152);
+pos = (381,160);
 ref = caroncomb.case;
 }
 );
-width = 688;
+width = 716;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 640;
+width = 669;
 }
 );
 unicode = 268;

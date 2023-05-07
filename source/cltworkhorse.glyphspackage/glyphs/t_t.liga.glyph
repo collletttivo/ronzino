@@ -5,28 +5,27 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (1,0);
-ref = t;
-},
-{
-pos = (320,0);
-ref = t;
-},
-{
 closed = 1;
 nodes = (
-(617,474,l),
-(617,544,l),
-(6,544,l),
-(6,474,l)
+(642,496,l),
+(642,568,l),
+(0,568,l),
+(0,496,l)
 );
+},
+{
+ref = t;
+},
+{
+pos = (336,0);
+ref = t;
 }
 );
-width = 642;
+width = 668;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 614;
+width = 642;
 },
 {
 associatedMasterId = m01;
@@ -37,20 +36,20 @@ shapes = (
 ref = t;
 },
 {
-pos = (300,0);
+pos = (314,0);
 ref = t;
 },
 {
 closed = 1;
 nodes = (
-(316,474,l),
-(316,544,l),
-(292,544,l),
-(292,474,l)
+(331,496,l),
+(331,569,l),
+(305,569,l),
+(305,496,l)
 );
 }
 );
-width = 620;
+width = 649;
 }
 );
 metricLeft = t;

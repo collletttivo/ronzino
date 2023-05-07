@@ -5,19 +5,19 @@ layers = (
 layerId = m01;
 shapes = (
 {
-ref = L;
-},
-{
 closed = 1;
 nodes = (
-(381,330,l),
-(381,430,l),
-(283,430,l),
-(283,330,l)
+(399,345,l),
+(399,450,l),
+(296,450,l),
+(296,345,l)
 );
+},
+{
+ref = L;
 }
 );
-width = 532;
+width = 560;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -29,7 +29,7 @@ ref = L;
 ref = periodcentered;
 }
 );
-width = 548;
+width = 575;
 }
 );
 metricLeft = H;

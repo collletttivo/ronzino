@@ -3,11 +3,11 @@ glyphname = hairspace;
 layers = (
 {
 layerId = m01;
-width = 83;
+width = 87;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 328;
+width = 343;
 }
 );
 metricWidth = "=emspace/12";

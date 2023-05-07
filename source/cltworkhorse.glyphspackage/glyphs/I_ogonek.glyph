@@ -12,11 +12,11 @@ pos = (176,12);
 ref = ogonekcomb;
 }
 );
-width = 280;
+width = 276;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 430;
+width = 450;
 }
 );
 unicode = 302;

@@ -1,5 +1,4 @@
 {
-color = 5;
 glyphname = quotedblleft;
 layers = (
 {
@@ -7,20 +6,20 @@ layerId = m01;
 shapes = (
 {
 angle = 180;
-pos = (252,604);
+pos = (216,632);
 ref = comma;
 },
 {
 angle = 180;
-pos = (428,604);
+pos = (400,632);
 ref = comma;
 }
 );
-width = 436;
+width = 392;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 488;
+width = 510;
 }
 );
 metricLeft = quoteleft;

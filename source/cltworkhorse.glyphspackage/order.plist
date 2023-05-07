@@ -404,5 +404,7 @@ ring,
 tilde,
 macron,
 cedilla,
-ogonek
+ogonek,
+apostrophemod,
+commaturnedmod
 )

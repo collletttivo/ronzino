@@ -1,24 +1,23 @@
 {
-color = 5;
 glyphname = quotedblright;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (6,612);
+pos = (-10,640);
 ref = comma;
 },
 {
-pos = (182,612);
+pos = (174,640);
 ref = comma;
 }
 );
-width = 426;
+width = 378;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 484;
+width = 506;
 }
 );
 metricLeft = quoteright;

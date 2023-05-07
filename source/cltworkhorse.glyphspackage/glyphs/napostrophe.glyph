@@ -3,11 +3,20 @@ glyphname = napostrophe;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (-130,0);
+ref = apostrophemod;
+}
+);
+width = 606;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 600;
+width = 628;
 }
 );
 unicode = 329;

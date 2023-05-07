@@ -1,21 +1,20 @@
 {
-color = 4;
 glyphname = parenright;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (268,0);
+pos = (264,0);
 ref = parenleft;
 scale = (-1,1);
 }
 );
-width = 268;
+width = 264;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 434;
+width = 454;
 }
 );
 metricLeft = "=|parenleft";

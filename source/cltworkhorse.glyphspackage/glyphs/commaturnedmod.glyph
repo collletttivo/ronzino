@@ -1,30 +1,27 @@
 {
-glyphname = acutecomb.case;
+glyphname = commaturnedmod;
 layers = (
 {
 anchors = (
 {
 name = _top;
-pos = (0,572);
+pos = (200,572);
 }
 );
 layerId = m01;
 shapes = (
 {
-closed = 1;
-nodes = (
-(20,630,l),
-(160,762,l),
-(40,762,l),
-(-60,630,l)
-);
+angle = 180;
+pos = (200,586);
+ref = commaaccentcomb;
 }
 );
-width = 0;
+width = 400;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 314;
+width = 600;
 }
 );
+unicode = 699;
 }

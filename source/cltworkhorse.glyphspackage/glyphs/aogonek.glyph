@@ -8,15 +8,15 @@ shapes = (
 ref = a;
 },
 {
-pos = (486,12);
+pos = (504,12);
 ref = ogonekcomb;
 }
 );
-width = 550;
+width = 564;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 572;
+width = 598;
 }
 );
 unicode = 261;

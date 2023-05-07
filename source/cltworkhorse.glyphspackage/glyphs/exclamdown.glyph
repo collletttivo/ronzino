@@ -1,5 +1,4 @@
 {
-color = 5;
 glyphname = exclamdown;
 layers = (
 {
@@ -7,26 +6,26 @@ layerId = m01;
 shapes = (
 {
 angle = 180;
-pos = (244,548);
+pos = (262,573);
 ref = exclam;
 }
 );
-width = 244;
+width = 262;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
 angle = 180;
-pos = (252,548);
+pos = (264,573);
 ref = exclam;
 }
 );
-width = 252;
+width = 264;
 }
 );
-metricLeft = exclam;
-metricRight = exclam;
+metricLeft = l;
+metricRight = l;
 unicode = 161;
 userData = {
 KernOnSpecialSpacing = {

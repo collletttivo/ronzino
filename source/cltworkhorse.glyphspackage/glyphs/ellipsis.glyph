@@ -1,40 +1,39 @@
 {
-color = 5;
 glyphname = ellipsis;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (200,0);
+pos = (209,0);
 ref = period;
 },
 {
 ref = period;
 },
 {
-pos = (400,0);
+pos = (418,0);
 ref = period;
 }
 );
-width = 656;
+width = 640;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
-pos = (220,0);
+pos = (230,0);
 ref = period;
 },
 {
 ref = period;
 },
 {
-pos = (440,0);
+pos = (460,0);
 ref = period;
 }
 );
-width = 676;
+width = 707;
 }
 );
 metricLeft = period;
