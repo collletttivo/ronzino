@@ -160,7 +160,13 @@ tag = ordn;
 },
 {
 automatic = 1;
-code = "sub dieresiscomb by dieresiscomb.case;
+code = "sub parenleft by parenleft.case;
+sub parenright by parenright.case;
+sub braceleft by braceleft.case;
+sub braceright by braceright.case;
+sub bracketleft by bracketleft.case;
+sub bracketright by bracketright.case;
+sub dieresiscomb by dieresiscomb.case;
 sub dotaccentcomb by dotaccentcomb.case;
 sub gravecomb by gravecomb.case;
 sub acutecomb by acutecomb.case;
@@ -195,7 +201,7 @@ tag = ss01;
 fontMaster = (
 {
 axesValues = (
-88,
+92,
 0
 );
 customParameters = (
@@ -221,15 +227,15 @@ value = -234;
 },
 {
 name = typoLineGap;
-value = 0;
+value = 202;
 },
 {
 name = winAscent;
-value = 0;
+value = 954;
 },
 {
 name = winDescent;
-value = 0;
+value = 248;
 },
 {
 name = hheaAscender;
@@ -281,7 +287,7 @@ KernOnModels = (
 },
 {
 axesValues = (
-136,
+140,
 0
 );
 customParameters = (
@@ -359,7 +365,7 @@ name = Bold;
 instances = (
 {
 axesValues = (
-88,
+92,
 0
 );
 instanceInterpolations = {
@@ -369,7 +375,7 @@ name = Regular;
 },
 {
 axesValues = (
-136,
+140,
 0
 );
 exports = 0;
@@ -490,7 +496,7 @@ nV = "92";
 nd = "80";
 oH = "76";
 oV = "96";
-tH = 70tt;
+tH = "72";
 };
 };
 KernOnVersion = "1.21";
