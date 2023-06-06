@@ -1,0 +1,40 @@
+{
+glyphname = parenleft.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(256,-18,l),
+(186,82,o),
+(148,218,o),
+(148,366,cs),
+(148,515,o),
+(186,651,o),
+(254,750,c),
+(186,780,l),
+(97,664,o),
+(44,510,o),
+(44,366,cs),
+(44,224,o),
+(97,70,o),
+(188,-48,c)
+);
+}
+);
+width = 256;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 486;
+}
+);
+metricLeft = O;
+userData = {
+KernOnSpecialSpacing = {
+R = parenthesis;
+};
+};
+}

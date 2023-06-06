@@ -1,0 +1,37 @@
+{
+glyphname = bracketleft.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(324,-34,l),
+(324,46,l),
+(180,46,l),
+(188,38,l),
+(188,695,l),
+(180,687,l),
+(324,687,l),
+(324,766,l),
+(88,766,l),
+(88,-34,l)
+);
+}
+);
+width = 348;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 561;
+}
+);
+metricLeft = H;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = parenthesis;
+};
+};
+}

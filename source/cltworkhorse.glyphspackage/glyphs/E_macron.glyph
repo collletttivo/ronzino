@@ -8,15 +8,15 @@ shapes = (
 ref = E;
 },
 {
-pos = (332,152);
+pos = (187,160);
 ref = macroncomb.case;
 }
 );
-width = 600;
+width = 618;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 600;
+width = 628;
 }
 );
 unicode = 274;

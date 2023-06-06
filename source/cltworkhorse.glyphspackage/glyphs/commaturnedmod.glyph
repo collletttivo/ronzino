@@ -1,0 +1,27 @@
+{
+glyphname = commaturnedmod;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (200,572);
+}
+);
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (200,586);
+ref = commaaccentcomb;
+}
+);
+width = 400;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 600;
+}
+);
+unicode = 699;
+}

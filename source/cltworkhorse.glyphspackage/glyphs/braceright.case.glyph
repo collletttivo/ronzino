@@ -1,0 +1,28 @@
+{
+color = 3;
+glyphname = braceright.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (290,0);
+ref = braceleft.case;
+scale = (-1,1);
+}
+);
+width = 290;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 460;
+}
+);
+metricLeft = "=|braceleft.case";
+metricRight = "=|braceleft.case";
+userData = {
+KernOnSpecialSpacing = {
+L = parenthesis;
+};
+};
+}

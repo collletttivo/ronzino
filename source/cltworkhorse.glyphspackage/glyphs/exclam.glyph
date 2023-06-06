@@ -1,5 +1,4 @@
 {
-color = 5;
 glyphname = exclam;
 layers = (
 {
@@ -8,20 +7,20 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(153,196,l),
-(174,556,l),
-(174,700,l),
-(70,700,l),
-(70,556,l),
-(89,196,l)
+(165,205,l),
+(185,582,l),
+(185,732,l),
+(77,732,l),
+(77,582,l),
+(97,205,l)
 );
 },
 {
-pos = (-6,0);
+pos = (20,0);
 ref = period;
 }
 );
-width = 244;
+width = 262;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -29,23 +28,24 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(168,216,l),
-(200,560,l),
-(200,700,l),
-(52,700,l),
-(52,560,l),
-(80,216,l)
+(190,226,l),
+(223,586,l),
+(223,732,l),
+(68,732,l),
+(68,586,l),
+(98,226,l)
 );
 },
 {
-pos = (8,0);
+pos = (22,0);
 ref = period;
 }
 );
-width = 252;
+width = 291;
 }
 );
-metricRight = "=|";
+metricLeft = l;
+metricRight = l;
 unicode = 33;
 userData = {
 KernOnSpecialSpacing = {

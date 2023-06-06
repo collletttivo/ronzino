@@ -8,15 +8,15 @@ shapes = (
 ref = c;
 },
 {
-pos = (280,0);
+pos = (164,0);
 ref = cedillacomb;
 }
 );
-width = 544;
+width = 560;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 574;
+width = 600;
 }
 );
 unicode = 231;

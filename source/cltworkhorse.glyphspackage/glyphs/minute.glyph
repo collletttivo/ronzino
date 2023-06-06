@@ -3,11 +3,22 @@ glyphname = minute;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(134,478,l),
+(252,766,l),
+(144,766,l),
+(64,478,l)
+);
+}
+);
+width = 272;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 600;
+width = 628;
 }
 );
 unicode = 8242;

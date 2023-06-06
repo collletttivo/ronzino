@@ -8,15 +8,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (368,152);
+pos = (268,160);
 ref = hungarumlautcomb.case;
 }
 );
-width = 736;
+width = 768;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 672;
+width = 703;
 }
 );
 unicode = 336;

@@ -1,5 +1,4 @@
 {
-color = 8;
 glyphname = apple;
 layers = (
 {
@@ -11,19 +10,19 @@ ref = C;
 },
 {
 alignment = -1;
-pos = (636,0);
+pos = (684,0);
 ref = l;
 },
 {
-pos = (808,0);
+pos = (900,0);
 ref = t;
 }
 );
-width = 1128;
+width = 1232;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 860;
+width = 942;
 }
 );
 metricLeft = O;

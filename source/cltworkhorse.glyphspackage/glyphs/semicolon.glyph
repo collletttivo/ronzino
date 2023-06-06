@@ -1,34 +1,33 @@
 {
-color = 5;
 glyphname = semicolon;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (-20,0);
+pos = (14,0);
 ref = comma;
 },
 {
-pos = (-24,380);
+pos = (10,397);
 ref = period;
 }
 );
-width = 204;
+width = 248;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
-pos = (18,0);
+pos = (19,0);
 ref = comma;
 },
 {
-pos = (14,380);
+pos = (15,397);
 ref = period;
 }
 );
-width = 246;
+width = 270;
 }
 );
 metricRight = colon;

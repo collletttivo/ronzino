@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = questiondown;
 layers = (
 {
@@ -7,15 +6,15 @@ layerId = m01;
 shapes = (
 {
 angle = 180;
-pos = (467,548);
+pos = (460,572);
 ref = question;
 }
 );
-width = 421;
+width = 456;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 550;
+width = 575;
 }
 );
 unicode = 191;

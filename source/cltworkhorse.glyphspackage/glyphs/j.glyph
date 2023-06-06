@@ -8,26 +8,24 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (120,0);
+pos = (75,0);
 ref = dotaccentcomb;
 }
 );
-width = 236;
+width = 240;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
-alignment = -1;
 ref = jdotless;
 },
 {
-alignment = -1;
-pos = (-24,0);
+pos = (18,2);
 ref = dotaccentcomb;
 }
 );
-width = 250;
+width = 268;
 }
 );
 note = "Controlla curva";

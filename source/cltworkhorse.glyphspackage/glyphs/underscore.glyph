@@ -7,20 +7,21 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(573,-191,l),
-(573,-121,l),
-(73,-121,l),
-(73,-191,l)
+(558,-202,l),
+(558,-128,l),
+(34,-128,l),
+(34,-202,l)
 );
 }
 );
-width = 646;
+width = 592;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 550;
+width = 575;
 }
 );
+metricRight = "=|";
 unicode = 95;
 userData = {
 KernOnSpecialSpacing = {

@@ -8,11 +8,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (284,0);
+pos = (164,0);
 ref = brevecomb;
 }
 );
-width = 564;
+width = 580;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -24,7 +24,7 @@ ref = e;
 ref = brevecomb;
 }
 );
-width = 576;
+width = 600;
 }
 );
 unicode = 277;

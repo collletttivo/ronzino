@@ -3,12 +3,39 @@ glyphname = kgreenlandic;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(162,0,l),
+(162,220,l),
+(154,204,l),
+(536,572,l),
+(420,572,l),
+(154,314,l),
+(162,314,l),
+(162,572,l),
+(70,572,l),
+(70,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(560,0,l),
+(300,380,l),
+(240,320,l),
+(449,0,l)
+);
+}
+);
+width = 556;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 600;
+width = 686;
 }
 );
+metricLeft = idotless;
 unicode = 312;
 }

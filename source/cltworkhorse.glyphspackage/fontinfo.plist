@@ -29,6 +29,14 @@ value = (
 );
 },
 {
+name = unicodeRanges;
+value = (
+0,
+1,
+2
+);
+},
+{
 name = "Write lastChange";
 value = 0;
 },
@@ -66,6 +74,8 @@ feature frac;
 feature ordn;
 feature case;
 feature ss01;
+feature lnum;
+feature onum;
 ";
 tag = aalt;
 },
@@ -152,7 +162,43 @@ tag = ordn;
 },
 {
 automatic = 1;
-code = "sub dieresiscomb by dieresiscomb.case;
+code = "sub zero.osf by zero;
+sub one.osf by one;
+sub two.osf by two;
+sub three.osf by three;
+sub four.osf by four;
+sub five.osf by five;
+sub six.osf by six;
+sub seven.osf by seven;
+sub eight.osf by eight;
+sub nine.osf by nine;
+";
+tag = lnum;
+},
+{
+automatic = 1;
+code = "sub zero by zero.osf;
+sub one by one.osf;
+sub two by two.osf;
+sub three by three.osf;
+sub four by four.osf;
+sub five by five.osf;
+sub six by six.osf;
+sub seven by seven.osf;
+sub eight by eight.osf;
+sub nine by nine.osf;
+";
+tag = onum;
+},
+{
+automatic = 1;
+code = "sub parenleft by parenleft.case;
+sub parenright by parenright.case;
+sub braceleft by braceleft.case;
+sub braceright by braceright.case;
+sub bracketleft by bracketleft.case;
+sub bracketright by bracketright.case;
+sub dieresiscomb by dieresiscomb.case;
 sub dotaccentcomb by dotaccentcomb.case;
 sub gravecomb by gravecomb.case;
 sub acutecomb by acutecomb.case;
@@ -163,6 +209,16 @@ sub brevecomb by brevecomb.case;
 sub ringcomb by ringcomb.case;
 sub tildecomb by tildecomb.case;
 sub macroncomb by macroncomb.case;
+sub zero.osf by zero;
+sub one.osf by one;
+sub two.osf by two;
+sub three.osf by three;
+sub four.osf by four;
+sub five.osf by five;
+sub six.osf by six;
+sub seven.osf by seven;
+sub eight.osf by eight;
+sub nine.osf by nine;
 ";
 tag = case;
 },
@@ -187,80 +243,84 @@ tag = ss01;
 fontMaster = (
 {
 axesValues = (
-88,
+92,
 0
 );
 customParameters = (
-{
-name = hheaAscender;
-value = 898;
-},
-{
-name = hheaDescender;
-value = -244;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = typoAscender;
-value = 898;
-},
-{
-name = typoDescender;
-value = -244;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 898;
-},
-{
-name = winDescent;
-value = 244;
-},
 {
 name = paramArea;
 value = "400";
 },
 {
 name = paramDepth;
-value = "20";
+value = "16";
 },
 {
 name = paramOver;
 value = "0";
+},
+{
+name = typoAscender;
+value = 766;
+},
+{
+name = typoDescender;
+value = -234;
+},
+{
+name = typoLineGap;
+value = 202;
+},
+{
+name = winAscent;
+value = 954;
+},
+{
+name = winDescent;
+value = 248;
+},
+{
+name = hheaAscender;
+value = 766;
+},
+{
+name = hheaDescender;
+value = -234;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = "Master Icon Glyph Name";
+value = a;
 }
 );
 id = m01;
 metricValues = (
 {
-over = 12;
+over = 14;
+pos = 766;
+},
+{
+over = 14;
 pos = 732;
 },
 {
-over = 12;
-pos = 700;
+over = 14;
+pos = 572;
 },
 {
-over = 12;
-pos = 548;
+over = -14;
 },
 {
-over = -12;
-},
-{
-over = -12;
-pos = -224;
+over = -14;
+pos = -234;
 }
 );
 name = Regular;
 userData = {
-GSCornerRadius = 20;
+GSCornerRadius = 40;
 GSOffsetHorizontal = 10;
 GSOffsetVertical = 5;
 KernOnModels = (
@@ -273,29 +333,29 @@ KernOnModels = (
 },
 {
 axesValues = (
-136,
+140,
 0
 );
 customParameters = (
 {
-name = hheaAscender;
-value = 898;
+name = paramArea;
+value = "380";
 },
 {
-name = hheaDescender;
-value = -244;
+name = paramDepth;
+value = "16";
 },
 {
-name = hheaLineGap;
-value = 0;
+name = paramOver;
+value = "0";
 },
 {
 name = typoAscender;
-value = 898;
+value = 766;
 },
 {
 name = typoDescender;
-value = -244;
+value = -234;
 },
 {
 name = typoLineGap;
@@ -303,46 +363,50 @@ value = 0;
 },
 {
 name = winAscent;
-value = 898;
+value = 0;
 },
 {
 name = winDescent;
-value = 244;
+value = 0;
 },
 {
-name = paramArea;
-value = "360";
+name = hheaAscender;
+value = 766;
 },
 {
-name = paramDepth;
-value = "20";
+name = hheaDescender;
+value = -234;
 },
 {
-name = paramOver;
-value = "0";
+name = hheaLineGap;
+value = 0;
+},
+{
+name = "Master Icon Glyph Name";
+value = a;
 }
 );
 iconName = Bold;
 id = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 metricValues = (
 {
-over = 12;
-pos = 748;
+over = 16;
+pos = 766;
 },
 {
-over = 12;
-pos = 712;
+over = 16;
+pos = 745;
 },
 {
-over = 14;
-pos = 560;
+over = 16;
+pos = 586;
 },
 {
-over = -14;
+over = -16;
 },
 {
-over = -14;
-pos = -240;
+over = -16;
+pos = -234;
 }
 );
 name = Bold;
@@ -351,7 +415,7 @@ name = Bold;
 instances = (
 {
 axesValues = (
-88,
+92,
 0
 );
 instanceInterpolations = {
@@ -361,10 +425,9 @@ name = Regular;
 },
 {
 axesValues = (
-136,
+140,
 0
 );
-exports = 0;
 instanceInterpolations = {
 "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81" = 1;
 };
@@ -373,6 +436,24 @@ name = Bold;
 weightClass = 700;
 }
 );
+kerningLTR = {
+m01 = {
+r = {
+t = 32;
+w = 22;
+};
+seven = {
+four = -90;
+seven = 30;
+};
+};
+"E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81" = {
+r = {
+t = 30;
+w = 18;
+};
+};
+};
 metrics = (
 {
 type = ascender;
@@ -415,24 +496,28 @@ value = Collletttivo;
 },
 {
 key = manufacturerURL;
-value = "https://collletttivo.it/";
+value = "https://collletttivo.it";
 },
 {
 key = licenses;
 values = (
 {
 language = dflt;
-value = "Internal use only";
+value = "SIL OpenFont License";
 }
 );
 },
 {
 key = designerURL;
-value = "https://www.luigigorlero.com/";
+value = "https://www.luigigorlero.com";
 },
 {
 key = vendorID;
 value = CLT;
+},
+{
+key = licenseURL;
+value = "https://scripts.sil.org/OFL_web";
 }
 );
 unitsPerEm = 1000;
@@ -463,22 +548,22 @@ tH = "128";
 HH = "112";
 HV = "146";
 OV = "154";
-nV = "136";
-nd = "92";
-oH = "102";
-oV = "144";
-tH = "98";
+nV = "140";
+nd = "100";
+oH = "98";
+oV = "148";
+tH = "86";
 };
 m01 = {
-HH = "76";
-HV = "96";
-OH = "76";
-OV = "102";
-nV = "88";
-nd = "68";
-oH = "72";
-oV = "92";
-tH = 70tt;
+HH = "80";
+HV = "100";
+OH = "80";
+OV = "108";
+nV = "92";
+nd = "80";
+oH = "76";
+oV = "96";
+tH = "72";
 };
 };
 KernOnVersion = "1.21";

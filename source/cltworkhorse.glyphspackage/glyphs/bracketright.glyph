@@ -1,25 +1,24 @@
 {
-color = 4;
 glyphname = bracketright;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (324,0);
+pos = (316,0);
 ref = bracketleft;
 scale = (-1,1);
 }
 );
-width = 328;
+width = 316;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 462;
+width = 547;
 }
 );
 metricLeft = "=|bracketleft";
-metricRight = H;
+metricRight = l;
 unicode = 93;
 userData = {
 KernOnSpecialSpacing = {

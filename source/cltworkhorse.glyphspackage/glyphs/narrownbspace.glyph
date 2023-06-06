@@ -3,11 +3,11 @@ glyphname = narrownbspace;
 layers = (
 {
 layerId = m01;
-width = 120;
+width = 116;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 400;
+width = 118;
 }
 );
 metricWidth = "=space/2";

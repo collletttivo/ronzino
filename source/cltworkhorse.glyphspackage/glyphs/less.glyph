@@ -5,20 +5,20 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (628,0);
+pos = (600,0);
 ref = greater;
 scale = (-1,1);
 }
 );
-width = 628;
+width = 600;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 590;
+width = 617;
 }
 );
-metricLeft = plus;
-metricRight = equal;
+metricLeft = "=|greater";
+metricRight = "=|greater";
 unicode = 60;
 userData = {
 KernOnSpecialSpacing = {

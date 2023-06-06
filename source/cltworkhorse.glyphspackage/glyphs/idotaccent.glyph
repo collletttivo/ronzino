@@ -8,7 +8,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (116,0);
+pos = (66,0);
 ref = dotaccentcomb;
 }
 );
@@ -16,7 +16,16 @@ width = 232;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 410;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (6,2);
+ref = dotaccentcomb;
+}
+);
+width = 256;
 }
 );
 }

@@ -5,24 +5,24 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (10,0);
-ref = D;
-},
-{
 closed = 1;
 nodes = (
-(362,354,l),
-(362,422,l),
-(42,422,l),
-(42,354,l)
+(377,370,l),
+(377,442,l),
+(42,442,l),
+(42,370,l)
 );
+},
+{
+pos = (8,0);
+ref = D;
 }
 );
-width = 728;
+width = 750;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 654;
+width = 716;
 }
 );
 metricRight = O;

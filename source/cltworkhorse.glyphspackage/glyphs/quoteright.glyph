@@ -1,20 +1,19 @@
 {
-color = 5;
 glyphname = quoteright;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (6,612);
+pos = (-10,640);
 ref = comma;
 }
 );
-width = 250;
+width = 194;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 404;
+width = 423;
 }
 );
 unicode = 8217;

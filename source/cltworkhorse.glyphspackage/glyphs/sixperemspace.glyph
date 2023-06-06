@@ -3,11 +3,11 @@ glyphname = sixperemspace;
 layers = (
 {
 layerId = m01;
-width = 167;
+width = 174;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 384;
+width = 140;
 }
 );
 metricWidth = "=emspace/6";

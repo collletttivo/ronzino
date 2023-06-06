@@ -8,15 +8,24 @@ shapes = (
 ref = a;
 },
 {
-pos = (274,0);
+pos = (145,0);
 ref = gravecomb;
 }
 );
-width = 550;
+width = 564;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 572;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (172,1);
+ref = gravecomb;
+}
+);
+width = 584;
 }
 );
 unicode = 224;

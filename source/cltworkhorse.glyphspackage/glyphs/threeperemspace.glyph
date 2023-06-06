@@ -3,11 +3,11 @@ glyphname = threeperemspace;
 layers = (
 {
 layerId = m01;
-width = 333;
+width = 349;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 466;
+width = 279;
 }
 );
 metricWidth = "=emspace/3";
