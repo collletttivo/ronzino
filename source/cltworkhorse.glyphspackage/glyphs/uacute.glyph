@@ -8,7 +8,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (296,0);
+pos = (240,0);
 ref = acutecomb;
 }
 );
@@ -16,7 +16,16 @@ width = 602;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 613;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (170,14);
+ref = acutecomb;
+}
+);
+width = 628;
 }
 );
 unicode = 250;

@@ -8,7 +8,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (116,0);
+pos = (-12,0);
 ref = brevecomb;
 }
 );
@@ -24,7 +24,7 @@ ref = idotless;
 ref = brevecomb;
 }
 );
-width = 268;
+width = 256;
 }
 );
 unicode = 301;

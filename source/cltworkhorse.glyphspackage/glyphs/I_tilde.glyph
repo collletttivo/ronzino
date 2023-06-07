@@ -8,7 +8,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (138,160);
+pos = (-42,160);
 ref = tildecomb.case;
 }
 );
@@ -24,7 +24,7 @@ ref = I;
 ref = tildecomb.case;
 }
 );
-width = 317;
+width = 309;
 }
 );
 unicode = 296;

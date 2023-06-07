@@ -8,7 +8,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (384,160);
+pos = (204,160);
 ref = tildecomb.case;
 }
 );

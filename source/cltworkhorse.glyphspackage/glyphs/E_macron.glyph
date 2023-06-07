@@ -8,7 +8,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (339,160);
+pos = (187,160);
 ref = macroncomb.case;
 }
 );

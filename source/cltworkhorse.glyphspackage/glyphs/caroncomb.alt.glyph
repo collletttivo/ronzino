@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = _topright;
-pos = (0,572);
+pos = (-62,572);
 }
 );
 layerId = m01;
@@ -13,18 +13,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(124,596,l),
-(150,780,l),
-(64,780,l),
-(62,596,l)
+(62,596,l),
+(88,780,l),
+(2,780,l),
+(0,596,l)
 );
 }
 );
-width = 0;
+width = 88;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 314;
+width = 414;
 }
 );
 userData = {

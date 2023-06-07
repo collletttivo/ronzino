@@ -34,15 +34,15 @@ width = 232;
 anchors = (
 {
 name = bottom;
-pos = (134,0);
+pos = (128,0);
 },
 {
 name = ogonek;
-pos = (192,12);
+pos = (186,12);
 },
 {
 name = top;
-pos = (134,586);
+pos = (128,586);
 }
 );
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -50,14 +50,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(204,0,l),
-(204,586,l),
-(64,586,l),
-(64,0,l)
+(198,0,l),
+(198,586,l),
+(58,586,l),
+(58,0,l)
 );
 }
 );
-width = 268;
+width = 256;
 }
 );
 metricRight = "=|";

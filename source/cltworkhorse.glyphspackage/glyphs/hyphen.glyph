@@ -18,7 +18,18 @@ width = 398;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 519;
+shapes = (
+{
+closed = 1;
+nodes = (
+(376,235,l),
+(376,355,l),
+(56,355,l),
+(56,235,l)
+);
+}
+);
+width = 432;
 }
 );
 metricRight = "=|";

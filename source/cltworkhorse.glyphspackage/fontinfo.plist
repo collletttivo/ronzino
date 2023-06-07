@@ -1,5 +1,5 @@
 {
-.appVersion = "3151";
+.appVersion = "3148";
 .formatVersion = 3;
 axes = (
 {
@@ -74,6 +74,8 @@ feature frac;
 feature ordn;
 feature case;
 feature ss01;
+feature lnum;
+feature onum;
 ";
 tag = aalt;
 },
@@ -160,6 +162,36 @@ tag = ordn;
 },
 {
 automatic = 1;
+code = "sub zero.osf by zero;
+sub one.osf by one;
+sub two.osf by two;
+sub three.osf by three;
+sub four.osf by four;
+sub five.osf by five;
+sub six.osf by six;
+sub seven.osf by seven;
+sub eight.osf by eight;
+sub nine.osf by nine;
+";
+tag = lnum;
+},
+{
+automatic = 1;
+code = "sub zero by zero.osf;
+sub one by one.osf;
+sub two by two.osf;
+sub three by three.osf;
+sub four by four.osf;
+sub five by five.osf;
+sub six by six.osf;
+sub seven by seven.osf;
+sub eight by eight.osf;
+sub nine by nine.osf;
+";
+tag = onum;
+},
+{
+automatic = 1;
 code = "sub parenleft by parenleft.case;
 sub parenright by parenright.case;
 sub braceleft by braceleft.case;
@@ -177,6 +209,16 @@ sub brevecomb by brevecomb.case;
 sub ringcomb by ringcomb.case;
 sub tildecomb by tildecomb.case;
 sub macroncomb by macroncomb.case;
+sub zero.osf by zero;
+sub one.osf by one;
+sub two.osf by two;
+sub three.osf by three;
+sub four.osf by four;
+sub five.osf by five;
+sub six.osf by six;
+sub seven.osf by seven;
+sub eight.osf by eight;
+sub nine.osf by nine;
 ";
 tag = case;
 },
@@ -248,6 +290,10 @@ value = -234;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = "Master Icon Glyph Name";
+value = a;
 }
 );
 id = m01;
@@ -334,6 +380,10 @@ value = -234;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = "Master Icon Glyph Name";
+value = a;
 }
 );
 iconName = Bold;
@@ -345,7 +395,7 @@ pos = 766;
 },
 {
 over = 16;
-pos = 732;
+pos = 745;
 },
 {
 over = 16;
@@ -378,7 +428,6 @@ axesValues = (
 140,
 0
 );
-exports = 0;
 instanceInterpolations = {
 "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81" = 1;
 };
@@ -387,6 +436,24 @@ name = Bold;
 weightClass = 700;
 }
 );
+kerningLTR = {
+m01 = {
+r = {
+t = 32;
+w = 22;
+};
+seven = {
+four = -90;
+seven = 30;
+};
+};
+"E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81" = {
+r = {
+t = 30;
+w = 18;
+};
+};
+};
 metrics = (
 {
 type = ascender;

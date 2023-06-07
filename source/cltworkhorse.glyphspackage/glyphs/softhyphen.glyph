@@ -17,7 +17,7 @@ shapes = (
 ref = hyphen;
 }
 );
-width = 519;
+width = 432;
 }
 );
 metricLeft = hyphen;

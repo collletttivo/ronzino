@@ -8,7 +8,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (380,160);
+pos = (250,160);
 ref = brevecomb.case;
 }
 );

@@ -26,10 +26,11 @@ shapes = (
 ref = L;
 },
 {
+pos = (36,0);
 ref = periodcentered;
 }
 );
-width = 575;
+width = 571;
 }
 );
 metricLeft = H;

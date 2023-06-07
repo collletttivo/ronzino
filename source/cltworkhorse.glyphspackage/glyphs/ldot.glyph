@@ -26,6 +26,7 @@ shapes = (
 ref = l;
 },
 {
+pos = (22,0);
 ref = periodcentered;
 }
 );
