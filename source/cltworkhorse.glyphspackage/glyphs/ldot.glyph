@@ -23,14 +23,15 @@ width = 324;
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
+alignment = -1;
 ref = l;
 },
 {
-pos = (22,0);
+pos = (229,0);
 ref = periodcentered;
 }
 );
-width = 268;
+width = 439;
 }
 );
 metricLeft = l;

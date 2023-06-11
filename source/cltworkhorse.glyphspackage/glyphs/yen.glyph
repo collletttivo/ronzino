@@ -3,7 +3,30 @@ glyphname = yen;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = Y;
+},
+{
+closed = 1;
+nodes = (
+(549,295,l),
+(549,365,l),
+(86,365,l),
+(86,295,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(549,175,l),
+(549,245,l),
+(86,245,l),
+(86,175,l)
+);
+}
+);
+width = 620;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";

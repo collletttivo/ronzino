@@ -3,13 +3,30 @@ glyphname = dollar;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+alignment = -1;
+ref = S;
+},
+{
+closed = 1;
+nodes = (
+(363,-130,l),
+(363,860,l),
+(283,860,l),
+(283,-130,l)
+);
+}
+);
+width = 637;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 width = 628;
 }
 );
+metricLeft = S;
+metricRight = S;
 unicode = 36;
 userData = {
 KernOnSpecialSpacing = {

@@ -3,13 +3,39 @@ glyphname = euro;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+pos = (55,0);
+ref = C;
+scale = (0.95,1);
+},
+{
+closed = 1;
+nodes = (
+(473,395,l),
+(473,465,l),
+(10,465,l),
+(10,395,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(473,275,l),
+(473,345,l),
+(10,345,l),
+(10,275,l)
+);
+}
+);
+width = 737;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 width = 628;
 }
 );
+metricRight = C;
 unicode = 8364;
 userData = {
 KernOnSpecialSpacing = {
