@@ -5,21 +5,34 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (-56,0);
-ref = emdash;
+closed = 1;
+nodes = (
+(944,246,l),
+(944,324,l),
+(56,324,l),
+(56,246,l)
+);
 }
 );
-width = 996;
+width = 1000;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
-ref = emdash;
+closed = 1;
+nodes = (
+(944,240,l),
+(944,352,l),
+(56,352,l),
+(56,240,l)
+);
 }
 );
-width = 812;
+width = 1000;
 }
 );
+metricLeft = hyphen;
+metricRight = hyphen;
 unicode = 8213;
 }

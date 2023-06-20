@@ -1,0 +1,29 @@
+{
+glyphname = emdash.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = -90;
+pos = (215,766);
+ref = emdash;
+}
+);
+width = 1000;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+angle = -90;
+pos = (204,766);
+ref = emdash;
+}
+);
+width = 1000;
+}
+);
+metricWidth = emdash;
+unicode = 65073;
+}

@@ -7,22 +7,32 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1052,246,l),
-(1052,324,l),
-(56,324,l),
-(56,246,l)
+(1000,246,l),
+(1000,324,l),
+(0,324,l),
+(0,246,l)
 );
 }
 );
-width = 1108;
+width = 1000;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 924;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1000,240,l),
+(1000,352,l),
+(0,352,l),
+(0,240,l)
+);
 }
 );
-metricLeft = hyphen;
-metricRight = hyphen;
+width = 1000;
+}
+);
+metricRight = "=|";
 unicode = 8212;
 userData = {
 KernOnSpecialSpacing = {
