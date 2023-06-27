@@ -23,8 +23,25 @@ nodes = (
 width = 292;
 },
 {
+anchors = (
+{
+name = _top;
+pos = (146,572);
+}
+);
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 414;
+shapes = (
+{
+closed = 1;
+nodes = (
+(292,664,l),
+(292,752,l),
+(0,752,l),
+(0,664,l)
+);
+}
+);
+width = 292;
 }
 );
 unicode = 772;

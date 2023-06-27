@@ -16,7 +16,16 @@ width = 520;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 584;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (58,0);
+ref = dieresiscomb;
+}
+);
+width = 534;
 }
 );
 unicode = 255;

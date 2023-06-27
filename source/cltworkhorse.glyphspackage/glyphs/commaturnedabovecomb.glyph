@@ -19,8 +19,33 @@ ref = commaaccentcomb;
 width = 158;
 },
 {
+anchors = (
+{
+name = _top;
+pos = (109,572);
+}
+);
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 414;
+shapes = (
+{
+closed = 1;
+nodes = (
+(47,886,o),
+(0,830,o),
+(0,758,cs),
+(0,639,l),
+(129,639,l),
+(129,769,l),
+(64,769,l),
+(64,773,ls),
+(64,811,o),
+(91,839,o),
+(141,849,c),
+(122,903,l)
+);
+}
+);
+width = 141;
 }
 );
 unicode = 786;

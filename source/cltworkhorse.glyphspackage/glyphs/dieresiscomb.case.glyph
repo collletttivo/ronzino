@@ -32,8 +32,34 @@ nodes = (
 width = 272;
 },
 {
+anchors = (
+{
+name = _top;
+pos = (206,586);
+}
+);
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 314;
+shapes = (
+{
+closed = 1;
+nodes = (
+(376,665,l),
+(376,799,l),
+(236,799,l),
+(236,665,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(176,665,l),
+(176,799,l),
+(36,799,l),
+(36,665,l)
+);
+}
+);
+width = 412;
 }
 );
 }

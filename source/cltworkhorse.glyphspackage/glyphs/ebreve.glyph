@@ -21,6 +21,7 @@ shapes = (
 ref = e;
 },
 {
+pos = (143,14);
 ref = brevecomb;
 }
 );

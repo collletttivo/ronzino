@@ -1,0 +1,44 @@
+{
+glyphname = IJ.ss01;
+layers = (
+{
+anchors = (
+{
+name = ogonek;
+pos = (745.33,718);
+},
+{
+name = top;
+pos = (525.154,680);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (210,413);
+ref = I;
+scale = (1,0.4358);
+},
+{
+pos = (276,0);
+ref = J;
+}
+);
+width = 832;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (309,0);
+ref = J;
+}
+);
+width = 903;
+}
+);
+}

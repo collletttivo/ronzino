@@ -21,6 +21,7 @@ shapes = (
 ref = G;
 },
 {
+pos = (261,148);
 ref = dotaccentcomb.case;
 }
 );

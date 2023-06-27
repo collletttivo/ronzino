@@ -21,6 +21,7 @@ shapes = (
 ref = E;
 },
 {
+pos = (184,160);
 ref = brevecomb.case;
 }
 );

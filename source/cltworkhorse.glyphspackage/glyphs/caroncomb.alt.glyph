@@ -23,8 +23,25 @@ nodes = (
 width = 88;
 },
 {
+anchors = (
+{
+name = _topright;
+pos = (-62,572);
+}
+);
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 414;
+shapes = (
+{
+closed = 1;
+nodes = (
+(82,599,l),
+(128,833,l),
+(2,833,l),
+(0,599,l)
+);
+}
+);
+width = 88;
 }
 );
 userData = {

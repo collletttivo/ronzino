@@ -21,6 +21,7 @@ shapes = (
 ref = u;
 },
 {
+pos = (138,14);
 ref = tildecomb;
 }
 );

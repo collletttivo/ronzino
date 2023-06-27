@@ -16,7 +16,16 @@ width = 472;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 562;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (47,14);
+ref = caroncomb;
+}
+);
+width = 502;
 }
 );
 unicode = 382;
