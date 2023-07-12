@@ -3,11 +3,11 @@ glyphname = space;
 layers = (
 {
 layerId = m01;
-width = 250;
+width = 230;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 230;
+width = 215;
 }
 );
 unicode = 32;

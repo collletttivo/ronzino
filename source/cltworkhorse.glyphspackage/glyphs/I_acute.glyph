@@ -21,7 +21,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (15,160);
+pos = (15,146);
 ref = acutecomb.case;
 }
 );

@@ -16,7 +16,16 @@ width = 551;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 650;
+shapes = (
+{
+ref = f;
+},
+{
+pos = (366,0);
+ref = i;
+}
+);
+width = 622;
 }
 );
 metricLeft = f;

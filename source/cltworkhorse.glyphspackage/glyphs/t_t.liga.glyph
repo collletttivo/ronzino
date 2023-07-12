@@ -25,7 +25,25 @@ width = 681;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 654;
+shapes = (
+{
+closed = 1;
+nodes = (
+(463,496,l),
+(463,586,l),
+(317,586,l),
+(317,496,l)
+);
+},
+{
+ref = t;
+},
+{
+pos = (392,0);
+ref = t;
+}
+);
+width = 782;
 },
 {
 associatedMasterId = m01;

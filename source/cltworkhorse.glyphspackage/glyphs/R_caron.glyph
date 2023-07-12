@@ -21,7 +21,7 @@ shapes = (
 ref = R;
 },
 {
-pos = (141,160);
+pos = (141,124);
 ref = caroncomb.case;
 }
 );

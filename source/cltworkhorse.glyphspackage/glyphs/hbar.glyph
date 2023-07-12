@@ -22,7 +22,22 @@ width = 605;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 680;
+shapes = (
+{
+pos = (-1,0);
+ref = h;
+},
+{
+closed = 1;
+nodes = (
+(325,634,l),
+(325,724,l),
+(-5,724,l),
+(-5,634,l)
+);
+}
+);
+width = 637;
 }
 );
 metricRight = n;
