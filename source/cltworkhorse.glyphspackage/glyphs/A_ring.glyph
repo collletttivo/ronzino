@@ -21,11 +21,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (190,141);
+pos = (188,141);
 ref = ringcomb.case;
 }
 );
-width = 708;
+width = 706;
 }
 );
 unicode = 197;

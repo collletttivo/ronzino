@@ -444,6 +444,18 @@ name = Regular;
 },
 {
 axesValues = (
+115,
+0
+);
+instanceInterpolations = {
+"E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81" = 0.47917;
+m01 = 0.52083;
+};
+name = Medium;
+weightClass = 500;
+},
+{
+axesValues = (
 140,
 0
 );

@@ -18,11 +18,25 @@ pos = (900,0);
 ref = t;
 }
 );
-width = 1232;
+width = 1245;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 942;
+shapes = (
+{
+ref = C;
+},
+{
+alignment = -1;
+pos = (671,0);
+ref = l;
+},
+{
+pos = (900,0);
+ref = t;
+}
+);
+width = 1290;
 }
 );
 metricLeft = O;

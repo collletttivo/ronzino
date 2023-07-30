@@ -21,11 +21,11 @@ shapes = (
 ref = S;
 },
 {
-pos = (131,0);
+pos = (141,0);
 ref = cedillacomb;
 }
 );
-width = 653;
+width = 667;
 }
 );
 unicode = 350;
