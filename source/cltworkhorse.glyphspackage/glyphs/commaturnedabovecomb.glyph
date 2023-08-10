@@ -5,49 +5,38 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (110,572);
+pos = (132,572);
 }
 );
 layerId = m01;
 shapes = (
 {
 angle = 180;
-pos = (158,586);
+pos = (268,586);
 ref = commaaccentcomb;
 }
 );
-width = 208;
+width = 268;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (114,572);
+pos = (140,586);
 }
 );
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
-closed = 1;
-nodes = (
-(97,886,o),
-(50,830,o),
-(50,758,cs),
-(50,639,l),
-(179,639,l),
-(179,769,l),
-(114,769,l),
-(114,773,ls),
-(114,811,o),
-(141,839,o),
-(191,849,c),
-(172,903,l)
-);
+angle = 180;
+pos = (300,598);
+ref = commaaccentcomb;
 }
 );
-width = 241;
+width = 300;
 }
 );
+metricRight = "=|";
 unicode = 786;
 userData = {
 KernOnSpecialSpacing = {

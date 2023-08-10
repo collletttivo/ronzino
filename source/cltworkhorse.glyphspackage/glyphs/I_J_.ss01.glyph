@@ -5,10 +5,13 @@ layers = (
 layerId = m01;
 shapes = (
 {
-alignment = -1;
-pos = (2,413);
-ref = I;
-scale = (1,0.4358);
+closed = 1;
+nodes = (
+(188,413,l),
+(188,732,l),
+(88,732,l),
+(88,413,l)
+);
 },
 {
 pos = (68,0);
@@ -21,17 +24,20 @@ width = 624;
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
-alignment = -1;
-pos = (0,413);
-ref = I;
-scale = (1,0.4358);
+closed = 1;
+nodes = (
+(232,413,l),
+(232,744,l),
+(80,744,l),
+(80,413,l)
+);
 },
 {
-pos = (66,0);
+pos = (62,0);
 ref = J;
 }
 );
-width = 660;
+width = 654;
 }
 );
 metricLeft = I;

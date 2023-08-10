@@ -1,20 +1,16 @@
 {
+color = 3;
 glyphname = Oslash;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-closed = 1;
-nodes = (
-(722,682,l),
-(665,731,l),
-(46,50,l),
-(104,1,l)
-);
+ref = O;
 },
 {
-ref = O;
+pos = (-30,-4);
+ref = slashlongcomb;
 }
 );
 width = 768;
@@ -23,20 +19,14 @@ width = 768;
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
-closed = 1;
-nodes = (
-(731,679,l),
-(651,754,l),
-(32,73,l),
-(113,-2,l)
-);
+ref = O;
 },
 {
-pos = (2,0);
-ref = O;
+pos = (-44,-4);
+ref = slashlongcomb;
 }
 );
-width = 763;
+width = 772;
 }
 );
 metricLeft = O;

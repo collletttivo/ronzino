@@ -10,10 +10,6 @@ pos = (316,0);
 {
 name = top;
 pos = (310,572);
-},
-{
-name = topleft;
-pos = (70,572);
 }
 );
 layerId = m01;
@@ -56,10 +52,6 @@ pos = (330,0);
 {
 name = top;
 pos = (326,586);
-},
-{
-name = topleft;
-pos = (58,586);
 }
 );
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";

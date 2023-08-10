@@ -8,7 +8,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-48,0);
+pos = (-128,0);
 ref = circumflexcomb;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-78,14);
+pos = (-150,0);
 ref = circumflexcomb;
 }
 );

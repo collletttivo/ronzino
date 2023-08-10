@@ -7,10 +7,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(399,345,l),
-(399,450,l),
-(296,450,l),
-(296,345,l)
+(464,348,l),
+(464,456,l),
+(358,456,l),
+(358,348,l)
 );
 },
 {
@@ -23,14 +23,19 @@ width = 560;
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
-ref = L;
+closed = 1;
+nodes = (
+(514,340,l),
+(514,500,l),
+(350,500,l),
+(350,340,l)
+);
 },
 {
-pos = (293,40);
-ref = periodcentered;
+ref = L;
 }
 );
-width = 571;
+width = 572;
 }
 );
 metricLeft = H;

@@ -8,7 +8,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-12,0);
+pos = (-102,0);
 ref = brevecomb;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-33,14);
+pos = (-113,0);
 ref = brevecomb;
 }
 );

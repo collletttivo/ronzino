@@ -5,16 +5,21 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (200,0);
 ref = hungarumlautcomb;
 }
 );
-width = 400;
+width = 472;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 523;
+shapes = (
+{
+ref = hungarumlautcomb;
 }
 );
+width = 542;
+}
+);
+metricRight = "=|";
 unicode = 733;
 }

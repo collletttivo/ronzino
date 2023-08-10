@@ -5,33 +5,38 @@ layers = (
 layerId = m01;
 shapes = (
 {
-ref = l;
-},
-{
 closed = 1;
 nodes = (
-(314,345,l),
-(314,450,l),
-(211,450,l),
-(211,345,l)
+(322,349,l),
+(322,451,l),
+(222,451,l),
+(222,349,l)
 );
+},
+{
+ref = l;
 }
 );
-width = 324;
+width = 332;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
-alignment = -1;
-ref = l;
+closed = 1;
+nodes = (
+(398,322,l),
+(398,462,l),
+(254,462,l),
+(254,322,l)
+);
 },
 {
-pos = (229,0);
-ref = periodcentered;
+alignment = -1;
+ref = l;
 }
 );
-width = 439;
+width = 406;
 }
 );
 metricLeft = l;

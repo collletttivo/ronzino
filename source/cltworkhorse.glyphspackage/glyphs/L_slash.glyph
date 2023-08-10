@@ -1,58 +1,45 @@
 {
+color = 3;
 glyphname = Lslash;
 layers = (
 {
-layerId = m01;
-shapes = (
-{
-closed = 1;
-nodes = (
-(394,452,l),
-(362,514,l),
-(170,408,l),
-(170,328,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(170,332,l),
-(170,412,l),
-(10,326,l),
-(44,264,l)
-);
-},
-{
-pos = (32,0);
-ref = L;
-}
-);
-width = 592;
-},
-{
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 622;
-},
-{
-associatedMasterId = m01;
-layerId = "722DA906-449B-4F22-9EA2-ED9A7A7CDBD4";
-name = "15 apr 23, 20:37";
 shapes = (
+{
+pos = (12,0);
+ref = L;
+},
 {
 closed = 1;
 nodes = (
-(385,456,l),
-(351,519,l),
-(2,326,l),
-(38,264,l)
+(446,382,l),
+(412,490,l),
+(8,360,l),
+(40,254,l)
 );
-},
-{
-pos = (23,0);
-ref = L;
 }
 );
-width = 579;
+width = 584;
+},
+{
+layerId = m01;
+name = Regular;
+shapes = (
+{
+pos = (8,0);
+ref = L;
+},
+{
+closed = 1;
+nodes = (
+(420,390,l),
+(396,462,l),
+(18,336,l),
+(42,266,l)
+);
+}
+);
+width = 568;
 }
 );
 metricRight = L;

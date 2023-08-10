@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (50,572);
+pos = (130,572);
 }
 );
 layerId = m01;
@@ -13,20 +13,20 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(100,662,l),
-(100,764,l),
-(0,764,l),
-(0,662,l)
+(180,662,l),
+(180,764,l),
+(80,764,l),
+(80,662,l)
 );
 }
 );
-width = 100;
+width = 260;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (122,584);
+pos = (152,586);
 }
 );
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -34,16 +34,17 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(195,652,l),
-(195,782,l),
-(51,782,l),
-(51,652,l)
+(224,660,l),
+(224,796,l),
+(80,796,l),
+(80,660,l)
 );
 }
 );
-width = 244;
+width = 304;
 }
 );
+metricRight = "=|";
 unicode = 775;
 userData = {
 KernOnSpecialSpacing = {

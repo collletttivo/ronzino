@@ -5,24 +5,27 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (2,0);
 ref = T;
 },
 {
-closed = 1;
-nodes = (
-(497,364,l),
-(497,436,l),
-(107,436,l),
-(107,364,l)
-);
+pos = (70,34);
+ref = strokeshortcomb;
 }
 );
-width = 604;
+width = 600;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 628;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (46,26);
+ref = strokeshortcomb;
+}
+);
+width = 612;
 }
 );
 metricRight = "=|";

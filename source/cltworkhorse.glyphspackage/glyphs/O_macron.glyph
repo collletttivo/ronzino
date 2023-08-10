@@ -8,7 +8,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (232,160);
+pos = (152,160);
 ref = macroncomb.case;
 }
 );
@@ -21,11 +21,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (234,160);
+pos = (150,158);
 ref = macroncomb.case;
 }
 );
-width = 761;
+width = 772;
 }
 );
 unicode = 332;

@@ -8,7 +8,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (200,160);
+pos = (120,160);
 ref = gravecomb.case;
 }
 );
@@ -21,11 +21,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (252,160);
+pos = (112,158);
 ref = gravecomb.case;
 }
 );
-width = 743;
+width = 742;
 }
 );
 unicode = 217;

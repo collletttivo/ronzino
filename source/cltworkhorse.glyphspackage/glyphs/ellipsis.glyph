@@ -5,35 +5,35 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (209,0);
+pos = (210,0);
 ref = period;
 },
 {
 ref = period;
 },
 {
-pos = (418,0);
+pos = (420,0);
 ref = period;
 }
 );
-width = 640;
+width = 642;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
-pos = (230,0);
+pos = (240,0);
 ref = period;
 },
 {
 ref = period;
 },
 {
-pos = (460,0);
+pos = (480,0);
 ref = period;
 }
 );
-width = 707;
+width = 734;
 }
 );
 metricLeft = period;

@@ -6,7 +6,7 @@ layerId = m01;
 shapes = (
 {
 angle = 180;
-pos = (262,573);
+pos = (262,572);
 ref = exclam;
 }
 );
@@ -17,11 +17,11 @@ layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
 angle = 180;
-pos = (291,573);
+pos = (294,586);
 ref = exclam;
 }
 );
-width = 291;
+width = 294;
 }
 );
 metricLeft = l;

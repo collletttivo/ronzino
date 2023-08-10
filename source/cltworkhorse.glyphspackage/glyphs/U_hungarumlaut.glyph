@@ -8,7 +8,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (250,160);
+pos = (174,160);
 ref = hungarumlautcomb.case;
 }
 );
@@ -21,11 +21,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (200,160);
+pos = (136,158);
 ref = hungarumlautcomb.case;
 }
 );
-width = 743;
+width = 742;
 }
 );
 unicode = 368;

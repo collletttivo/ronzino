@@ -15,11 +15,11 @@ width = 234;
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
-pos = (0,305);
+pos = (4,305);
 ref = period;
 }
 );
-width = 247;
+width = 262;
 }
 );
 metricRight = "=|";

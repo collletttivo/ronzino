@@ -9,7 +9,7 @@ pos = (10,0);
 ref = period;
 },
 {
-pos = (10,397);
+pos = (10,396);
 ref = period;
 }
 );
@@ -23,11 +23,11 @@ pos = (8,0);
 ref = period;
 },
 {
-pos = (8,397);
+pos = (8,396);
 ref = period;
 }
 );
-width = 263;
+width = 270;
 }
 );
 metricRight = "=|";

@@ -1,33 +1,19 @@
 {
+color = 3;
 glyphname = idieresis;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-closed = 1;
-nodes = (
-(68,636,l),
-(68,730,l),
-(-18,730,l),
-(-18,636,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(235,636,l),
-(235,730,l),
-(150,730,l),
-(150,636,l)
-);
-},
-{
-pos = (7,0);
 ref = idotless;
+},
+{
+pos = (-94,0);
+ref = dieresiscomb;
 }
 );
-width = 245;
+width = 232;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -36,11 +22,41 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-78,0);
+pos = (-112,0);
 ref = dieresiscomb;
 }
 );
 width = 256;
+},
+{
+associatedMasterId = m01;
+layerId = "433D1C27-4932-4BB5-9132-5DAD4D053368";
+name = "6 ago 23, 10:41";
+shapes = (
+{
+closed = 1;
+nodes = (
+(82,636,l),
+(82,730,l),
+(-4,730,l),
+(-4,636,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(249,636,l),
+(249,730,l),
+(164,730,l),
+(164,636,l)
+);
+},
+{
+pos = (7,0);
+ref = idotless;
+}
+);
+width = 245;
 }
 );
 unicode = 239;

@@ -8,7 +8,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (209,160);
+pos = (124,160);
 ref = circumflexcomb.case;
 }
 );
@@ -21,11 +21,11 @@ shapes = (
 ref = C;
 },
 {
-pos = (177,146);
+pos = (95,158);
 ref = circumflexcomb.case;
 }
 );
-width = 723;
+width = 726;
 }
 );
 unicode = 264;

@@ -14,11 +14,11 @@ pos = (684,0);
 ref = l;
 },
 {
-pos = (900,0);
+pos = (892,0);
 ref = t;
 }
 );
-width = 1245;
+width = 1232;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -28,15 +28,15 @@ ref = C;
 },
 {
 alignment = -1;
-pos = (671,0);
+pos = (708,0);
 ref = l;
 },
 {
-pos = (900,0);
+pos = (964,0);
 ref = t;
 }
 );
-width = 1290;
+width = 1346;
 }
 );
 metricLeft = O;

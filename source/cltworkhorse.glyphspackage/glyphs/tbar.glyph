@@ -5,39 +5,27 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (16,0);
 ref = t;
 },
 {
-closed = 1;
-nodes = (
-(329,339,l),
-(329,408,l),
-(22,408,l),
-(22,339,l)
-);
+pos = (-76,-2);
+ref = strokeshortcomb;
 }
 );
-width = 366;
+width = 340;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
-pos = (16,0);
 ref = t;
 },
 {
-closed = 1;
-nodes = (
-(389,318,l),
-(389,408,l),
-(18,408,l),
-(18,318,l)
-);
+pos = (-80,-10);
+ref = strokeshortcomb;
 }
 );
-width = 628;
+width = 382;
 }
 );
 unicode = 359;

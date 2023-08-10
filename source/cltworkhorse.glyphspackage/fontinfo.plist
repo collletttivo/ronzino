@@ -1,5 +1,5 @@
 {
-.appVersion = "3151";
+.appVersion = "3208";
 .formatVersion = 3;
 axes = (
 {
@@ -288,15 +288,15 @@ value = -234;
 },
 {
 name = typoLineGap;
-value = 202;
+value = 228;
 },
 {
 name = winAscent;
-value = 954;
+value = 980;
 },
 {
 name = winDescent;
-value = 248;
+value = 308;
 },
 {
 name = hheaAscender;
@@ -308,7 +308,7 @@ value = -234;
 },
 {
 name = hheaLineGap;
-value = 0;
+value = 228;
 },
 {
 name = "Master Icon Glyph Name";
@@ -378,15 +378,15 @@ value = -234;
 },
 {
 name = typoLineGap;
-value = 0;
+value = 228;
 },
 {
 name = winAscent;
-value = 0;
+value = 980;
 },
 {
 name = winDescent;
-value = 0;
+value = 308;
 },
 {
 name = hheaAscender;
@@ -398,7 +398,7 @@ value = -234;
 },
 {
 name = hheaLineGap;
-value = 0;
+value = 228;
 },
 {
 name = "Master Icon Glyph Name";
@@ -414,7 +414,7 @@ pos = 766;
 },
 {
 over = 16;
-pos = 745;
+pos = 744;
 },
 {
 over = 16;
@@ -468,24 +468,6 @@ name = Bold;
 weightClass = 700;
 }
 );
-kerningLTR = {
-m01 = {
-r = {
-t = 32;
-w = 22;
-};
-seven = {
-four = -90;
-seven = 30;
-};
-};
-"E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81" = {
-r = {
-t = 30;
-w = 18;
-};
-};
-};
 metrics = (
 {
 type = ascender;
@@ -577,10 +559,10 @@ oV = "192";
 tH = "128";
 };
 "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81" = {
-HH = "115";
+HH = "116";
 HV = "152";
 OH = "116";
-OV = "160";
+OV = "162";
 nV = "140";
 nd = "100";
 oH = "98";
@@ -591,7 +573,7 @@ m01 = {
 HH = "80";
 HV = "100";
 OH = "80";
-OV = "160";
+OV = "108";
 nV = "92";
 nd = "80";
 oH = "76";
