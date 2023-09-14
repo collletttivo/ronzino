@@ -1,0 +1,64 @@
+{
+color = 9;
+glyphname = minusinferior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(345,119,l),
+(345,181,l),
+(38,181,l),
+(38,119,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 6;
+height = 66;
+verticalShift = -52;
+weight = 6;
+width = 64;
+};
+};
+width = 383;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(327,111,l),
+(327,189,l),
+(29,189,l),
+(29,111,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 6;
+height = 66;
+verticalShift = -52;
+weight = 4;
+width = 62;
+};
+};
+width = 356;
+}
+);
+unicode = 8331;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+RMXScaler = {
+source = minus;
+};
+};
+}

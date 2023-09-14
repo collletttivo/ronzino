@@ -1,20 +1,51 @@
 {
+color = 9;
 glyphname = parenright.case;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(203,70,o),
+(256,224,o),
+(256,366,cs),
+(256,510,o),
+(203,664,o),
+(114,780,c),
+(46,750,l),
+(114,651,o),
+(152,515,o),
+(152,366,cs),
+(152,218,o),
+(114,82,o),
+(44,-18,c),
+(112,-48,l)
+);
+}
+);
+};
 layerId = m01;
 shapes = (
 {
-pos = (256,0);
+pos = (245,0);
 ref = parenleft.case;
 scale = (-1,1);
 }
 );
-width = 256;
+width = 245;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 454;
+shapes = (
+{
+pos = (275,0);
+ref = parenleft.case;
+scale = (-1,1);
+}
+);
+width = 275;
 }
 );
 metricLeft = "=|parenleft.case";

@@ -1,0 +1,28 @@
+{
+glyphname = sevensuperior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,442);
+ref = seveninferior;
+}
+);
+width = 353;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+pos = (0,446);
+ref = seveninferior;
+}
+);
+width = 373;
+}
+);
+metricLeft = seveninferior;
+metricRight = seveninferior;
+unicode = 8311;
+}

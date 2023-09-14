@@ -1,0 +1,83 @@
+{
+color = 9;
+glyphname = parenleftinferior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(193,-121,l),
+(142,-43,o),
+(117,53,o),
+(117,149,cs),
+(117,255,o),
+(144,349,o),
+(191,419,c),
+(138,451,l),
+(76,371,o),
+(37,260,o),
+(37,149,cs),
+(37,44,o),
+(74,-69,o),
+(139,-153,c)
+);
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 6;
+height = 60;
+verticalShift = -3;
+weight = -16;
+width = 62;
+};
+};
+width = 194;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(211,-96,l),
+(169,-23,o),
+(151,64,o),
+(151,154,cs),
+(151,250,o),
+(170,338,o),
+(210,403,c),
+(132,461,l),
+(70,378,o),
+(32,265,o),
+(32,154,cs),
+(32,46,o),
+(69,-69,o),
+(133,-154,c)
+);
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 6;
+height = 60;
+verticalShift = -3;
+weight = -28;
+width = 60;
+};
+};
+width = 212;
+}
+);
+unicode = 8333;
+userData = {
+KernOnSpecialSpacing = {
+R = parenthesis;
+};
+RMXScaler = {
+source = parenleft;
+};
+};
+}

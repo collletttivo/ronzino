@@ -1,0 +1,42 @@
+{
+glyphname = zerothird;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = zero.numr;
+},
+{
+pos = (387,0);
+ref = fraction;
+},
+{
+pos = (499,0);
+ref = three.dnom;
+}
+);
+width = 842;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+ref = zero.numr;
+},
+{
+pos = (400,0);
+ref = fraction;
+},
+{
+pos = (522,0);
+ref = three.dnom;
+}
+);
+width = 871;
+}
+);
+metricLeft = zero.numr;
+metricRight = zero.numr;
+unicode = 8585;
+}

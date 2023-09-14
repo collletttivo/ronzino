@@ -1,5 +1,5 @@
 {
-.appVersion = "3208";
+.appVersion = "3218";
 .formatVersion = 3;
 axes = (
 {
@@ -14,7 +14,7 @@ tag = ital;
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Schwa F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W X Y Yacute Ycircumflex Ydieresis Z Zacute Zcaron Zdotaccent G.ss01 IJ.ss01";
+code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Schwa F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W X Y Yacute Ycircumflex Ydieresis Z Zacute Zcaron Zdotaccent G.ss01 IJ.ss01";
 name = Uppercase;
 }
 );
@@ -45,8 +45,8 @@ name = "Write DisplayStrings";
 value = 0;
 }
 );
-date = "2021-10-14 10:00:00 +0000";
-familyName = CLTdotCom;
+date = "2023-03-31 10:00:41 +0000";
+familyName = "CLT Ronzino";
 featurePrefixes = (
 {
 automatic = 1;
@@ -73,8 +73,12 @@ features = (
 {
 automatic = 1;
 code = "feature locl;
+feature subs;
+feature sinf;
 feature sups;
 feature frac;
+feature numr;
+feature dnom;
 feature ordn;
 feature lnum;
 feature onum;
@@ -89,55 +93,55 @@ tag = aalt;
 automatic = 1;
 code = "lookup ccmp_Other_1 {
 	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
-	@CombiningNonTopAccents = [cedillacomb ogonekcomb];
-	sub [i j]' @CombiningTopAccents by [idotless jdotless];
-	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub i' @CombiningTopAccents by idotless;
+	sub j' @CombiningTopAccents by jdotless;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
 	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb];
 	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case];
 	sub @Markscomb @Markscomb' by @MarkscombCase;
 	sub @Uppercase @Markscomb' by @MarkscombCase;
-} ccmp_Other_1;
+} ccmp_Other_2;
 
-lookup ccmp_Other_2 {
+lookup ccmp_Other_3 {
 	sub @Markscomb' @MarkscombCase by @MarkscombCase;
 	sub @MarkscombCase @Markscomb' by @MarkscombCase;
-} ccmp_Other_2;
+} ccmp_Other_3;
 ";
 tag = ccmp;
 },
 {
 automatic = 1;
-code = "lookup locl_latn_0 {
-	script latn;
-	language AZE;
-	sub i by idotaccent;
-	language CRT;
-	sub i by idotaccent;
-	language KAZ;
-	sub i by idotaccent;
-	language TAT;
-	sub i by idotaccent;
-	language TRK;
+code = "script latn;
+language AZE;
+lookup locl_latn_0 {
 	sub i by idotaccent;
 } locl_latn_0;
+language CRT;
+lookup locl_latn_0;
+language KAZ;
+lookup locl_latn_0;
+language TAT;
+lookup locl_latn_0;
+language TRK;
+lookup locl_latn_0;
 
+script latn;
+language ROM;
 lookup locl_latn_1 {
-	script latn;
-	language ROM;
-	sub Scedilla by Scommaaccent;
-	sub scedilla by scommaaccent;
-	sub Tcedilla by Tcommaaccent;
-	sub tcedilla by tcommaaccent;
-	language MOL;
 	sub Scedilla by Scommaaccent;
 	sub scedilla by scommaaccent;
 	sub Tcedilla by Tcommaaccent;
 	sub tcedilla by tcommaaccent;
 } locl_latn_1;
+language MOL;
+lookup locl_latn_1;
 
+script latn;
+language CAT;
 lookup locl_latn_2 {
-	script latn;
-	language CAT;
 	sub  l' periodcentered' l by ldot;
 	sub  L' periodcentered' L by Ldot;
 } locl_latn_2;
@@ -146,18 +150,174 @@ tag = locl;
 },
 {
 automatic = 1;
-code = "sub dagger by dagger.sups;
+code = "sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+sub parenleft by parenleftinferior;
+sub parenright by parenrightinferior;
+sub equal by equalinferior;
+sub minus by minusinferior;
+sub plus by plusinferior;
+";
+tag = subs;
+},
+{
+automatic = 1;
+code = "sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+sub parenleft by parenleftinferior;
+sub parenright by parenrightinferior;
+sub equal by equalinferior;
+sub minus by minusinferior;
+sub plus by plusinferior;
+";
+tag = sinf;
+},
+{
+automatic = 1;
+code = "sub zero by zerosuperior;
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub four by foursuperior;
+sub five by fivesuperior;
+sub six by sixsuperior;
+sub seven by sevensuperior;
+sub eight by eightsuperior;
+sub nine by ninesuperior;
+sub dagger by dagger.sups;
 sub daggerdbl by daggerdbl.sups;
 ";
 tag = sups;
 },
 {
-automatic = 1;
-code = "sub one slash four by onequarter;
-sub one slash two by onehalf;
-sub three slash four by threequarters;
-";
+code = "@figDefault = [zero one two three four five six seven eight nine];
+@figNumer = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+@figDenom = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+
+lookup FractionBar {
+     ignore sub slash @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault slash';
+     ignore sub slash' @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault slash;
+     ignore sub slash @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault slash';
+     ignore sub slash' @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault slash;
+     ignore sub slash @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault slash';
+     ignore sub slash' @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault slash;
+     ignore sub slash @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault slash';
+     ignore sub slash' @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault slash;
+     ignore sub slash @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault slash';
+     ignore sub slash' @figDefault @figDefault @figDefault @figDefault @figDefault @figDefault slash;
+     ignore sub slash @figDefault @figDefault @figDefault @figDefault @figDefault slash';
+     ignore sub slash' @figDefault @figDefault @figDefault @figDefault @figDefault slash;
+     ignore sub slash @figDefault @figDefault @figDefault @figDefault slash';
+     ignore sub slash' @figDefault @figDefault @figDefault @figDefault slash;
+     ignore sub slash @figDefault @figDefault @figDefault slash';
+     ignore sub slash' @figDefault @figDefault @figDefault slash;
+     ignore sub slash @figDefault @figDefault slash';
+     ignore sub slash' @figDefault @figDefault slash;
+     ignore sub slash @figDefault slash';
+     ignore sub slash' @figDefault slash;
+     sub @figDefault slash' @figDefault by fraction;
+} FractionBar;
+
+lookup Numerator1 {
+     sub @figDefault' fraction by @figNumer;
+} Numerator1;
+
+lookup Numerator2 {
+     sub @figDefault' @figNumer fraction by @figNumer;
+} Numerator2;
+
+lookup Numerator3 {
+     sub @figDefault' @figNumer @figNumer fraction by @figNumer;
+} Numerator3;
+
+lookup Numerator4 {
+     sub @figDefault' @figNumer @figNumer @figNumer fraction by @figNumer;
+} Numerator4;
+
+lookup Numerator5 {
+     sub @figDefault' @figNumer @figNumer @figNumer @figNumer fraction by @figNumer;
+} Numerator5;
+
+lookup Numerator6 {
+     sub @figDefault' @figNumer @figNumer @figNumer @figNumer @figNumer fraction by @figNumer;
+} Numerator6;
+
+lookup Numerator7 {
+     sub @figDefault' @figNumer @figNumer @figNumer @figNumer @figNumer @figNumer fraction by @figNumer;
+} Numerator7;
+
+lookup Numerator8 {
+     sub @figDefault' @figNumer @figNumer @figNumer @figNumer @figNumer @figNumer @figNumer fraction by @figNumer;
+} Numerator8;
+
+lookup Numerator9 {
+     sub @figDefault' @figNumer @figNumer @figNumer @figNumer @figNumer @figNumer @figNumer @figNumer fraction by @figNumer;
+} Numerator9;
+
+lookup Numerator10 {
+     sub @figDefault' @figNumer @figNumer @figNumer @figNumer @figNumer @figNumer @figNumer @figNumer @figNumer fraction by @figNumer;
+} Numerator10;
+
+lookup Numerator11 {
+     sub @figDefault' @figNumer @figNumer @figNumer @figNumer @figNumer @figNumer @figNumer @figNumer @figNumer @figNumer fraction by @figNumer;
+} Numerator11;
+
+lookup Numerator12 {
+     sub @figDefault' @figNumer @figNumer @figNumer @figNumer @figNumer @figNumer @figNumer @figNumer @figNumer @figNumer @figNumer fraction by @figNumer;
+} Numerator12;
+
+lookup Denominator {
+     sub [fraction @figDenom] @figDefault' by @figDenom;
+} Denominator;
+
+sub @figDefault space' @figNumer by thinspace;";
 tag = frac;
+},
+{
+automatic = 1;
+code = "sub zero by zero.numr;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+sub four by four.numr;
+sub five by five.numr;
+sub six by six.numr;
+sub seven by seven.numr;
+sub eight by eight.numr;
+sub nine by nine.numr;
+";
+tag = numr;
+},
+{
+automatic = 1;
+code = "sub zero by zero.dnom;
+sub one by one.dnom;
+sub two by two.dnom;
+sub three by three.dnom;
+sub four by four.dnom;
+sub five by five.dnom;
+sub six by six.dnom;
+sub seven by seven.dnom;
+sub eight by eight.dnom;
+sub nine by nine.dnom;
+";
+tag = dnom;
 },
 {
 automatic = 1;
@@ -256,6 +416,12 @@ code = "sub G by G.ss01;
 sub IJ by IJ.ss01;
 sub g by g.ss01;
 ";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
 tag = ss01;
 }
 );
@@ -338,6 +504,10 @@ pos = -234;
 }
 );
 name = Regular;
+stemValues = (
+72,
+92
+);
 userData = {
 GSCornerRadius = 40;
 GSOffsetHorizontal = 10;
@@ -429,6 +599,14 @@ pos = -234;
 }
 );
 name = Bold;
+stemValues = (
+90,
+140
+);
+userData = {
+GSOffsetHorizontal = 40;
+GSOffsetVertical = -28;
+};
 }
 );
 instances = (
@@ -532,6 +710,15 @@ value = CLT;
 {
 key = licenseURL;
 value = "https://scripts.sil.org/OFL_web";
+}
+);
+stems = (
+{
+horizontal = 1;
+name = Vertical;
+},
+{
+name = Horizontal;
 }
 );
 unitsPerEm = 1000;

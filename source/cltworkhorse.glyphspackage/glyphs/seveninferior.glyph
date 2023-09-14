@@ -1,0 +1,77 @@
+{
+color = 9;
+glyphname = seveninferior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(172,-73,l),
+(182,88,o),
+(240,226,o),
+(340,320,c),
+(340,372,l),
+(10,372,l),
+(10,308,l),
+(250,308,l),
+(248,313,l),
+(160,218,o),
+(99,69,o),
+(90,-73,c)
+);
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 6;
+height = 60;
+verticalShift = -73;
+weight = -16;
+width = 62;
+};
+};
+width = 353;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(210,-73,l),
+(229,110,o),
+(281,244,o),
+(367,314,c),
+(367,382,l),
+(8,382,l),
+(8,291,l),
+(229,291,l),
+(227,296,l),
+(154,206,o),
+(100,66,o),
+(88,-73,c)
+);
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 6;
+height = 60;
+verticalShift = -73;
+weight = -28;
+width = 60;
+};
+};
+width = 373;
+}
+);
+unicode = 8327;
+userData = {
+KernOnName = seven;
+RMXScaler = {
+source = seven;
+};
+};
+}

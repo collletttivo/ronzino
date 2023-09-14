@@ -1,0 +1,27 @@
+{
+glyphname = one.numr;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,349);
+ref = one.dnom;
+}
+);
+width = 248;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+pos = (0,351);
+ref = one.dnom;
+}
+);
+width = 280;
+}
+);
+metricLeft = one.dnom;
+metricRight = one.dnom;
+}
