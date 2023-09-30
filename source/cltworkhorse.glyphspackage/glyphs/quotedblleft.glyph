@@ -19,7 +19,19 @@ width = 392;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 510;
+shapes = (
+{
+angle = 180;
+pos = (248,626);
+ref = comma;
+},
+{
+angle = 180;
+pos = (448,626);
+ref = comma;
+}
+);
+width = 440;
 }
 );
 metricLeft = quoteleft;
