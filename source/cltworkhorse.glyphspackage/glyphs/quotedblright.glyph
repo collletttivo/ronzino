@@ -23,11 +23,11 @@ pos = (-10,618);
 ref = comma;
 },
 {
-pos = (190,618);
+pos = (210,618);
 ref = comma;
 }
 );
-width = 426;
+width = 446;
 }
 );
 metricLeft = quoteright;
