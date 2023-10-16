@@ -446,15 +446,15 @@ value = "0";
 },
 {
 name = typoAscender;
-value = 766;
+value = 980;
 },
 {
 name = typoDescender;
-value = -234;
+value = -250;
 },
 {
 name = typoLineGap;
-value = 228;
+value = 140;
 },
 {
 name = winAscent;
@@ -466,15 +466,15 @@ value = 308;
 },
 {
 name = hheaAscender;
-value = 766;
+value = 980;
 },
 {
 name = hheaDescender;
-value = -234;
+value = -250;
 },
 {
 name = hheaLineGap;
-value = 228;
+value = 140;
 },
 {
 name = "Master Icon Glyph Name";
@@ -540,15 +540,15 @@ value = "0";
 },
 {
 name = typoAscender;
-value = 766;
+value = 980;
 },
 {
 name = typoDescender;
-value = -234;
+value = -250;
 },
 {
 name = typoLineGap;
-value = 228;
+value = 140;
 },
 {
 name = winAscent;
@@ -560,15 +560,15 @@ value = 308;
 },
 {
 name = hheaAscender;
-value = 766;
+value = 980;
 },
 {
 name = hheaDescender;
-value = -234;
+value = -250;
 },
 {
 name = hheaLineGap;
-value = 228;
+value = 140;
 },
 {
 name = "Master Icon Glyph Name";
