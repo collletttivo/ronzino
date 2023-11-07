@@ -8,11 +8,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (166,0);
+pos = (153,0);
 ref = commaaccentcomb;
 }
 );
-width = 600;
+width = 556;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -21,11 +21,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (154,0);
+pos = (144,0);
 ref = commaaccentcomb;
 }
 );
-width = 612;
+width = 569;
 }
 );
 unicode = 538;

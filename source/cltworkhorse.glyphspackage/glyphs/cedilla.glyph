@@ -8,7 +8,7 @@ shapes = (
 ref = cedillacomb;
 }
 );
-width = 384;
+width = 357;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -17,7 +17,7 @@ shapes = (
 ref = cedillacomb;
 }
 );
-width = 408;
+width = 379;
 }
 );
 metricRight = "=|";

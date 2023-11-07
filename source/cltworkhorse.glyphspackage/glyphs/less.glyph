@@ -5,16 +5,16 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (600,0);
+pos = (558,0);
 ref = greater;
 scale = (-1,1);
 }
 );
-width = 600;
+width = 558;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 617;
+width = 574;
 }
 );
 metricLeft = "=|greater";

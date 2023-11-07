@@ -6,22 +6,22 @@ layerId = m01;
 shapes = (
 {
 angle = 180;
-pos = (216,632);
+pos = (201,588);
 ref = comma;
 }
 );
-width = 208;
+width = 193;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
 angle = 180;
-pos = (248,626);
+pos = (231,582);
 ref = comma;
 }
 );
-width = 240;
+width = 223;
 }
 );
 unicode = 8216;

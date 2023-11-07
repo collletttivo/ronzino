@@ -12,7 +12,7 @@ pos = (-18,0);
 ref = commaaccentcomb;
 }
 );
-width = 384;
+width = 356;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -21,11 +21,11 @@ shapes = (
 ref = r;
 },
 {
-pos = (-22,0);
+pos = (-20,0);
 ref = commaaccentcomb;
 }
 );
-width = 398;
+width = 370;
 }
 );
 unicode = 343;

@@ -7,21 +7,21 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(484,508,l),
-(432,548,l),
-(116,112,l),
-(168,72,l)
+(450,473,l),
+(402,510,l),
+(108,104,l),
+(156,67,l)
 );
 },
 {
 ref = equal;
 }
 );
-width = 600;
+width = 558;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 617;
+width = 990;
 }
 );
 metricLeft = equal;

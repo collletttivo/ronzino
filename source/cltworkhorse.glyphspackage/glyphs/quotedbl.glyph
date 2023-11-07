@@ -8,15 +8,15 @@ shapes = (
 ref = quotesingle;
 },
 {
-pos = (167,0);
+pos = (155,0);
 ref = quotesingle;
 }
 );
-width = 359;
+width = 334;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 500;
+width = 465;
 }
 );
 metricLeft = quotesingle;

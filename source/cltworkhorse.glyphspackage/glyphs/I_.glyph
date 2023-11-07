@@ -5,11 +5,11 @@ layers = (
 anchors = (
 {
 name = ogonek;
-pos = (176,12);
+pos = (166,8);
 },
 {
 name = top;
-pos = (138,732);
+pos = (127,680);
 }
 );
 layerId = m01;
@@ -17,24 +17,24 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(188,0,l),
-(188,732,l),
-(88,732,l),
-(88,0,l)
+(174,0,l),
+(174,680,l),
+(80,680,l),
+(80,0,l)
 );
 }
 );
-width = 276;
+width = 254;
 },
 {
 anchors = (
 {
 name = ogonek;
-pos = (220,12);
+pos = (205,11);
 },
 {
 name = top;
-pos = (156,744);
+pos = (145,692);
 }
 );
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -42,14 +42,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(232,0,l),
-(232,744,l),
-(80,744,l),
-(80,0,l)
+(216,0,l),
+(216,692,l),
+(74,692,l),
+(74,0,l)
 );
 }
 );
-width = 312;
+width = 290;
 }
 );
 metricLeft = H;

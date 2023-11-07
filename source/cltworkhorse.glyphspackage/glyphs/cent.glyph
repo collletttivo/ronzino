@@ -6,25 +6,25 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-pos = (2,77);
+pos = (1,72);
 ref = c;
 scale = (0.95,0.95);
 },
 {
 closed = 1;
 nodes = (
-(312,-130,l),
-(312,860,l),
-(232,860,l),
-(232,-130,l)
+(289,-121,l),
+(289,800,l),
+(215,800,l),
+(215,-121,l)
 );
 }
 );
-width = 535;
+width = 497;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 628;
+width = 748;
 }
 );
 metricLeft = c;

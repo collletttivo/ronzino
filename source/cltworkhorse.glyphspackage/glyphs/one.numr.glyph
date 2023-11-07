@@ -5,21 +5,21 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (0,349);
+pos = (0,325);
 ref = one.dnom;
 }
 );
-width = 248;
+width = 231;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
-pos = (0,351);
+pos = (0,327);
 ref = one.dnom;
 }
 );
-width = 280;
+width = 260;
 }
 );
 metricLeft = one.dnom;

@@ -3,11 +3,11 @@ glyphname = thinspace;
 layers = (
 {
 layerId = m01;
-width = 131;
+width = 122;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 124;
+width = 115;
 }
 );
 metricWidth = "=emspace/8";

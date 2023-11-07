@@ -6,40 +6,40 @@ layers = (
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
-pos = (12,0);
+pos = (11,0);
 ref = L;
 },
 {
 closed = 1;
 nodes = (
-(446,382,l),
-(412,490,l),
-(8,360,l),
-(40,254,l)
+(415,355,l),
+(383,456,l),
+(7,335,l),
+(37,236,l)
 );
 }
 );
-width = 584;
+width = 543;
 },
 {
 layerId = m01;
 name = Regular;
 shapes = (
 {
-pos = (8,0);
+pos = (6,0);
 ref = L;
 },
 {
 closed = 1;
 nodes = (
-(420,390,l),
-(396,462,l),
-(18,336,l),
-(42,266,l)
+(390,362,l),
+(368,430,l),
+(18,314,l),
+(40,248,l)
 );
 }
 );
-width = 568;
+width = 524;
 }
 );
 metricRight = L;

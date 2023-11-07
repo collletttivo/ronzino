@@ -7,15 +7,15 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-pos = (-10,-142);
+pos = (-9,-132);
 ref = three;
 }
 );
-width = 589;
+width = 548;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 600;
+width = 558;
 }
 );
 }

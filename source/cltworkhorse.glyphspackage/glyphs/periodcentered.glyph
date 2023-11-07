@@ -5,21 +5,21 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (6,305);
+pos = (6,284);
 ref = period;
 }
 );
-width = 234;
+width = 219;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
-pos = (4,305);
+pos = (4,284);
 ref = period;
 }
 );
-width = 262;
+width = 244;
 }
 );
 metricRight = "=|";

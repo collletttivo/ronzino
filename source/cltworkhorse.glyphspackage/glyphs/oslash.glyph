@@ -9,11 +9,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (-48,-2);
+pos = (-44,-2);
 ref = slashshortcomb;
 }
 );
-width = 596;
+width = 556;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -22,11 +22,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (-52,0);
+pos = (-49,0);
 ref = slashshortcomb;
 }
 );
-width = 620;
+width = 577;
 },
 {
 associatedMasterId = m01;
@@ -36,10 +36,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(478,615,l),
-(413,642,l),
-(127,-40,l),
-(194,-69,l)
+(445,572,l),
+(384,597,l),
+(118,-37,l),
+(180,-64,l)
 );
 },
 {
@@ -47,7 +47,7 @@ pos = (1,0);
 ref = o;
 }
 );
-width = 605;
+width = 563;
 }
 );
 metricLeft = o;

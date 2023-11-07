@@ -7,18 +7,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(172,-234,l),
-(172,745,l),
-(88,745,l),
-(88,-234,l)
+(158,-218,l),
+(158,693,l),
+(80,693,l),
+(80,-218,l)
 );
 }
 );
-width = 260;
+width = 238;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 597;
+width = 1147;
 }
 );
 metricLeft = H;

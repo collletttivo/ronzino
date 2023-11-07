@@ -9,11 +9,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (-30,-4);
+pos = (-29,-4);
 ref = slashlongcomb;
 }
 );
-width = 768;
+width = 712;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -22,11 +22,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (-44,-4);
+pos = (-41,-4);
 ref = slashlongcomb;
 }
 );
-width = 772;
+width = 718;
 }
 );
 metricLeft = O;

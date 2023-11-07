@@ -5,15 +5,15 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (116,0);
+pos = (108,0);
 },
 {
 name = top;
-pos = (118,744);
+pos = (110,692);
 },
 {
 name = topright;
-pos = (162,572);
+pos = (151,532);
 }
 );
 layerId = m01;
@@ -21,28 +21,28 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(162,0,l),
-(162,766,l),
-(70,766,l),
-(70,0,l)
+(151,0,l),
+(151,713,l),
+(65,713,l),
+(65,0,l)
 );
 }
 );
-width = 232;
+width = 216;
 },
 {
 anchors = (
 {
 name = bottom;
-pos = (134,0);
+pos = (125,0);
 },
 {
 name = top;
-pos = (136,744);
+pos = (127,692);
 },
 {
 name = topright;
-pos = (204,586);
+pos = (190,545);
 }
 );
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -50,14 +50,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(204,0,l),
-(204,766,l),
-(64,766,l),
-(64,0,l)
+(190,0,l),
+(190,713,l),
+(60,713,l),
+(60,0,l)
 );
 }
 );
-width = 268;
+width = 250;
 }
 );
 metricRight = "=|";

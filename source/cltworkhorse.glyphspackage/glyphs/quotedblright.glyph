@@ -5,29 +5,29 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (-10,640);
+pos = (-9,595);
 ref = comma;
 },
 {
-pos = (174,640);
+pos = (162,595);
 ref = comma;
 }
 );
-width = 378;
+width = 351;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
-pos = (-10,618);
+pos = (-9,575);
 ref = comma;
 },
 {
-pos = (210,618);
+pos = (195,575);
 ref = comma;
 }
 );
-width = 446;
+width = 414;
 }
 );
 metricLeft = quoteright;

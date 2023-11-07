@@ -6,15 +6,15 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (0,-151);
+pos = (0,-140);
 ref = seven;
 }
 );
-width = 524;
+width = 487;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 600;
+width = 558;
 }
 );
 }

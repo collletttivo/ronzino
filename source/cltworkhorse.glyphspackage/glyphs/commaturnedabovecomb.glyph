@@ -5,35 +5,35 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (132,572);
+pos = (123,532);
 }
 );
 layerId = m01;
 shapes = (
 {
 angle = 180;
-pos = (268,586);
+pos = (249,545);
 ref = commaaccentcomb;
 }
 );
-width = 268;
+width = 249;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (140,586);
+pos = (130,545);
 }
 );
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
 angle = 180;
-pos = (300,598);
+pos = (279,556);
 ref = commaaccentcomb;
 }
 );
-width = 300;
+width = 279;
 }
 );
 metricRight = "=|";
