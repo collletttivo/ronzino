@@ -8,11 +8,11 @@ shapes = (
 ref = z;
 },
 {
-pos = (-7,0);
+pos = (-8,0);
 ref = caroncomb;
 }
 );
-width = 439;
+width = 436;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -21,7 +21,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (-43,-41);
+pos = (-24,0);
 ref = caroncomb;
 }
 );

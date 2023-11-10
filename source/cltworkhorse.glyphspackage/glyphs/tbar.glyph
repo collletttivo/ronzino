@@ -8,7 +8,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (-70,-1);
+pos = (-70,0);
 ref = strokeshortcomb;
 }
 );

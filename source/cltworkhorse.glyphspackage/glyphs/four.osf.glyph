@@ -1,16 +1,28 @@
 {
-color = 1;
 glyphname = four.osf;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (0,-127);
-ref = four;
+closed = 1;
+nodes = (
+(442,-114,l),
+(442,552,l),
+(358,552,l),
+(16,80,l),
+(16,0,l),
+(528,0,l),
+(528,74,l),
+(80,74,l),
+(84,66,l),
+(364,456,l),
+(356,456,l),
+(356,-114,l)
+);
 }
 );
-width = 536;
+width = 540;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";

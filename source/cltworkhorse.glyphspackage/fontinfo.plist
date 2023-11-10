@@ -501,6 +501,18 @@ over = -14;
 {
 over = -12;
 pos = -218;
+},
+{
+over = 12;
+pos = 682;
+},
+{
+over = 12;
+pos = 552;
+},
+{
+over = -12;
+pos = -114;
 }
 );
 name = Regular;
@@ -596,6 +608,12 @@ over = -15;
 {
 over = -15;
 pos = -218;
+},
+{
+},
+{
+},
+{
 }
 );
 name = Bold;
@@ -661,6 +679,18 @@ type = baseline;
 },
 {
 type = descender;
+},
+{
+filter = "name ENDSWITH \".osf\"";
+name = "Oldstyle Figures Ascenders";
+},
+{
+filter = "name ENDSWITH \".osf\"";
+name = "Oldstyle Figures x-Height";
+},
+{
+filter = "name ENDSWITH \".osf\"";
+name = "Oldstyle Figures Descender";
 }
 );
 properties = (

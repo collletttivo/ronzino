@@ -21,11 +21,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (-1,41);
+pos = (-11,0);
 ref = dotaccentcomb;
 }
 );
-width = 268;
+width = 249;
 }
 );
 note = "Controlla curva";

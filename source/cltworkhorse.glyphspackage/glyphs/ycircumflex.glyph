@@ -12,7 +12,7 @@ pos = (15,0);
 ref = circumflexcomb;
 }
 );
-width = 484;
+width = 482;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -21,11 +21,11 @@ shapes = (
 ref = y;
 },
 {
-pos = (-31,-41);
+pos = (-12,0);
 ref = circumflexcomb;
 }
 );
-width = 497;
+width = 494;
 }
 );
 unicode = 375;
