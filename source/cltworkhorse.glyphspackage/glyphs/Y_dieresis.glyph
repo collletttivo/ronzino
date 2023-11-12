@@ -8,7 +8,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (91,148);
+pos = (92,148);
 ref = dieresiscomb.case;
 }
 );

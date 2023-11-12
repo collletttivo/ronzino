@@ -7,6 +7,44 @@ shapes = (
 {
 closed = 1;
 nodes = (
+(272,140,l),
+(77,258,l),
+(77,250,l),
+(270,368,l),
+(270,456,l),
+(26,292,l),
+(26,214,l),
+(272,50,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(518,140,l),
+(323,258,l),
+(323,250,l),
+(516,368,l),
+(516,456,l),
+(272,292,l),
+(272,214,l),
+(518,50,l)
+);
+}
+);
+width = 566;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 580;
+},
+{
+associatedMasterId = m01;
+layerId = "01C0BB4E-B7BB-4613-8330-AFF58911504B";
+name = "11 nov 23, 20:57";
+shapes = (
+{
+closed = 1;
+nodes = (
 (272,139,l),
 (77,260,l),
 (77,249,l),
@@ -32,10 +70,6 @@ nodes = (
 }
 );
 width = 567;
-},
-{
-layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 580;
 }
 );
 metricLeft = guilsinglleft;

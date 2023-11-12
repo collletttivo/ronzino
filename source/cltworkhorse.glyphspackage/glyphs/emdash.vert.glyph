@@ -6,7 +6,7 @@ layerId = m01;
 shapes = (
 {
 angle = -90;
-pos = (200,713);
+pos = (200,712);
 ref = emdash;
 }
 );
@@ -24,6 +24,7 @@ ref = emdash;
 width = 930;
 }
 );
+metricRight = "=|";
 metricWidth = emdash;
 unicode = 65073;
 }

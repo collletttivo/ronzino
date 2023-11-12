@@ -6,16 +6,16 @@ layerId = m01;
 shapes = (
 {
 angle = 180;
-pos = (201,588);
+pos = (200,588);
 ref = comma;
 },
 {
 angle = 180;
-pos = (372,588);
+pos = (370,588);
 ref = comma;
 }
 );
-width = 364;
+width = 362;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";

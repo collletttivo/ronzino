@@ -591,22 +591,22 @@ iconName = Bold;
 id = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 metricValues = (
 {
-over = 15;
-pos = 713;
+over = 12;
+pos = 712;
 },
 {
-over = 15;
+over = 14;
 pos = 692;
 },
 {
-over = 15;
-pos = 545;
+over = 12;
+pos = 544;
 },
 {
-over = -15;
+over = -14;
 },
 {
-over = -15;
+over = -12;
 pos = -218;
 },
 {
@@ -776,14 +776,14 @@ oV = "192";
 tH = "128";
 };
 "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81" = {
-HH = "116";
-HV = "152";
-OH = "116";
-OV = "162";
-nV = "140";
-nd = "100";
-oH = "98";
-oV = "148";
+HH = "108";
+HV = "144";
+OH = "108";
+OV = "152";
+nV = "132";
+nd = "72";
+oH = "90";
+oV = "140";
 tH = "90";
 };
 m01 = {

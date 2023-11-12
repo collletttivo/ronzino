@@ -5,38 +5,42 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (50,0);
+closed = 1;
+nodes = (
+(469,368,l),
+(469,432,l),
+(39,432,l),
+(39,368,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(465,256,l),
+(465,320,l),
+(38,320,l),
+(38,256,l)
+);
+},
+{
+pos = (80,0);
 ref = C;
 scale = (0.95,1);
-},
-{
-closed = 1;
-nodes = (
-(439,367,l),
-(439,433,l),
-(9,433,l),
-(9,367,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(435,256,l),
-(435,321,l),
-(7,321,l),
-(7,256,l)
-);
 }
 );
-width = 682;
+width = 740;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
-pos = (46,0);
-ref = C;
-scale = (0.95,1);
+closed = 1;
+nodes = (
+(420,247,l),
+(420,326,l),
+(6,326,l),
+(6,247,l)
+);
 },
 {
 closed = 1;
@@ -48,19 +52,14 @@ nodes = (
 );
 },
 {
-closed = 1;
-nodes = (
-(420,247,l),
-(420,326,l),
-(6,326,l),
-(6,247,l)
-);
+pos = (46,0);
+ref = C;
+scale = (0.95,1);
 }
 );
 width = 688;
 }
 );
-metricRight = C;
 unicode = 8364;
 userData = {
 KernOnSpecialSpacing = {

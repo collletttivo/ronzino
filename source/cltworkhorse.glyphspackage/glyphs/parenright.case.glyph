@@ -29,23 +29,23 @@ nodes = (
 layerId = m01;
 shapes = (
 {
-pos = (228,0);
+pos = (232,0);
 ref = parenleft.case;
 scale = (-1,1);
 }
 );
-width = 228;
+width = 232;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
-pos = (256,0);
+pos = (261,0);
 ref = parenleft.case;
 scale = (-1,1);
 }
 );
-width = 256;
+width = 261;
 }
 );
 metricLeft = "=|parenleft.case";

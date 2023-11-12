@@ -12,11 +12,11 @@ pos = (324,0);
 ref = fraction;
 },
 {
-pos = (428,0);
+pos = (426,0);
 ref = six.dnom;
 }
 );
-width = 768;
+width = 766;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";

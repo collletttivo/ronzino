@@ -21,11 +21,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (90,147);
+pos = (88,147);
 ref = brevecomb.case;
 }
 );
-width = 592;
+width = 590;
 }
 );
 unicode = 276;

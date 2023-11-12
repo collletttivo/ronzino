@@ -35,7 +35,7 @@ nodes = (
 ref = L;
 }
 );
-width = 532;
+width = 530;
 }
 );
 metricLeft = H;

@@ -5,11 +5,11 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (-9,595);
+pos = (-10,595);
 ref = comma;
 }
 );
-width = 180;
+width = 178;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";

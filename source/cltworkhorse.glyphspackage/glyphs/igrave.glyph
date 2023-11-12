@@ -21,11 +21,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-112,0);
+pos = (-111,-1);
 ref = gravecomb;
 }
 );
-width = 238;
+width = 240;
 }
 );
 unicode = 236;

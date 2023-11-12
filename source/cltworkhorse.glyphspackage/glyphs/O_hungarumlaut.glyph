@@ -8,7 +8,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (177,148);
+pos = (178,148);
 ref = hungarumlautcomb.case;
 }
 );

@@ -6,29 +6,26 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-pos = (1,72);
+pos = (22,24);
 ref = c;
-scale = (0.95,0.95);
 },
 {
 closed = 1;
 nodes = (
-(289,-121,l),
-(289,800,l),
-(215,800,l),
-(215,-121,l)
+(329,-108,l),
+(329,668,l),
+(257,668,l),
+(257,-108,l)
 );
 }
 );
-width = 498;
+width = 580;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 830;
+width = 871;
 }
 );
-metricLeft = c;
-metricRight = c;
 unicode = 162;
 userData = {
 KernOnSpecialSpacing = {

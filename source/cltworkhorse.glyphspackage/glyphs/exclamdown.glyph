@@ -6,26 +6,26 @@ layerId = m01;
 shapes = (
 {
 angle = 180;
-pos = (245,532);
+pos = (242,532);
 ref = exclam;
 }
 );
-width = 245;
+width = 240;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
 angle = 180;
-pos = (274,545);
+pos = (268,545);
 ref = exclam;
 }
 );
-width = 274;
+width = 262;
 }
 );
-metricLeft = l;
-metricRight = l;
+metricLeft = idotless;
+metricRight = idotless;
 unicode = 161;
 userData = {
 KernOnSpecialSpacing = {

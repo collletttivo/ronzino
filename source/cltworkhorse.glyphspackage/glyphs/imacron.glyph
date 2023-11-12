@@ -21,11 +21,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-95,0);
+pos = (-94,-1);
 ref = macroncomb;
 }
 );
-width = 238;
+width = 240;
 }
 );
 unicode = 299;
