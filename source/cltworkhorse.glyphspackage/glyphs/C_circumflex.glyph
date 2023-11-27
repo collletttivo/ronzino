@@ -21,11 +21,11 @@ shapes = (
 ref = C;
 },
 {
-pos = (88,147);
+pos = (89,147);
 ref = circumflexcomb.case;
 }
 );
-width = 674;
+width = 676;
 }
 );
 unicode = 264;

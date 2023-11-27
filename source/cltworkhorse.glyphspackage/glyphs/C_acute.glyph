@@ -21,11 +21,11 @@ shapes = (
 ref = C;
 },
 {
-pos = (195,147);
+pos = (196,147);
 ref = acutecomb.case;
 }
 );
-width = 674;
+width = 676;
 }
 );
 unicode = 262;

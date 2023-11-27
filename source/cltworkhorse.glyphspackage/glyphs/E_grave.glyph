@@ -21,11 +21,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (69,147);
+pos = (70,147);
 ref = gravecomb.case;
 }
 );
-width = 590;
+width = 592;
 }
 );
 unicode = 200;

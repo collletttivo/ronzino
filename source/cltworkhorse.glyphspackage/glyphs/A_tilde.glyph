@@ -21,7 +21,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (73,147);
+pos = (75,147);
 ref = tildecomb.case;
 }
 );

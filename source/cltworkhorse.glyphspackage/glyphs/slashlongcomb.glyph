@@ -27,7 +27,7 @@ width = 774;
 anchors = (
 {
 name = _center;
-pos = (400,346);
+pos = (402,346);
 }
 );
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -35,14 +35,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(726,621,l),
-(638,703,l),
-(74,71,l),
-(162,-11,l)
+(730,622,l),
+(642,704,l),
+(74,70,l),
+(162,-12,l)
 );
 }
 );
-width = 800;
+width = 804;
 }
 );
 metricRight = "=|";

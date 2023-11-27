@@ -21,7 +21,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (-75,-9);
+pos = (-75,60);
 ref = strokeshortcomb;
 }
 );

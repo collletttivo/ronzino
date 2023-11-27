@@ -21,7 +21,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (93,147);
+pos = (95,147);
 ref = dieresiscomb.case;
 }
 );

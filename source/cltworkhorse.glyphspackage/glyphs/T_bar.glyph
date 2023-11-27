@@ -21,11 +21,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (43,25);
+pos = (41,93);
 ref = strokeshortcomb;
 }
 );
-width = 569;
+width = 566;
 }
 );
 metricRight = "=|";

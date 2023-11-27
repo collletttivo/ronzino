@@ -21,7 +21,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (406,11);
+pos = (408,8);
 ref = ogonekcomb;
 }
 );

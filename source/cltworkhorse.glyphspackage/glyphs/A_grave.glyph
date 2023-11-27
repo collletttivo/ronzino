@@ -21,7 +21,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (84,147);
+pos = (86,147);
 ref = gravecomb.case;
 }
 );

@@ -22,7 +22,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (-41,-4);
+pos = (-43,0);
 ref = slashlongcomb;
 }
 );
