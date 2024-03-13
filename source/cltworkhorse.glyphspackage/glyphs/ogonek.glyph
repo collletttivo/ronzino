@@ -17,7 +17,7 @@ shapes = (
 ref = ogonekcomb;
 }
 );
-width = 364;
+width = 356;
 }
 );
 metricRight = "=|";
