@@ -1,20 +1,21 @@
 {
 color = 3;
-glyphname = seven.osf;
+glyphname = nine.tf;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (0,-140);
-ref = seven;
+alignment = -1;
+pos = (27,0);
+ref = nine;
 }
 );
-width = 454;
+width = 620;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 558;
+width = 600;
 }
 );
 }

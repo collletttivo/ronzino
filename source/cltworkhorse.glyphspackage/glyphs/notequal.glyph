@@ -21,7 +21,21 @@ width = 560;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 1614;
+shapes = (
+{
+closed = 1;
+nodes = (
+(460,494,l),
+(378,556,l),
+(80,55,l),
+(163,-4,l)
+);
+},
+{
+ref = equal;
+}
+);
+width = 544;
 }
 );
 metricLeft = equal;

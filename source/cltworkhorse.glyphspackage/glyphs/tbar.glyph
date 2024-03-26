@@ -21,11 +21,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (-75,60);
+pos = (-71,60);
 ref = strokeshortcomb;
 }
 );
-width = 355;
+width = 359;
 }
 );
 unicode = 359;
