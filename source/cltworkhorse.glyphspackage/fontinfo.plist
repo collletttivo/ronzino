@@ -643,10 +643,16 @@ over = -12;
 pos = -218;
 },
 {
+over = 12;
+pos = 682;
 },
 {
+over = 12;
+pos = 552;
 },
 {
+over = 12;
+pos = -114;
 }
 );
 name = Bold;
