@@ -1,5 +1,5 @@
 {
-.appVersion = "3151";
+.appVersion = "3259";
 .formatVersion = 3;
 axes = (
 {
@@ -680,13 +680,12 @@ name = Regular;
 },
 {
 axesValues = (
-115,
+108,
 0
 );
-exports = 0;
 instanceInterpolations = {
-"E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81" = 0.47917;
-m01 = 0.52083;
+"E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81" = 0.33333;
+m01 = 0.66667;
 };
 name = Medium;
 weightClass = 500;
@@ -748,6 +747,23 @@ value = "Nunzio Mazzaferro";
 );
 },
 {
+key = designerURL;
+value = "https://www.luigigorlero.com";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "SIL OpenFont License";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://scripts.sil.org/OFL_web";
+},
+{
 key = manufacturers;
 values = (
 {
@@ -761,25 +777,8 @@ key = manufacturerURL;
 value = "https://collletttivo.it";
 },
 {
-key = licenses;
-values = (
-{
-language = dflt;
-value = "SIL OpenFont License";
-}
-);
-},
-{
-key = designerURL;
-value = "https://www.luigigorlero.com";
-},
-{
 key = vendorID;
 value = CLT;
-},
-{
-key = licenseURL;
-value = "https://scripts.sil.org/OFL_web";
 }
 );
 stems = (
