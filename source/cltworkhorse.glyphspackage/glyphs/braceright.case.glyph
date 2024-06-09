@@ -3,11 +3,25 @@ glyphname = braceright.case;
 layers = (
 {
 layerId = m01;
-width = 428;
+shapes = (
+{
+angle = 180;
+pos = (302,704);
+ref = braceleft.case;
+}
+);
+width = 302;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 428;
+shapes = (
+{
+angle = 180;
+pos = (380,704);
+ref = braceleft.case;
+}
+);
+width = 380;
 }
 );
 metricLeft = "=|braceleft.case";

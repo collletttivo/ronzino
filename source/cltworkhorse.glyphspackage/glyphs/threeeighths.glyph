@@ -29,11 +29,11 @@ pos = (324,0);
 ref = fraction;
 },
 {
-pos = (438,0);
+pos = (490,0);
 ref = eight.dnom;
 }
 );
-width = 792;
+width = 844;
 }
 );
 metricLeft = three.numr;

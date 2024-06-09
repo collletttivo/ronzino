@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = zero.tf;
 layers = (
 {
@@ -15,7 +14,14 @@ width = 620;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 600;
+shapes = (
+{
+alignment = -1;
+pos = (-13,0);
+ref = zero;
+}
+);
+width = 620;
 }
 );
 }

@@ -16,12 +16,12 @@ width = 288;
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
-pos = (322,0);
+angle = 180;
+pos = (398,464);
 ref = braceleft;
-scale = (-1,1);
 }
 );
-width = 322;
+width = 398;
 }
 );
 metricLeft = "=|braceleft";

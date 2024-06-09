@@ -26,23 +26,27 @@ width = 1182;
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
+alignment = -1;
+pos = (9,0);
 ref = zero.numr;
 },
 {
-pos = (372,0);
+pos = (323,0);
 ref = fraction;
 },
 {
-pos = (486,0);
+pos = (489,0);
 ref = zero.dnom;
 },
 {
-pos = (858,0);
+pos = (861,0);
 ref = zero.dnom;
 }
 );
-width = 1230;
+width = 1232;
 }
 );
+metricLeft = percent;
+metricRight = percent;
 unicode = 8240;
 }

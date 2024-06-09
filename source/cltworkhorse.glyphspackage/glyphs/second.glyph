@@ -27,7 +27,27 @@ width = 372;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 584;
+shapes = (
+{
+closed = 1;
+nodes = (
+(145,418,l),
+(256,692,l),
+(108,692,l),
+(50,418,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(325,418,l),
+(446,692,l),
+(298,692,l),
+(230,418,l)
+);
+}
+);
+width = 461;
 }
 );
 metricLeft = minute;

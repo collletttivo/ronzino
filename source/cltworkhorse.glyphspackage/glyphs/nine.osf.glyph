@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = nine.osf;
 layers = (
 {
@@ -14,7 +13,13 @@ width = 566;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 558;
+shapes = (
+{
+pos = (0,-129);
+ref = nine;
+}
+);
+width = 600;
 }
 );
 }

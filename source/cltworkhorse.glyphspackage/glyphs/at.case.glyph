@@ -1,27 +1,25 @@
 {
-glyphname = six.tf;
+glyphname = at.case;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-alignment = -1;
-pos = (22,0);
-ref = six;
+pos = (0,74);
+ref = at;
 }
 );
-width = 620;
+width = 952;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
-alignment = -1;
-pos = (22,0);
-ref = six;
+pos = (0,96);
+ref = at;
 }
 );
-width = 620;
+width = 1047;
 }
 );
 }

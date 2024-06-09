@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = greaterequal;
 layers = (
 {
@@ -32,7 +31,31 @@ width = 560;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-width = 1614;
+shapes = (
+{
+closed = 1;
+nodes = (
+(502,0,l),
+(502,94,l),
+(50,94,l),
+(50,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(502,290,l),
+(502,390,l),
+(52,566,l),
+(52,453,l),
+(418,321,l),
+(418,359,l),
+(51,239,l),
+(51,126,l)
+);
+}
+);
+width = 552;
 },
 {
 associatedMasterId = m01;

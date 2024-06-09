@@ -22,17 +22,16 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(352,644,l),
-(272,707,l),
-(-238,48,l),
-(-158,-15,l)
+(408,644,l),
+(328,707,l),
+(-182,48,l),
+(-102,-15,l)
 );
 }
 );
-width = 114;
+width = 166;
 }
 );
-metricRight = "=|";
 unicode = 8260;
 userData = {
 KernOnSpecialSpacing = {

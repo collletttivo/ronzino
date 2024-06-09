@@ -5,6 +5,7 @@ layers = (
 layerId = m01;
 shapes = (
 {
+alignment = -1;
 ref = zero.numr;
 },
 {
@@ -22,18 +23,21 @@ width = 822;
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
+alignment = -1;
+pos = (9,0);
 ref = zero.numr;
 },
 {
-pos = (372,0);
+alignment = -1;
+pos = (325,0);
 ref = fraction;
 },
 {
-pos = (486,0);
+pos = (491,0);
 ref = zero.dnom;
 }
 );
-width = 858;
+width = 862;
 }
 );
 unicode = 37;

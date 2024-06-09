@@ -1,5 +1,5 @@
 {
-.appVersion = "3259";
+.appVersion = "3260";
 .formatVersion = 3;
 axes = (
 {
@@ -14,7 +14,7 @@ tag = ital;
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Schwa F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W X Y Yacute Ycircumflex Ydieresis Z Zacute Zcaron Zdotaccent Germandbls.001 G.ss01 IJ.ss01";
+code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Schwa F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W X Y Yacute Ycircumflex Ydieresis Z Zacute Zcaron Zdotaccent G.ss01 IJ.ss01";
 name = Uppercase;
 }
 );
@@ -81,13 +81,13 @@ feature numr;
 feature dnom;
 feature ordn;
 feature lnum;
+feature pnum;
+feature tnum;
 feature onum;
 feature case;
 feature vert;
 feature vrt2;
 feature ss01;
-feature pnum;
-feature tnum;
 ";
 tag = aalt;
 },
@@ -95,55 +95,57 @@ tag = aalt;
 automatic = 1;
 code = "lookup ccmp_Other_1 {
 	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
-	@CombiningNonTopAccents = [cedillacomb ogonekcomb];
-	sub [i j]' @CombiningTopAccents by [idotless jdotless];
-	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub i' @CombiningTopAccents by idotless;
+	sub j' @CombiningTopAccents by jdotless;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	lookupflag 0;
 	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb];
 	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case];
 	sub @Markscomb @Markscomb' by @MarkscombCase;
 	sub @Uppercase @Markscomb' by @MarkscombCase;
-} ccmp_Other_1;
+} ccmp_Other_2;
 
-lookup ccmp_Other_2 {
+lookup ccmp_Other_3 {
+	lookupflag 0;
 	sub @Markscomb' @MarkscombCase by @MarkscombCase;
 	sub @MarkscombCase @Markscomb' by @MarkscombCase;
-} ccmp_Other_2;
+} ccmp_Other_3;
 ";
 tag = ccmp;
 },
 {
 automatic = 1;
-code = "lookup locl_latn_0 {
-	script latn;
-	language AZE;
-	sub i by idotaccent;
-	language CRT;
-	sub i by idotaccent;
-	language KAZ;
-	sub i by idotaccent;
-	language TAT;
-	sub i by idotaccent;
-	language TRK;
+code = "script latn;
+language AZE;
+lookup locl_latn_0 {
 	sub i by idotaccent;
 } locl_latn_0;
+language CRT;
+lookup locl_latn_0;
+language KAZ;
+lookup locl_latn_0;
+language TAT;
+lookup locl_latn_0;
+language TRK;
+lookup locl_latn_0;
 
+script latn;
+language ROM;
 lookup locl_latn_1 {
-	script latn;
-	language ROM;
-	sub Scedilla by Scommaaccent;
-	sub scedilla by scommaaccent;
-	sub Tcedilla by Tcommaaccent;
-	sub tcedilla by tcommaaccent;
-	language MOL;
 	sub Scedilla by Scommaaccent;
 	sub scedilla by scommaaccent;
 	sub Tcedilla by Tcommaaccent;
 	sub tcedilla by tcommaaccent;
 } locl_latn_1;
+language MOL;
+lookup locl_latn_1;
 
+script latn;
+language CAT;
 lookup locl_latn_2 {
-	script latn;
-	language CAT;
 	sub  l' periodcentered' l by ldot;
 	sub  L' periodcentered' L by Ldot;
 } locl_latn_2;
@@ -192,7 +194,9 @@ tag = sinf;
 },
 {
 automatic = 1;
-code = "sub zero by zerosuperior;
+code = "sub dagger by dagger.sups;
+sub daggerdbl by daggerdbl.sups;
+sub zero by zerosuperior;
 sub one by onesuperior;
 sub two by twosuperior;
 sub three by threesuperior;
@@ -202,8 +206,6 @@ sub six by sixsuperior;
 sub seven by sevensuperior;
 sub eight by eightsuperior;
 sub nine by ninesuperior;
-sub dagger by dagger.sups;
-sub daggerdbl by daggerdbl.sups;
 ";
 tag = sups;
 },
@@ -390,12 +392,14 @@ tag = onum;
 },
 {
 automatic = 1;
-code = "sub parenleft by parenleft.case;
+code = "sub hyphen by hyphen.case;
+sub parenleft by parenleft.case;
 sub parenright by parenright.case;
 sub braceleft by braceleft.case;
 sub braceright by braceright.case;
 sub bracketleft by bracketleft.case;
 sub bracketright by bracketright.case;
+sub at by at.case;
 sub dieresiscomb by dieresiscomb.case;
 sub dotaccentcomb by dotaccentcomb.case;
 sub gravecomb by gravecomb.case;
@@ -447,7 +451,6 @@ automatic = 1;
 code = "sub G by G.ss01;
 sub IJ by IJ.ss01;
 sub g by g.ss01;
-sub ampersand by ampersand.ss01;
 ";
 labels = (
 {
@@ -651,8 +654,8 @@ over = 12;
 pos = 552;
 },
 {
-over = 12;
-pos = -114;
+over = -12;
+pos = -136;
 }
 );
 name = Bold;
@@ -680,12 +683,12 @@ name = Regular;
 },
 {
 axesValues = (
-108,
+120,
 0
 );
 instanceInterpolations = {
-"E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81" = 0.33333;
-m01 = 0.66667;
+"E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81" = 0.58333;
+m01 = 0.41667;
 };
 name = Medium;
 weightClass = 500;
