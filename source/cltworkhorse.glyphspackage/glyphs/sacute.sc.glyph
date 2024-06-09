@@ -1,0 +1,31 @@
+{
+glyphname = sacute.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = s.sc;
+},
+{
+pos = (128,103);
+ref = acutecomb.sc;
+}
+);
+width = 490;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+ref = s.sc;
+},
+{
+pos = (137,115);
+ref = acutecomb.sc;
+}
+);
+width = 541;
+}
+);
+}

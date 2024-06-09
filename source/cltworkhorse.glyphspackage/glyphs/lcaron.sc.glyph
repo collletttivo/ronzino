@@ -1,0 +1,31 @@
+{
+glyphname = lcaron.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = l.sc;
+},
+{
+pos = (162,-12);
+ref = caroncomb.alt.sc;
+}
+);
+width = 419;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+ref = l.sc;
+},
+{
+pos = (198,-4);
+ref = caroncomb.alt.sc;
+}
+);
+width = 449;
+}
+);
+}

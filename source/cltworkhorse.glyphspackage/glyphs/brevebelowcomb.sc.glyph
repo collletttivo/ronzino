@@ -1,0 +1,92 @@
+{
+glyphname = brevebelowcomb.sc;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (171,0);
+},
+{
+name = bottom;
+pos = (171,-165);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(241,-165,o),
+(282,-123,o),
+(282,-50,c),
+(223,-50,l),
+(223,-86,o),
+(205,-107,o),
+(171,-107,cs),
+(137,-107,o),
+(118,-87,o),
+(118,-50,c),
+(59,-50,l),
+(59,-122,o),
+(100,-165,o),
+(171,-165,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 341;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (193,0);
+},
+{
+name = bottom;
+pos = (193,-154);
+}
+);
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(276,-154,o),
+(326,-105,o),
+(326,-22,c),
+(243,-22,l),
+(243,-57,o),
+(224,-78,o),
+(193,-78,cs),
+(162,-78,o),
+(142,-58,o),
+(142,-22,c),
+(59,-22,l),
+(59,-104,o),
+(109,-154,o),
+(193,-154,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 385;
+}
+);
+userData = {
+RMXScaler = {
+source = brevebelowcomb;
+};
+};
+}

@@ -1,0 +1,65 @@
+{
+glyphname = v.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(297,0,l),
+(483,534,l),
+(397,534,l),
+(251,98,l),
+(257,98,l),
+(107,534,l),
+(11,534,l),
+(200,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 5;
+height = 78;
+weight = -4;
+width = 78;
+};
+};
+width = 494;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(348,0,l),
+(532,559,l),
+(407,559,l),
+(281,153,l),
+(288,153,l),
+(156,559,l),
+(13,559,l),
+(200,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 10;
+height = 80;
+weight = -8;
+width = 80;
+};
+};
+width = 545;
+}
+);
+userData = {
+KernOnName = V;
+RMXScaler = {
+source = V;
+};
+};
+}

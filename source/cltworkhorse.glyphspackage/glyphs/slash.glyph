@@ -29,7 +29,7 @@ nodes = (
 );
 }
 );
-width = 506;
+width = 470;
 }
 );
 metricRight = "=|";

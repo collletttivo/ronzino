@@ -1,0 +1,81 @@
+{
+glyphname = f.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(155,0,l),
+(155,471,l),
+(149,465,l),
+(419,465,l),
+(419,534,l),
+(65,534,l),
+(65,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(377,238,l),
+(377,307,l),
+(149,307,l),
+(149,238,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 5;
+height = 78;
+weight = -4;
+width = 78;
+};
+};
+width = 436;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(200,0,l),
+(200,465,l),
+(194,458,l),
+(452,458,l),
+(452,559,l),
+(64,559,l),
+(64,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(412,230,l),
+(412,331,l),
+(194,331,l),
+(194,230,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 10;
+height = 80;
+weight = -8;
+width = 80;
+};
+};
+width = 472;
+}
+);
+metricLeft = h.sc;
+userData = {
+RMXScaler = {
+source = F;
+};
+};
+}

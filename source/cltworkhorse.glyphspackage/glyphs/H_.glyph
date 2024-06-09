@@ -2,6 +2,24 @@
 glyphname = H;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (345,0);
+},
+{
+name = center;
+pos = (345,510);
+},
+{
+name = top;
+pos = (345,680);
+},
+{
+name = topleft;
+pos = (20,680);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -35,6 +53,24 @@ nodes = (
 width = 690;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (354,0);
+},
+{
+name = center;
+pos = (354,519);
+},
+{
+name = top;
+pos = (354,692);
+},
+{
+name = topleft;
+pos = (20,692);
+}
+);
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {

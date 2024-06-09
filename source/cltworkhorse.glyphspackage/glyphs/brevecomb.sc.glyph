@@ -1,0 +1,88 @@
+{
+glyphname = brevecomb.sc;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (170,431);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(241,475,o),
+(282,517,o),
+(282,590,c),
+(223,590,l),
+(223,554,o),
+(205,533,o),
+(171,533,cs),
+(137,533,o),
+(118,553,o),
+(118,590,c),
+(59,590,l),
+(59,518,o),
+(100,475,o),
+(171,475,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 341;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (191,444);
+}
+);
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(276,486,o),
+(326,535,o),
+(326,618,c),
+(243,618,l),
+(243,583,o),
+(224,562,o),
+(193,562,cs),
+(162,562,o),
+(142,582,o),
+(142,618,c),
+(59,618,l),
+(59,536,o),
+(109,486,o),
+(193,486,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 385;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+RMXScaler = {
+source = brevecomb;
+};
+};
+}

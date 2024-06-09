@@ -1,0 +1,31 @@
+{
+glyphname = uogonek.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (173,8);
+ref = ogonekcomb.sc;
+}
+);
+width = 541;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (165,5);
+ref = ogonekcomb.sc;
+}
+);
+width = 570;
+}
+);
+}

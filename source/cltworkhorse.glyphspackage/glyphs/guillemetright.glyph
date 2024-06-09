@@ -5,12 +5,12 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (566,0);
+pos = (565,0);
 ref = guillemetleft;
 scale = (-1,1);
 }
 );
-width = 566;
+width = 565;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";

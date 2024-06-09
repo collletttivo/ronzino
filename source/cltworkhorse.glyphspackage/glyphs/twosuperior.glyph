@@ -19,7 +19,7 @@ pos = (0,415);
 ref = twoinferior;
 }
 );
-width = 352;
+width = 362;
 }
 );
 metricLeft = twoinferior;

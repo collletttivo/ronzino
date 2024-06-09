@@ -1,0 +1,84 @@
+{
+glyphname = commaturnedabovecomb.sc;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (100,431);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(94,643,o),
+(59,608,o),
+(59,558,cs),
+(59,476,l),
+(148,476,l),
+(148,563,l),
+(101,563,l),
+(101,565,ls),
+(101,592,o),
+(120,611,o),
+(151,614,c),
+(142,651,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 210;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (108,444);
+}
+);
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(106,692,o),
+(59,640,o),
+(59,586,cs),
+(59,479,l),
+(179,479,l),
+(179,595,l),
+(127,595,l),
+(127,596,ls),
+(127,626,o),
+(151,647,o),
+(182,651,c),
+(171,706,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 241;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+RMXScaler = {
+source = commaturnedabovecomb;
+};
+};
+}

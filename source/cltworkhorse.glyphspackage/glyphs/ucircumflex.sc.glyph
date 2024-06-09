@@ -1,0 +1,31 @@
+{
+glyphname = ucircumflex.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (78,103);
+ref = circumflexcomb.sc;
+}
+);
+width = 541;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (59,115);
+ref = circumflexcomb.sc;
+}
+);
+width = 570;
+}
+);
+}

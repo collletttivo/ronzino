@@ -1,0 +1,42 @@
+{
+glyphname = Udieresisacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (140,148);
+ref = dieresiscomb.case;
+},
+{
+alignment = -1;
+pos = (187,272);
+ref = acutecomb.case;
+}
+);
+width = 680;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (110,147);
+ref = dieresiscomb.case;
+},
+{
+alignment = -1;
+pos = (187,292);
+ref = acutecomb.case;
+}
+);
+width = 684;
+}
+);
+unicode = 471;
+}

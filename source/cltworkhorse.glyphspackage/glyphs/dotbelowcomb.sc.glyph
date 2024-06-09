@@ -1,0 +1,72 @@
+{
+glyphname = dotbelowcomb.sc;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (104,0);
+},
+{
+name = bottom;
+pos = (104,-142);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(150,-142,l),
+(150,-54,l),
+(59,-54,l),
+(59,-142,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 209;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (125,0);
+},
+{
+name = bottom;
+pos = (125,-144);
+}
+);
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(191,-144,l),
+(191,-26,l),
+(60,-26,l),
+(60,-144,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 251;
+}
+);
+userData = {
+RMXScaler = {
+source = dotbelowcomb;
+};
+};
+}

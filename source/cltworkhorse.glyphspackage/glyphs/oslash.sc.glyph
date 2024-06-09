@@ -1,0 +1,33 @@
+{
+glyphname = oslash.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (-26,-6);
+ref = slashlongcomb;
+scale = (0.8,0.8);
+}
+);
+width = 566;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (-25,4);
+ref = slashlongcomb;
+scale = (0.8,0.8);
+}
+);
+width = 596;
+}
+);
+}

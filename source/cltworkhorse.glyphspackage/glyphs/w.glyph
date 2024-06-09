@@ -2,6 +2,16 @@
 glyphname = w;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (353,0);
+},
+{
+name = top;
+pos = (353,532);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -29,6 +39,16 @@ nodes = (
 width = 706;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (372,0);
+},
+{
+name = top;
+pos = (372,544);
+}
+);
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {

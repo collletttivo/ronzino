@@ -1,0 +1,100 @@
+{
+glyphname = tildecomb.sc;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (192,437);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(111,518,o),
+(122,527,o),
+(140,527,cs),
+(173,527,o),
+(192,487,o),
+(239,487,cs),
+(289,487,o),
+(321,528,o),
+(333,585,c),
+(285,593,l),
+(277,565,o),
+(267,547,o),
+(245,547,cs),
+(213,547,o),
+(193,586,o),
+(145,586,cs),
+(99,586,o),
+(64,551,o),
+(50,496,c),
+(98,488,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 383;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (206,466);
+}
+);
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(127,520,o),
+(135,533,o),
+(158,533,cs),
+(194,533,o),
+(204,498,o),
+(258,498,cs),
+(315,498,o),
+(350,539,o),
+(360,606,c),
+(301,620,l),
+(287,589,o),
+(277,579,o),
+(254,579,cs),
+(219,579,o),
+(208,613,o),
+(155,613,cs),
+(97,613,o),
+(62,568,o),
+(57,512,c),
+(116,497,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 417;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+RMXScaler = {
+source = tildecomb;
+};
+};
+}

@@ -33,7 +33,7 @@ pos = (426,0);
 ref = two.dnom;
 }
 );
-width = 740;
+width = 752;
 }
 );
 metricLeft = one.numr;

@@ -1,0 +1,88 @@
+{
+glyphname = ogonekcomb.sc;
+layers = (
+{
+anchors = (
+{
+name = _ogonek;
+pos = (178,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(205,-125,l),
+(160,-147,o),
+(126,-133,o),
+(126,-98,cs),
+(126,-67,o),
+(149,-31,o),
+(185,-6,c),
+(137,0,l),
+(89,-27,o),
+(58,-72,o),
+(58,-114,cs),
+(58,-178,o),
+(133,-205,o),
+(218,-173,c)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 276;
+},
+{
+anchors = (
+{
+name = _ogonek;
+pos = (206,0);
+}
+);
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(227,-125,l),
+(184,-140,o),
+(154,-130,o),
+(154,-94,cs),
+(154,-60,o),
+(173,-31,o),
+(213,-6,c),
+(137,0,l),
+(89,-23,o),
+(56,-74,o),
+(56,-118,cs),
+(56,-179,o),
+(127,-213,o),
+(240,-181,c)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 296;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+RMXScaler = {
+source = ogonekcomb;
+};
+};
+}

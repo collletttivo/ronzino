@@ -1,0 +1,76 @@
+{
+glyphname = caroncomb.sc;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (193,430);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(241,479,l),
+(326,599,l),
+(252,599,l),
+(191,516,l),
+(197,516,l),
+(132,599,l),
+(59,599,l),
+(145,479,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 385;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (226,442);
+}
+);
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(301,488,l),
+(389,610,l),
+(283,610,l),
+(222,534,l),
+(228,534,l),
+(163,610,l),
+(59,610,l),
+(149,488,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 448;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+RMXScaler = {
+source = caroncomb;
+};
+};
+}

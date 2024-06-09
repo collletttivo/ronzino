@@ -1,0 +1,72 @@
+{
+glyphname = macronbelowcomb.sc;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (169,0);
+},
+{
+name = bottom;
+pos = (169,-125);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(279,-125,l),
+(279,-66,l),
+(59,-66,l),
+(59,-125,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 338;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (173,0);
+},
+{
+name = bottom;
+pos = (173,-123);
+}
+);
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(286,-123,l),
+(286,-41,l),
+(59,-41,l),
+(59,-123,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 345;
+}
+);
+userData = {
+RMXScaler = {
+source = macronbelowcomb;
+};
+};
+}

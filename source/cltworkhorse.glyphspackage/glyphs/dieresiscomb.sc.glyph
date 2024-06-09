@@ -1,0 +1,86 @@
+{
+glyphname = dieresiscomb.sc;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (167,431);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(274,493,l),
+(274,575,l),
+(192,575,l),
+(192,493,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(141,493,l),
+(141,575,l),
+(59,575,l),
+(59,493,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 333;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (195,444);
+}
+);
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(330,491,l),
+(330,609,l),
+(213,609,l),
+(213,491,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(176,491,l),
+(176,609,l),
+(59,609,l),
+(59,491,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 389;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+RMXScaler = {
+source = dieresiscomb;
+};
+};
+}
