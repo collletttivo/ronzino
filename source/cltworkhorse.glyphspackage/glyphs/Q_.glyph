@@ -2,6 +2,13 @@
 glyphname = Q;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = O;
+}
+);
+};
 layerId = m01;
 shapes = (
 {
