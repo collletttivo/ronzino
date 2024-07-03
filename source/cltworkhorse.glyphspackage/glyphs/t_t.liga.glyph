@@ -89,7 +89,7 @@ pos = (312,0);
 ref = t;
 }
 );
-width = 620;
+width = 610;
 },
 {
 associatedMasterId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
@@ -135,7 +135,7 @@ pos = (350,0);
 ref = t;
 }
 );
-width = 727;
+width = 717;
 }
 );
 metricLeft = t;

@@ -8,7 +8,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (61,0);
+pos = (71,0);
 ref = dieresiscomb;
 }
 );
@@ -34,11 +34,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (26,0);
+pos = (24,0);
 ref = dieresiscomb;
 }
 );
-width = 511;
+width = 517;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -47,11 +47,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (17,-12);
+pos = (21,-12);
 ref = dieresiscomb;
 }
 );
-width = 543;
+width = 551;
 }
 );
 unicode = 228;

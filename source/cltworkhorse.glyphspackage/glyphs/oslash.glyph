@@ -55,11 +55,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (-79,-2);
+pos = (-81,-2);
 ref = slashshortcomb;
 }
 );
-width = 560;
+width = 556;
 },
 {
 associatedMasterId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
@@ -89,11 +89,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (-88,0);
+pos = (-89,0);
 ref = slashshortcomb;
 }
 );
-width = 576;
+width = 574;
 }
 );
 metricLeft = o;

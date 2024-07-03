@@ -38,7 +38,7 @@ pos = (18,0);
 ref = tildecomb;
 }
 );
-width = 558;
+width = 556;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -47,11 +47,11 @@ shapes = (
 ref = n;
 },
 {
-pos = (23,-16);
+pos = (25,-16);
 ref = tildecomb;
 }
 );
-width = 600;
+width = 601;
 }
 );
 unicode = 241;

@@ -184,7 +184,7 @@ nodes = (
 );
 }
 );
-width = 596;
+width = 573;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -237,7 +237,7 @@ nodes = (
 );
 }
 );
-width = 612;
+width = 589;
 }
 );
 metricRight = eight.osf;

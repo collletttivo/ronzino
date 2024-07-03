@@ -7,14 +7,14 @@ name = Weight;
 tag = wght;
 },
 {
-name = Italic;
-tag = ital;
+name = Slant;
+tag = slnt;
 }
 );
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotbelow Dmacronbelow Eth E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute K Kcommaaccent Kmacronbelow L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tmacronbelow U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Lcommaaccent.loclMAH Ncommaaccent.loclMAH G.ss01 IJ.ss01";
+code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotbelow Dmacronbelow Eth E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute K Kcommaaccent Kmacronbelow L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tmacronbelow U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Lcommaaccent.loclMAH Ncommaaccent.loclMAH G.ss03 IJ.ss04";
 name = Uppercase;
 }
 );
@@ -70,7 +70,8 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature locl;
+code = "feature calt;
+feature locl;
 feature subs;
 feature sinf;
 feature sups;
@@ -88,8 +89,29 @@ feature case;
 feature vert;
 feature vrt2;
 feature ss01;
+feature ss02;
+feature ss03;
+feature ss04;
 ";
 tag = aalt;
+},
+{
+code = "#ifdef VARIABLE
+condition 6 < slnt;
+sub a by a.ss01;
+sub aacute by aacute.ss01;
+sub abreve by abreve.ss01;
+sub acaron by acaron.ss01;
+sub acircumflex by acircumflex.ss01;
+sub adieresis by adieresis.ss01;
+sub agrave by agrave.ss01;
+sub amacron by amacron.ss01;
+sub aogonek by aogonek.ss01;
+sub aring by aring.ss01;
+sub atilde by atilde.ss01;
+#endif
+";
+tag = calt;
 },
 {
 automatic = 1;
@@ -712,19 +734,66 @@ code = "sub emdash by emdash.vert;
 tag = vrt2;
 },
 {
+code = "sub a by a.ss01;
+sub aacute by aacute.ss01;
+sub abreve by abreve.ss01;
+sub acaron by acaron.ss01;
+sub acircumflex by acircumflex.ss01;
+sub adieresis by adieresis.ss01;
+sub agrave by agrave.ss01;
+sub amacron by amacron.ss01;
+sub aogonek by aogonek.ss01;
+sub aring by aring.ss01;
+sub atilde by atilde.ss01;";
+labels = (
+{
+language = dflt;
+value = "Alt a";
+}
+);
+tag = ss01;
+},
+{
 automatic = 1;
-code = "sub G by G.ss01;
-sub IJ by IJ.ss01;
-sub a by a.ss01;
-sub g by g.ss01;
+code = "sub g by g.ss02;
+sub gbreve by gbreve.ss02;
+sub gcaron by gcaron.ss02;
+sub gcircumflex by gcircumflex.ss02;
+sub gcommaaccent by gcommaaccent.ss02;
+sub gdotaccent by gdotaccent.ss02;
+sub gmacron by gmacron.ss02;
 ";
 labels = (
 {
 language = dflt;
-value = "";
+value = "Alt g";
 }
 );
-tag = ss01;
+tag = ss02;
+},
+{
+automatic = 1;
+code = "sub G by G.ss03;
+";
+labels = (
+{
+language = dflt;
+value = "Alt G";
+}
+);
+tag = ss03;
+},
+{
+automatic = 1;
+code = "sub IJ by IJ.ss04;
+";
+labels = (
+{
+language = dflt;
+value = "Ligature IJ";
+}
+);
+tag = ss04;
 }
 );
 fontMaster = (
@@ -815,6 +884,8 @@ pos = 552;
 {
 over = -12;
 pos = -124;
+},
+{
 }
 );
 name = Regular;
@@ -922,6 +993,8 @@ pos = 552;
 {
 over = -12;
 pos = -136;
+},
+{
 }
 );
 name = Bold;
@@ -938,7 +1011,7 @@ GSOffsetVertical = -2;
 {
 axesValues = (
 92,
-1
+8
 );
 customParameters = (
 {
@@ -1022,6 +1095,9 @@ pos = 552;
 {
 over = -12;
 pos = -124;
+},
+{
+pos = 8;
 }
 );
 name = Oblique;
@@ -1044,7 +1120,7 @@ KernOnModels = (
 {
 axesValues = (
 140,
-1
+8
 );
 customParameters = (
 {
@@ -1129,6 +1205,9 @@ pos = 552;
 {
 over = -12;
 pos = -136;
+},
+{
+pos = 8;
 }
 );
 name = "Bold Oblique";
@@ -1157,11 +1236,12 @@ name = Regular;
 {
 axesValues = (
 92,
-1
+8
 );
 instanceInterpolations = {
 "980A8AF2-BF11-492D-9410-496A94B21BD3" = 1;
 };
+isItalic = 1;
 name = Oblique;
 },
 {
@@ -1179,12 +1259,14 @@ weightClass = 500;
 {
 axesValues = (
 120,
-1
+8
 );
 instanceInterpolations = {
 "829AF10C-3E33-4291-B5B6-8F7CF12D6A62" = 0.58333;
 "980A8AF2-BF11-492D-9410-496A94B21BD3" = 0.41667;
 };
+isItalic = 1;
+linkStyle = Medium;
 name = "Medium Oblique";
 weightClass = 500;
 },
@@ -1203,11 +1285,13 @@ weightClass = 700;
 {
 axesValues = (
 140,
-1
+8
 );
 instanceInterpolations = {
 "829AF10C-3E33-4291-B5B6-8F7CF12D6A62" = 1;
 };
+isItalic = 1;
+linkStyle = Bold;
 name = "Bold Oblique";
 weightClass = 700;
 }
@@ -1239,6 +1323,9 @@ name = "Oldstyle Figures x-Height";
 {
 filter = "name ENDSWITH \".osf\"";
 name = "Oldstyle Figures Descender";
+},
+{
+type = "italic angle";
 }
 );
 properties = (

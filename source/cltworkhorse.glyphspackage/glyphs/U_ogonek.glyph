@@ -129,7 +129,7 @@ nodes = (
 ref = U;
 }
 );
-width = 660;
+width = 656;
 },
 {
 background = {
@@ -203,7 +203,7 @@ nodes = (
 ref = U;
 }
 );
-width = 647;
+width = 648;
 }
 );
 metricLeft = U;

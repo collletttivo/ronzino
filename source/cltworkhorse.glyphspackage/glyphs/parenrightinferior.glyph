@@ -45,7 +45,7 @@ width = 197;
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
 shapes = (
 {
-pos = (180,0);
+pos = (105,0);
 ref = parenleftinferior;
 scale = (-1,1);
 }
@@ -65,7 +65,7 @@ width = 180;
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
 shapes = (
 {
-pos = (197,0);
+pos = (121,0);
 ref = parenleftinferior;
 scale = (-1,1);
 }

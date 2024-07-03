@@ -34,11 +34,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (307,0);
+pos = (303,0);
 ref = i;
 }
 );
-width = 536;
+width = 532;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -47,11 +47,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (354,0);
+pos = (350,0);
 ref = i;
 }
 );
-width = 622;
+width = 618;
 }
 );
 metricLeft = f;

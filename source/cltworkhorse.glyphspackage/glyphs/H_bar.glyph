@@ -55,7 +55,7 @@ pos = (6,0);
 ref = H;
 }
 );
-width = 756;
+width = 704;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -73,7 +73,7 @@ nodes = (
 ref = H;
 }
 );
-width = 749;
+width = 708;
 }
 );
 metricRight = "=|";

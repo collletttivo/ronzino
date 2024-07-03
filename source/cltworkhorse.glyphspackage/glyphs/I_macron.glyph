@@ -34,11 +34,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (-109,148);
+pos = (-111,148);
 ref = macroncomb.case;
 }
 );
-width = 269;
+width = 265;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -47,11 +47,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (-104,147);
+pos = (-105,147);
 ref = macroncomb.case;
 }
 );
-width = 290;
+width = 287;
 }
 );
 unicode = 298;

@@ -34,11 +34,11 @@ shapes = (
 ref = W;
 },
 {
-pos = (217,148);
+pos = (215,148);
 ref = acutecomb.case;
 }
 );
-width = 825;
+width = 821;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -47,7 +47,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (289,147);
+pos = (288,147);
 ref = acutecomb.case;
 }
 );

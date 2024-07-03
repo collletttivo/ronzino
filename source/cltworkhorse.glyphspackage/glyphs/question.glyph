@@ -149,7 +149,7 @@ nodes = (
 );
 },
 {
-pos = (116,0);
+pos = (38,0);
 ref = period;
 }
 );
@@ -229,11 +229,11 @@ nodes = (
 );
 },
 {
-pos = (132,0);
+pos = (40,0);
 ref = period;
 }
 );
-width = 484;
+width = 487;
 }
 );
 unicode = 63;

@@ -1,5 +1,5 @@
 {
-glyphname = IJ.ss01;
+glyphname = IJ.ss04;
 layers = (
 {
 layerId = m01;
@@ -56,7 +56,7 @@ pos = (44,0);
 ref = J;
 }
 );
-width = 576;
+width = 572;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -64,14 +64,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(203,383,l),
-(247,692,l),
-(107,692,l),
-(63,383,l)
+(204,383,l),
+(248,692,l),
+(108,692,l),
+(64,383,l)
 );
 },
 {
-pos = (34,0);
+pos = (35,0);
 ref = J;
 }
 );

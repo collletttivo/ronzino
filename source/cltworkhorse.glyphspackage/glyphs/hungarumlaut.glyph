@@ -26,7 +26,7 @@ shapes = (
 ref = hungarumlautcomb;
 }
 );
-width = 438;
+width = 625;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -35,7 +35,7 @@ shapes = (
 ref = hungarumlautcomb;
 }
 );
-width = 504;
+width = 695;
 }
 );
 metricRight = "=|";

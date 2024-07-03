@@ -34,11 +34,11 @@ shapes = (
 ref = k;
 },
 {
-pos = (40,0);
+pos = (38,0);
 ref = macronbelowcomb;
 }
 );
-width = 520;
+width = 516;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -51,7 +51,7 @@ pos = (36,0);
 ref = macronbelowcomb;
 }
 );
-width = 545;
+width = 544;
 }
 );
 unicode = 7733;
