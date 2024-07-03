@@ -62,6 +62,68 @@ width = 80;
 };
 };
 width = 251;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (104,0);
+},
+{
+name = bottom;
+pos = (84,-142);
+}
+);
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(130,-142,l),
+(142,-54,l),
+(51,-54,l),
+(39,-142,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 209;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (125,0);
+},
+{
+name = bottom;
+pos = (105,-144);
+}
+);
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+closed = 1;
+nodes = (
+(171,-144,l),
+(188,-26,l),
+(57,-26,l),
+(40,-144,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 251;
 }
 );
 userData = {

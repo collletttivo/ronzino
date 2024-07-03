@@ -30,6 +30,36 @@ nodes = (
 }
 );
 width = 465;
+},
+{
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(412,229,l),
+(412,301,l),
+(52,301,l),
+(52,229,l)
+);
+}
+);
+width = 464;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+closed = 1;
+nodes = (
+(413,223,l),
+(413,327,l),
+(52,327,l),
+(52,223,l)
+);
+}
+);
+width = 465;
 }
 );
 metricLeft = hyphen;

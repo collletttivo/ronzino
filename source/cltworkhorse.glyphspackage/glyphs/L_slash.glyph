@@ -39,6 +39,45 @@ nodes = (
 }
 );
 width = 524;
+},
+{
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+name = Regular;
+shapes = (
+{
+pos = (6,0);
+ref = L;
+},
+{
+closed = 1;
+nodes = (
+(390,382,l),
+(368,450,l),
+(18,334,l),
+(40,268,l)
+);
+}
+);
+width = 483;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+pos = (10,0);
+ref = L;
+},
+{
+closed = 1;
+nodes = (
+(416,370,l),
+(384,466,l),
+(6,352,l),
+(38,258,l)
+);
+}
+);
+width = 539;
 }
 );
 metricRight = L;

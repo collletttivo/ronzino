@@ -64,6 +64,70 @@ width = 52;
 };
 };
 width = 315;
+},
+{
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(110,-2,l),
+(139,138,o),
+(204,246,o),
+(288,312,c),
+(294,359,l),
+(17,359,l),
+(9,300,l),
+(199,300,l),
+(198,304,l),
+(121,231,o),
+(56,112,o),
+(32,-2,c)
+);
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 8;
+height = 52;
+verticalShift = -2;
+weight = -20;
+width = 54;
+};
+};
+width = 303;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+closed = 1;
+nodes = (
+(143,-2,l),
+(183,152,o),
+(239,259,o),
+(313,308,c),
+(321,367,l),
+(20,367,l),
+(9,287,l),
+(184,287,l),
+(182,290,l),
+(118,220,o),
+(61,109,o),
+(34,-2,c)
+);
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 8;
+height = 52;
+verticalShift = -2;
+weight = -32;
+width = 52;
+};
+};
+width = 326;
 }
 );
 userData = {

@@ -30,6 +30,36 @@ nodes = (
 }
 );
 width = 402;
+},
+{
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(318,227,l),
+(318,301,l),
+(52,301,l),
+(52,227,l)
+);
+}
+);
+width = 370;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+closed = 1;
+nodes = (
+(350,219,l),
+(350,330,l),
+(52,330,l),
+(52,219,l)
+);
+}
+);
+width = 402;
 }
 );
 metricRight = "=|";

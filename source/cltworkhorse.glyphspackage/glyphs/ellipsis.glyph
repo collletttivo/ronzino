@@ -34,6 +34,40 @@ ref = period;
 }
 );
 width = 683;
+},
+{
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+pos = (196,0);
+ref = period;
+},
+{
+ref = period;
+},
+{
+pos = (392,0);
+ref = period;
+}
+);
+width = 600;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+pos = (223,0);
+ref = period;
+},
+{
+ref = period;
+},
+{
+pos = (447,0);
+ref = period;
+}
+);
+width = 683;
 }
 );
 metricLeft = period;

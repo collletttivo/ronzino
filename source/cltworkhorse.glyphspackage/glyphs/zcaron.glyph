@@ -26,6 +26,32 @@ ref = caroncomb;
 }
 );
 width = 467;
+},
+{
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+ref = z;
+},
+{
+pos = (-25,0);
+ref = caroncomb;
+}
+);
+width = 477;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+ref = z;
+},
+{
+pos = (-61,1);
+ref = caroncomb;
+}
+);
+width = 474;
 }
 );
 unicode = 382;

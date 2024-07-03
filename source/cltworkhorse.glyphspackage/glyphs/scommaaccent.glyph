@@ -26,6 +26,32 @@ ref = commaaccentcomb;
 }
 );
 width = 506;
+},
+{
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+ref = s;
+},
+{
+pos = (86,0);
+ref = commaaccentcomb;
+}
+);
+width = 481;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+ref = s;
+},
+{
+pos = (91,0);
+ref = commaaccentcomb;
+}
+);
+width = 519;
 }
 );
 unicode = 537;

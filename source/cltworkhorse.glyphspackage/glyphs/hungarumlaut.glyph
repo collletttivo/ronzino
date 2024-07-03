@@ -18,6 +18,24 @@ ref = hungarumlautcomb;
 }
 );
 width = 504;
+},
+{
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+ref = hungarumlautcomb;
+}
+);
+width = 438;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+ref = hungarumlautcomb;
+}
+);
+width = 504;
 }
 );
 metricRight = "=|";

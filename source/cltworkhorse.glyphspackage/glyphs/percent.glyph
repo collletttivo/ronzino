@@ -38,6 +38,44 @@ ref = zero.dnom;
 }
 );
 width = 862;
+},
+{
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+alignment = -1;
+ref = zero.numr;
+},
+{
+pos = (360,0);
+ref = fraction;
+},
+{
+pos = (462,0);
+ref = zero.dnom;
+}
+);
+width = 822;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+alignment = -1;
+pos = (9,0);
+ref = zero.numr;
+},
+{
+alignment = -1;
+pos = (325,0);
+ref = fraction;
+},
+{
+pos = (491,0);
+ref = zero.dnom;
+}
+);
+width = 862;
 }
 );
 unicode = 37;

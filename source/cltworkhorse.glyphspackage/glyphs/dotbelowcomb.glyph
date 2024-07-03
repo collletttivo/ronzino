@@ -40,6 +40,46 @@ ref = dotaccentcomb;
 }
 );
 width = 282;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (120,0);
+},
+{
+name = bottom;
+pos = (95,-177);
+}
+);
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+pos = (0,-793);
+ref = dotaccentcomb;
+}
+);
+width = 240;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (141,0);
+},
+{
+name = bottom;
+pos = (116,-179);
+}
+);
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+pos = (0,-793);
+ref = dotaccentcomb;
+}
+);
+width = 282;
 }
 );
 unicode = 803;

@@ -18,6 +18,24 @@ ref = circumflexcomb;
 }
 );
 width = 513;
+},
+{
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+ref = circumflexcomb;
+}
+);
+width = 450;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+ref = circumflexcomb;
+}
+);
+width = 513;
 }
 );
 metricRight = "=|";

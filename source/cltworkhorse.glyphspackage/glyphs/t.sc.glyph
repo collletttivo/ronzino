@@ -5,15 +5,15 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (225,0);
+pos = (235,0);
 },
 {
 name = center;
-pos = (224,287);
+pos = (234,303);
 },
 {
 name = top;
-pos = (224,534);
+pos = (234,561);
 }
 );
 layerId = m01;
@@ -21,45 +21,45 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(269,0,l),
-(269,471,l),
-(179,471,l),
-(179,0,l)
+(279,0,l),
+(279,498,l),
+(189,498,l),
+(189,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(437,465,l),
-(437,534,l),
-(11,534,l),
-(11,465,l)
+(457,491,l),
+(457,561,l),
+(11,561,l),
+(11,491,l)
 );
 }
 );
 userData = {
 RMXScaler = {
 adjustSpace = 5;
-height = 78;
+height = 82;
 weight = -4;
-width = 78;
+width = 82;
 };
 };
-width = 448;
+width = 468;
 },
 {
 anchors = (
 {
 name = bottom;
-pos = (238,0);
+pos = (252,0);
 },
 {
 name = center;
-pos = (239,288);
+pos = (252,307);
 },
 {
 name = top;
-pos = (239,559);
+pos = (252,591);
 }
 );
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -67,31 +67,123 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(307,0,l),
-(307,464,l),
-(171,464,l),
-(171,0,l)
+(320,0,l),
+(320,497,l),
+(184,497,l),
+(184,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(463,458,l),
-(463,559,l),
-(14,559,l),
-(14,458,l)
+(490,490,l),
+(490,591,l),
+(15,591,l),
+(15,490,l)
 );
 }
 );
 userData = {
 RMXScaler = {
 adjustSpace = 10;
-height = 80;
+height = 85;
 weight = -8;
-width = 80;
+width = 85;
 };
 };
-width = 477;
+width = 505;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (158,0);
+},
+{
+name = center;
+pos = (200,303);
+},
+{
+name = top;
+pos = (236,561);
+}
+);
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(202,0,l),
+(272,498,l),
+(182,498,l),
+(112,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(449,491,l),
+(459,561,l),
+(13,561,l),
+(3,491,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 5;
+height = 82;
+weight = -4;
+width = 82;
+};
+};
+width = 462;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (174,0);
+},
+{
+name = center;
+pos = (218,307);
+},
+{
+name = top;
+pos = (257,591);
+}
+);
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+closed = 1;
+nodes = (
+(242,0,l),
+(312,497,l),
+(176,497,l),
+(106,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(481,490,l),
+(495,591,l),
+(20,591,l),
+(6,490,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 10;
+height = 85;
+weight = -8;
+width = 85;
+};
+};
+width = 501;
 }
 );
 userData = {

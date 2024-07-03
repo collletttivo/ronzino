@@ -44,6 +44,50 @@ ref = zero.dnom;
 }
 );
 width = 1232;
+},
+{
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+ref = zero.numr;
+},
+{
+pos = (366,0);
+ref = fraction;
+},
+{
+pos = (468,0);
+ref = zero.dnom;
+},
+{
+pos = (834,0);
+ref = zero.dnom;
+}
+);
+width = 1200;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+alignment = -1;
+pos = (9,0);
+ref = zero.numr;
+},
+{
+pos = (323,0);
+ref = fraction;
+},
+{
+pos = (489,0);
+ref = zero.dnom;
+},
+{
+pos = (861,0);
+ref = zero.dnom;
+}
+);
+width = 1232;
 }
 );
 metricLeft = percent;

@@ -76,9 +76,84 @@ nodes = (
 }
 );
 width = 566;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (176,0);
+},
+{
+name = center;
+pos = (225,372);
+},
+{
+name = top;
+pos = (267,680);
 }
 );
-metricRight = "=|";
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(222,0,l),
+(305,614,l),
+(211,614,l),
+(128,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(519,606,l),
+(529,680,l),
+(5,680,l),
+(-5,606,l)
+);
+}
+);
+width = 520;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (243,0);
+},
+{
+name = center;
+pos = (293,364);
+},
+{
+name = top;
+pos = (338,692);
+}
+);
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+closed = 1;
+nodes = (
+(316,0,l),
+(396,592,l),
+(252,592,l),
+(172,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(592,584,l),
+(607,692,l),
+(69,692,l),
+(54,584,l)
+);
+}
+);
+width = 607;
+}
+);
 unicode = 84;
 userData = {
 KernOnName = T;

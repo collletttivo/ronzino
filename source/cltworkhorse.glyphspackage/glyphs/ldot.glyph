@@ -37,6 +37,43 @@ ref = l;
 }
 );
 width = 378;
+},
+{
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(319,324,l),
+(333,420,l),
+(239,420,l),
+(225,324,l)
+);
+},
+{
+ref = l;
+}
+);
+width = 304;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+closed = 1;
+nodes = (
+(381,300,l),
+(399,430,l),
+(265,430,l),
+(247,300,l)
+);
+},
+{
+alignment = -1;
+ref = l;
+}
+);
+width = 378;
 }
 );
 metricLeft = l;

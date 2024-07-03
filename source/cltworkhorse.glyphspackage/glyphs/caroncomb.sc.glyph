@@ -62,6 +62,68 @@ width = 80;
 };
 };
 width = 448;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (253,430);
+}
+);
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(308,479,l),
+(410,599,l),
+(336,599,l),
+(263,516,l),
+(269,516,l),
+(216,599,l),
+(143,599,l),
+(212,479,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 385;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (288,442);
+}
+);
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+closed = 1;
+nodes = (
+(370,488,l),
+(475,610,l),
+(369,610,l),
+(297,534,l),
+(303,534,l),
+(249,610,l),
+(145,610,l),
+(218,488,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 80;
+width = 80;
+};
+};
+width = 448;
 }
 );
 userData = {

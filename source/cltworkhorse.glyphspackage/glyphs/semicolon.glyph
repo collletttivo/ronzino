@@ -28,6 +28,34 @@ ref = period;
 }
 );
 width = 250;
+},
+{
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+pos = (8,0);
+ref = comma;
+},
+{
+pos = (5,369);
+ref = period;
+}
+);
+width = 215;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+pos = (7,0);
+ref = comma;
+},
+{
+pos = (4,368);
+ref = period;
+}
+);
+width = 246;
 }
 );
 metricRight = colon;

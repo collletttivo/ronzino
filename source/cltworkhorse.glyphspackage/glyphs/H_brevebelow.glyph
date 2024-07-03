@@ -26,6 +26,32 @@ ref = brevebelowcomb;
 }
 );
 width = 708;
+},
+{
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+ref = H;
+},
+{
+pos = (95,0);
+ref = brevebelowcomb;
+}
+);
+width = 691;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+ref = H;
+},
+{
+pos = (76,0);
+ref = brevebelowcomb;
+}
+);
+width = 698;
 }
 );
 unicode = 7722;

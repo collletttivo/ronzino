@@ -58,6 +58,64 @@ nodes = (
 }
 );
 width = 240;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (77,0);
+},
+{
+name = ogonek;
+pos = (113,8);
+},
+{
+name = top;
+pos = (152,532);
+}
+);
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(120,0,l),
+(195,532,l),
+(109,532,l),
+(34,0,l)
+);
+}
+);
+width = 229;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (96,0);
+},
+{
+name = ogonek;
+pos = (155,8);
+},
+{
+name = top;
+pos = (172,544);
+}
+);
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+closed = 1;
+nodes = (
+(162,0,l),
+(238,544,l),
+(106,544,l),
+(30,0,l)
+);
+}
+);
+width = 268;
 }
 );
 metricRight = "=|";

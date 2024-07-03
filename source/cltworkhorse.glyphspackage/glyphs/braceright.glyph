@@ -22,6 +22,28 @@ ref = braceleft;
 }
 );
 width = 358;
+},
+{
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+pos = (288,0);
+ref = braceleft;
+scale = (-1,1);
+}
+);
+width = 288;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+angle = 180;
+pos = (358,464);
+ref = braceleft;
+}
+);
+width = 358;
 }
 );
 metricLeft = "=|braceleft";

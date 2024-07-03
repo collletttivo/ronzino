@@ -34,6 +34,40 @@ ref = six.dnom;
 }
 );
 width = 842;
+},
+{
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+ref = five.numr;
+},
+{
+pos = (342,0);
+ref = fraction;
+},
+{
+pos = (444,0);
+ref = six.dnom;
+}
+);
+width = 791;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+ref = five.numr;
+},
+{
+pos = (347,0);
+ref = fraction;
+},
+{
+pos = (513,0);
+ref = six.dnom;
+}
+);
+width = 868;
 }
 );
 metricLeft = five.numr;

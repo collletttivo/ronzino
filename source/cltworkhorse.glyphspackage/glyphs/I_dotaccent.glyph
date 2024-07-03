@@ -26,6 +26,32 @@ ref = dotaccentcomb.case;
 }
 );
 width = 286;
+},
+{
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-21,148);
+ref = dotaccentcomb.case;
+}
+);
+width = 269;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-30,147);
+ref = dotaccentcomb.case;
+}
+);
+width = 290;
 }
 );
 unicode = 304;

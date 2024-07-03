@@ -32,6 +32,38 @@ ref = comma;
 }
 );
 width = 427;
+},
+{
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+angle = 180;
+pos = (200,588);
+ref = comma;
+},
+{
+angle = 180;
+pos = (370,588);
+ref = comma;
+}
+);
+width = 362;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+angle = 180;
+pos = (231,582);
+ref = comma;
+},
+{
+angle = 180;
+pos = (435,582);
+ref = comma;
+}
+);
+width = 427;
 }
 );
 metricLeft = quoteleft;

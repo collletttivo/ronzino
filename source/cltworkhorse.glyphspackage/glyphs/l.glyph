@@ -58,9 +58,66 @@ nodes = (
 }
 );
 width = 250;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (76,0);
+},
+{
+name = top;
+pos = (173,692);
+},
+{
+name = topright;
+pos = (191,532);
 }
 );
-metricRight = "=|";
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(119,0,l),
+(216,712,l),
+(130,712,l),
+(33,0,l)
+);
+}
+);
+width = 249;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (80,0);
+},
+{
+name = top;
+pos = (176,692);
+},
+{
+name = topright;
+pos = (219,545);
+}
+);
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+closed = 1;
+nodes = (
+(145,0,l),
+(242,713,l),
+(112,713,l),
+(15,0,l)
+);
+}
+);
+width = 257;
+}
+);
 unicode = 108;
 userData = {
 KernOnName = l;

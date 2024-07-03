@@ -45,6 +45,51 @@ scale = (-1,1);
 }
 );
 width = 261;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(189,65,o),
+(238,208,o),
+(238,340,cs),
+(238,474,o),
+(189,618,o),
+(106,726,c),
+(43,698,l),
+(106,606,o),
+(141,479,o),
+(141,340,cs),
+(141,203,o),
+(106,76,o),
+(41,-17,c),
+(104,-45,l)
+);
+}
+);
+};
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+pos = (232,0);
+ref = parenleft.case;
+scale = (-1,1);
+}
+);
+width = 232;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+pos = (261,0);
+ref = parenleft.case;
+scale = (-1,1);
+}
+);
+width = 261;
 }
 );
 metricLeft = "=|parenleft.case";

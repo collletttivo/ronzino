@@ -40,6 +40,46 @@ nodes = (
 }
 );
 width = 583;
+},
+{
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+alignment = -1;
+pos = (22,24);
+ref = c;
+},
+{
+closed = 1;
+nodes = (
+(274,-108,l),
+(384,668,l),
+(312,668,l),
+(202,-108,l)
+);
+}
+);
+width = 580;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+alignment = -1;
+pos = (22,24);
+ref = c;
+},
+{
+closed = 1;
+nodes = (
+(298,-124,l),
+(412,692,l),
+(304,692,l),
+(190,-124,l)
+);
+}
+);
+width = 583;
 }
 );
 unicode = 162;

@@ -50,6 +50,56 @@ nodes = (
 }
 );
 width = 286;
+},
+{
+anchors = (
+{
+name = ogonek;
+pos = (128,8);
+},
+{
+name = top;
+pos = (181,680);
+}
+);
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(135,0,l),
+(228,680,l),
+(134,680,l),
+(41,0,l)
+);
+}
+);
+width = 269;
+},
+{
+anchors = (
+{
+name = ogonek;
+pos = (160,11);
+},
+{
+name = top;
+pos = (192,692);
+}
+);
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+closed = 1;
+nodes = (
+(169,0,l),
+(263,692,l),
+(121,692,l),
+(27,0,l)
+);
+}
+);
+width = 290;
 }
 );
 metricLeft = H;

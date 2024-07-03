@@ -22,6 +22,28 @@ scale = (-1,1);
 }
 );
 width = 284;
+},
+{
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+pos = (254,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 254;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+pos = (284,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 284;
 }
 );
 metricLeft = "=|parenleft";
