@@ -8,11 +8,11 @@ shapes = (
 ref = k;
 },
 {
-pos = (161,0);
+pos = (164,0);
 ref = commaaccentcomb;
 }
 );
-width = 512;
+width = 518;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -34,11 +34,11 @@ shapes = (
 ref = k;
 },
 {
-pos = (121,0);
+pos = (162,0);
 ref = commaaccentcomb;
 }
 );
-width = 516;
+width = 510;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -47,11 +47,11 @@ shapes = (
 ref = k;
 },
 {
-pos = (109,0);
+pos = (159,0);
 ref = commaaccentcomb;
 }
 );
-width = 544;
+width = 547;
 }
 );
 unicode = 311;

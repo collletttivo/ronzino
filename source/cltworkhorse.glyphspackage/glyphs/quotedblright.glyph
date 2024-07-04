@@ -33,25 +33,25 @@ width = 414;
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
 shapes = (
 {
-pos = (-10,595);
+pos = (74,595);
 ref = comma;
 },
 {
-pos = (160,595);
+pos = (244,595);
 ref = comma;
 }
 );
-width = 348;
+width = 349;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
 shapes = (
 {
-pos = (-9,575);
+pos = (72,575);
 ref = comma;
 },
 {
-pos = (195,575);
+pos = (276,575);
 ref = comma;
 }
 );

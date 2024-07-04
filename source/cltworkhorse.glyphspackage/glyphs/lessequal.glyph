@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = lessequal;
 layers = (
 {
@@ -28,23 +27,23 @@ width = 552;
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
 shapes = (
 {
-pos = (560,0);
+pos = (696,0);
 ref = greaterequal;
 scale = (-1,1);
 }
 );
-width = 560;
+width = 770;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
 shapes = (
 {
-pos = (552,0);
+pos = (706,0);
 ref = greaterequal;
 scale = (-1,1);
 }
 );
-width = 552;
+width = 782;
 }
 );
 metricLeft = equal;

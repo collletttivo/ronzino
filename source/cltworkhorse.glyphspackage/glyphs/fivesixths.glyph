@@ -8,15 +8,15 @@ shapes = (
 ref = five.numr;
 },
 {
-pos = (324,0);
+pos = (342,0);
 ref = fraction;
 },
 {
-pos = (426,0);
+pos = (524,0);
 ref = six.dnom;
 }
 );
-width = 766;
+width = 899;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -25,15 +25,15 @@ shapes = (
 ref = five.numr;
 },
 {
-pos = (328,0);
+pos = (343,0);
 ref = fraction;
 },
 {
-pos = (494,0);
+pos = (541,0);
 ref = six.dnom;
 }
 );
-width = 842;
+width = 913;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
@@ -46,11 +46,11 @@ pos = (342,0);
 ref = fraction;
 },
 {
-pos = (444,0);
+pos = (487,0);
 ref = six.dnom;
 }
 );
-width = 791;
+width = 863;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -59,15 +59,15 @@ shapes = (
 ref = five.numr;
 },
 {
-pos = (347,0);
+pos = (344,0);
 ref = fraction;
 },
 {
-pos = (513,0);
+pos = (551,0);
 ref = six.dnom;
 }
 );
-width = 868;
+width = 922;
 }
 );
 metricLeft = five.numr;

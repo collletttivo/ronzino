@@ -50,7 +50,7 @@ pos = (392,0);
 ref = period;
 }
 );
-width = 616;
+width = 600;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -67,7 +67,7 @@ pos = (447,0);
 ref = period;
 }
 );
-width = 705;
+width = 684;
 }
 );
 metricLeft = period;

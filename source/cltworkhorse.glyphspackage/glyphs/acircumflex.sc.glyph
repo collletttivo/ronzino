@@ -21,7 +21,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (68,147);
+pos = (68,154);
 ref = circumflexcomb.sc;
 }
 );
@@ -38,7 +38,7 @@ pos = (78,130);
 ref = circumflexcomb.sc;
 }
 );
-width = 511;
+width = 515;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -47,11 +47,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (79,147);
+pos = (84,154);
 ref = circumflexcomb.sc;
 }
 );
-width = 576;
+width = 585;
 }
 );
 }

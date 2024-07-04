@@ -21,7 +21,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (122,147);
+pos = (122,154);
 ref = macroncomb.sc;
 }
 );
@@ -34,11 +34,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (101,130);
+pos = (102,130);
 ref = macroncomb.sc;
 }
 );
-width = 511;
+width = 515;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -47,11 +47,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (133,147);
+pos = (137,154);
 ref = macroncomb.sc;
 }
 );
-width = 576;
+width = 585;
 }
 );
 }

@@ -26,7 +26,7 @@ shapes = (
 ref = gravecomb;
 }
 );
-width = 535;
+width = 346;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -35,7 +35,7 @@ shapes = (
 ref = gravecomb;
 }
 );
-width = 578;
+width = 387;
 }
 );
 metricRight = "=|";

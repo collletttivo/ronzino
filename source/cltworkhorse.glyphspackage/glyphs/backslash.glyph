@@ -27,23 +27,23 @@ width = 470;
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
 shapes = (
 {
-pos = (420,0);
+pos = (427,0);
 ref = slash;
 scale = (-1,1);
 }
 );
-width = 420;
+width = 533;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
 shapes = (
 {
-pos = (470,0);
+pos = (475,0);
 ref = slash;
 scale = (-1,1);
 }
 );
-width = 470;
+width = 583;
 }
 );
 metricLeft = slash;

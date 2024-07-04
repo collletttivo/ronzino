@@ -64,11 +64,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-118,0);
+pos = (-87,0);
 ref = dieresiscomb;
 }
 );
-width = 229;
+width = 215;
 },
 {
 associatedMasterId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
@@ -107,11 +107,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-127,-1);
+pos = (-103,-1);
 ref = dieresiscomb;
 }
 );
-width = 268;
+width = 240;
 }
 );
 unicode = 239;

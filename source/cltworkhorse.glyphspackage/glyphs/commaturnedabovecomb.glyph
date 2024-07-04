@@ -39,35 +39,35 @@ width = 279;
 anchors = (
 {
 name = _top;
-pos = (199,532);
+pos = (238,532);
 }
 );
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
 shapes = (
 {
 angle = 180;
-pos = (248,546);
+pos = (287,546);
 ref = commaaccentcomb;
 }
 );
-width = 284;
+width = 248;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (216,545);
+pos = (257,545);
 }
 );
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
 shapes = (
 {
 angle = 180;
-pos = (279,556);
+pos = (320,556);
 ref = commaaccentcomb;
 }
 );
-width = 316;
+width = 280;
 }
 );
 metricRight = "=|";

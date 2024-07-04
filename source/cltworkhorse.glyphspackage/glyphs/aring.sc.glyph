@@ -21,7 +21,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (142,147);
+pos = (142,154);
 ref = ringcomb.sc;
 }
 );
@@ -34,11 +34,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (128,130);
+pos = (129,130);
 ref = ringcomb.sc;
 }
 );
-width = 511;
+width = 515;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -47,11 +47,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (154,147);
+pos = (158,154);
 ref = ringcomb.sc;
 }
 );
-width = 576;
+width = 585;
 }
 );
 }

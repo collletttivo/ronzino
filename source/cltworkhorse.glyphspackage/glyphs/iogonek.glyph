@@ -42,15 +42,15 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-43,0);
+pos = (-13,0);
 ref = dotaccentcomb;
 },
 {
-pos = (-97,8);
+pos = (-67,8);
 ref = ogonekcomb;
 }
 );
-width = 229;
+width = 215;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -59,15 +59,15 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-45,-1);
+pos = (-21,-1);
 ref = dotaccentcomb;
 },
 {
-pos = (-83,8);
+pos = (-59,8);
 ref = ogonekcomb;
 }
 );
-width = 268;
+width = 240;
 }
 );
 unicode = 303;

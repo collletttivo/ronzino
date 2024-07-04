@@ -21,7 +21,7 @@ pos = (312,0);
 ref = t;
 }
 );
-width = 628;
+width = 634;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -89,7 +89,7 @@ pos = (312,0);
 ref = t;
 }
 );
-width = 610;
+width = 630;
 },
 {
 associatedMasterId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
@@ -135,7 +135,7 @@ pos = (350,0);
 ref = t;
 }
 );
-width = 717;
+width = 707;
 }
 );
 metricLeft = t;

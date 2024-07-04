@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = gmacron.ss02;
 layers = (
 {
@@ -35,11 +34,11 @@ shapes = (
 ref = g.ss02;
 },
 {
-pos = (78,0);
+pos = (65,0);
 ref = macroncomb;
 }
 );
-width = 651;
+width = 560;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -48,11 +47,11 @@ shapes = (
 ref = g.ss02;
 },
 {
-pos = (91,-1);
+pos = (77,-1);
 ref = macroncomb;
 }
 );
-width = 686;
+width = 594;
 }
 );
 }

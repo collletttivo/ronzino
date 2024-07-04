@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = gdotaccent.ss02;
 layers = (
 {
@@ -35,11 +34,11 @@ shapes = (
 ref = g.ss02;
 },
 {
-pos = (168,0);
+pos = (154,0);
 ref = dotaccentcomb;
 }
 );
-width = 651;
+width = 560;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -48,11 +47,11 @@ shapes = (
 ref = g.ss02;
 },
 {
-pos = (164,-1);
+pos = (150,-1);
 ref = dotaccentcomb;
 }
 );
-width = 686;
+width = 594;
 }
 );
 }

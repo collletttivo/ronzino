@@ -45,37 +45,37 @@ width = 427;
 anchors = (
 {
 name = _bottom;
-pos = (210,0);
+pos = (196,0);
 },
 {
 name = bottom;
-pos = (188,-157);
+pos = (174,-157);
 }
 );
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
 shapes = (
 {
-pos = (-94,-775);
+pos = (-85,-775);
 ref = macroncomb;
 }
 );
-width = 420;
+width = 421;
 },
 {
 anchors = (
 {
 name = _bottom;
-pos = (214,0);
+pos = (197,0);
 },
 {
 name = bottom;
-pos = (192,-155);
+pos = (175,-155);
 }
 );
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
 shapes = (
 {
-pos = (-92,-775);
+pos = (-89,-775);
 ref = macroncomb;
 }
 );

@@ -92,6 +92,7 @@ feature ss01;
 feature ss02;
 feature ss03;
 feature ss04;
+feature clig;
 ";
 tag = aalt;
 },
@@ -794,6 +795,32 @@ value = "Ligature IJ";
 }
 );
 tag = ss04;
+},
+{
+code = "
+    sub parenleft' one by parenleft.case ;
+    sub parenleft' two by parenleft.case ;
+    sub parenleft' three by parenleft.case ;
+    sub parenleft' four by parenleft.case ;
+    sub parenleft' five by parenleft.case ;
+    sub parenleft' six by parenleft.case ;
+    sub parenleft' seven by parenleft.case ;
+    sub parenleft' eight by parenleft.case ;
+    sub parenleft' nine by parenleft.case ;
+    sub parenleft' zero by parenleft.case ;
+
+    sub one parenright' by  parenright.case;
+    sub two parenright' by  parenright.case;
+    sub three parenright' by  parenright.case;
+    sub four parenright' by  parenright.case;
+    sub five parenright' by  parenright.case;
+    sub six parenright' by  parenright.case;
+    sub seven parenright' by  parenright.case;
+    sub eight parenright' by  parenright.case;
+    sub nine parenright' by  parenright.case;
+    sub zero parenright' by  parenright.case;
+";
+tag = clig;
 }
 );
 fontMaster = (

@@ -45,17 +45,17 @@ width = 450;
 anchors = (
 {
 name = _bottom;
-pos = (203,0);
+pos = (191,0);
 },
 {
 name = bottom;
-pos = (173,-212);
+pos = (161,-212);
 }
 );
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
 shapes = (
 {
-pos = (-100,-800);
+pos = (-93,-800);
 ref = brevecomb;
 }
 );
@@ -65,17 +65,17 @@ width = 406;
 anchors = (
 {
 name = _bottom;
-pos = (225,0);
+pos = (219,0);
 },
 {
 name = bottom;
-pos = (197,-201);
+pos = (191,-201);
 }
 );
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
 shapes = (
 {
-pos = (-106,-800);
+pos = (-90,-800);
 ref = brevecomb;
 }
 );

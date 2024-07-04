@@ -21,7 +21,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (104,147);
+pos = (104,154);
 ref = brevecomb.sc;
 }
 );
@@ -38,7 +38,7 @@ pos = (100,130);
 ref = brevecomb.sc;
 }
 );
-width = 511;
+width = 515;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -47,11 +47,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (115,147);
+pos = (119,154);
 ref = brevecomb.sc;
 }
 );
-width = 576;
+width = 585;
 }
 );
 }

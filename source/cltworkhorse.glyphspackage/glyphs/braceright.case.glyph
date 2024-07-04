@@ -6,44 +6,44 @@ layerId = m01;
 shapes = (
 {
 angle = 180;
-pos = (302,704);
+pos = (337,680);
 ref = braceleft.case;
 }
 );
-width = 302;
+width = 337;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
 angle = 180;
-pos = (380,704);
+pos = (385,692);
 ref = braceleft.case;
 }
 );
-width = 380;
+width = 385;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
 shapes = (
 {
 angle = 180;
-pos = (326,704);
+pos = (384,687);
 ref = braceleft.case;
 }
 );
-width = 302;
+width = 362;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
 shapes = (
 {
 angle = 180;
-pos = (402,704);
+pos = (459,704);
 ref = braceleft.case;
 }
 );
-width = 380;
+width = 437;
 }
 );
 metricLeft = "=|braceleft.case";

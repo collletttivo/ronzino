@@ -34,13 +34,13 @@ nodes = (
 );
 userData = {
 RMXScaler = {
-adjustSpace = 5;
+adjustSpace = 3;
 height = 82;
 weight = -4;
 width = 82;
 };
 };
-width = 587;
+width = 586;
 },
 {
 anchors = (
@@ -50,7 +50,7 @@ pos = (323,0);
 },
 {
 name = top;
-pos = (316,591);
+pos = (317,598);
 }
 );
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -58,30 +58,30 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(191,0,l),
-(191,410,l),
-(185,410,l),
-(425,0,l),
-(564,0,l),
-(564,591,l),
-(442,591,l),
-(442,200,l),
-(449,200,l),
-(220,591,l),
-(69,591,l),
-(69,0,l)
+(189,0,l),
+(189,417,l),
+(183,417,l),
+(427,0,l),
+(567,0,l),
+(567,598,l),
+(445,598,l),
+(445,199,l),
+(452,199,l),
+(218,598,l),
+(67,598,l),
+(67,0,l)
 );
 }
 );
 userData = {
 RMXScaler = {
-adjustSpace = 10;
-height = 85;
+adjustSpace = 8;
+height = 86;
 weight = -8;
-width = 85;
+width = 86;
 };
 };
-width = 633;
+width = 634;
 },
 {
 anchors = (
@@ -120,11 +120,11 @@ width = 716;
 anchors = (
 {
 name = bottom;
-pos = (276,0);
+pos = (259,0);
 },
 {
 name = top;
-pos = (348,561);
+pos = (329,561);
 }
 );
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
@@ -132,30 +132,30 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(125,0,l),
-(190,462,l),
-(183,462,l),
-(390,0,l),
-(493,0,l),
-(572,561,l),
-(490,561,l),
-(427,113,l),
-(434,113,l),
-(233,561,l),
-(122,561,l),
-(43,0,l)
+(115,0,l),
+(177,462,l),
+(171,462,l),
+(369,0,l),
+(471,0,l),
+(548,561,l),
+(466,561,l),
+(405,113,l),
+(412,113,l),
+(218,561,l),
+(109,561,l),
+(32,0,l)
 );
 }
 );
 userData = {
 RMXScaler = {
-adjustSpace = 5;
+adjustSpace = 3;
 height = 82;
 weight = -4;
 width = 82;
 };
 };
-width = 615;
+width = 577;
 },
 {
 associatedMasterId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
@@ -167,11 +167,11 @@ width = 0;
 anchors = (
 {
 name = bottom;
-pos = (293,0);
+pos = (283,0);
 },
 {
 name = top;
-pos = (369,591);
+pos = (358,598);
 }
 );
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -179,30 +179,30 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(161,0,l),
-(219,410,l),
-(212,410,l),
-(395,0,l),
-(534,0,l),
-(617,591,l),
-(495,591,l),
-(440,200,l),
-(447,200,l),
-(272,591,l),
-(122,591,l),
-(39,0,l)
+(156,0,l),
+(212,417,l),
+(205,417,l),
+(386,0,l),
+(524,0,l),
+(606,598,l),
+(481,598,l),
+(427,199,l),
+(435,199,l),
+(261,598,l),
+(113,598,l),
+(31,0,l)
 );
 }
 );
 userData = {
 RMXScaler = {
-adjustSpace = 10;
-height = 85;
+adjustSpace = 8;
+height = 86;
 weight = -8;
-width = 85;
+width = 86;
 };
 };
-width = 656;
+width = 629;
 }
 );
 metricLeft = h.sc;

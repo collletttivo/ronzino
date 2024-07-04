@@ -8,11 +8,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (-44,-2);
+pos = (-41,-2);
 ref = slashshortcomb;
 }
 );
-width = 556;
+width = 562;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -55,11 +55,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (-81,-2);
+pos = (-47,-2);
 ref = slashshortcomb;
 }
 );
-width = 556;
+width = 550;
 },
 {
 associatedMasterId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
@@ -89,11 +89,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (-89,0);
+pos = (-53,0);
 ref = slashshortcomb;
 }
 );
-width = 574;
+width = 568;
 }
 );
 metricLeft = o;

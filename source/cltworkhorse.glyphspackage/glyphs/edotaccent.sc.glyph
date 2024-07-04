@@ -12,7 +12,7 @@ pos = (156,130);
 ref = dotaccentcomb.sc;
 }
 );
-width = 484;
+width = 483;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
@@ -21,11 +21,11 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (150,147);
+pos = (150,154);
 ref = dotaccentcomb.sc;
 }
 );
-width = 529;
+width = 528;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
@@ -34,11 +34,11 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (150,130);
+pos = (169,130);
 ref = dotaccentcomb.sc;
 }
 );
-width = 525;
+width = 475;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -47,11 +47,11 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (140,147);
+pos = (168,154);
 ref = dotaccentcomb.sc;
 }
 );
-width = 567;
+width = 524;
 }
 );
 }

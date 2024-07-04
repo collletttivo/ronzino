@@ -29,7 +29,7 @@ pos = (58,411);
 ref = sixinferior;
 }
 );
-width = 380;
+width = 394;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -39,7 +39,7 @@ pos = (58,415);
 ref = sixinferior;
 }
 );
-width = 390;
+width = 405;
 }
 );
 metricLeft = sixinferior;

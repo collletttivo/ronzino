@@ -5,45 +5,48 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (254,0);
+alignment = -1;
+angle = 180;
+pos = (270,461);
 ref = parenleft;
-scale = (-1,1);
 }
 );
-width = 254;
+width = 270;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 shapes = (
 {
-pos = (284,0);
+alignment = -1;
+angle = 180;
+pos = (298,474);
 ref = parenleft;
-scale = (-1,1);
 }
 );
-width = 284;
+width = 298;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
 shapes = (
 {
-pos = (254,0);
+angle = 180;
+pos = (315,466);
 ref = parenleft;
-scale = (-1,1);
 }
 );
-width = 254;
+width = 325;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
 shapes = (
 {
-pos = (284,0);
+alignment = -1;
+angle = 180;
+pos = (341,474);
 ref = parenleft;
-scale = (-1,1);
 }
 );
-width = 284;
+width = 351;
 }
 );
 metricLeft = "=|parenleft";
