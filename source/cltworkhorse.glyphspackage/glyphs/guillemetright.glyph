@@ -28,7 +28,7 @@ layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
 shapes = (
 {
 angle = 180;
-pos = (596,506);
+pos = (595,506);
 ref = guillemetleft;
 }
 );

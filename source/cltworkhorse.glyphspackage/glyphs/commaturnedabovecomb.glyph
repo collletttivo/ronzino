@@ -50,7 +50,7 @@ pos = (287,546);
 ref = commaaccentcomb;
 }
 );
-width = 248;
+width = 322;
 },
 {
 anchors = (
@@ -67,7 +67,7 @@ pos = (320,556);
 ref = commaaccentcomb;
 }
 );
-width = 280;
+width = 358;
 }
 );
 metricRight = "=|";

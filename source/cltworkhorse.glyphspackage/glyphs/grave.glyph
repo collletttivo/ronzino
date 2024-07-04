@@ -35,7 +35,7 @@ shapes = (
 ref = gravecomb;
 }
 );
-width = 387;
+width = 390;
 }
 );
 metricRight = "=|";

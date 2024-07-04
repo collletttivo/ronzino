@@ -19,7 +19,7 @@ pos = (0,415);
 ref = seveninferior;
 }
 );
-width = 347;
+width = 349;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
@@ -29,7 +29,7 @@ pos = (58,411);
 ref = seveninferior;
 }
 );
-width = 335;
+width = 373;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -39,7 +39,7 @@ pos = (58,415);
 ref = seveninferior;
 }
 );
-width = 356;
+width = 358;
 }
 );
 metricLeft = seveninferior;

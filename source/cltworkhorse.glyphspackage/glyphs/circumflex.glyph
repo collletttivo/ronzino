@@ -35,7 +35,7 @@ shapes = (
 ref = circumflexcomb;
 }
 );
-width = 513;
+width = 511;
 }
 );
 metricRight = "=|";

@@ -34,7 +34,7 @@ shapes = (
 ref = D;
 },
 {
-pos = (109,0);
+pos = (95,0);
 ref = macronbelowcomb;
 }
 );
@@ -47,11 +47,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (108,0);
+pos = (111,0);
 ref = macronbelowcomb;
 }
 );
-width = 683;
+width = 686;
 }
 );
 unicode = 7694;

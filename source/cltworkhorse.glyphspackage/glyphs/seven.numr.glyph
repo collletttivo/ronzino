@@ -19,7 +19,7 @@ pos = (0,327);
 ref = seven.dnom;
 }
 );
-width = 315;
+width = 310;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
@@ -39,7 +39,7 @@ pos = (46,327);
 ref = seven.dnom;
 }
 );
-width = 315;
+width = 317;
 }
 );
 }

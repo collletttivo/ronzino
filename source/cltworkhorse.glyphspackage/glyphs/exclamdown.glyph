@@ -39,11 +39,11 @@ layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
 shapes = (
 {
 angle = 180;
-pos = (299,545);
+pos = (269,545);
 ref = exclam;
 }
 );
-width = 293;
+width = 263;
 }
 );
 metricLeft = idotless;

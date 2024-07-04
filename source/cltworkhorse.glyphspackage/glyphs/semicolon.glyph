@@ -9,7 +9,7 @@ pos = (8,0);
 ref = comma;
 },
 {
-pos = (5,369);
+pos = (5,416);
 ref = period;
 }
 );
@@ -23,7 +23,7 @@ pos = (7,0);
 ref = comma;
 },
 {
-pos = (4,368);
+pos = (4,391);
 ref = period;
 }
 );
@@ -37,11 +37,11 @@ pos = (8,0);
 ref = comma;
 },
 {
-pos = (61,369);
+pos = (65,416);
 ref = period;
 }
 );
-width = 226;
+width = 227;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
@@ -51,11 +51,11 @@ pos = (7,0);
 ref = comma;
 },
 {
-pos = (64,368);
+pos = (64,391);
 ref = period;
 }
 );
-width = 256;
+width = 252;
 }
 );
 metricRight = colon;
