@@ -922,109 +922,6 @@ KernOnModels = (
 },
 {
 axesValues = (
-140,
-0
-);
-customParameters = (
-{
-name = paramArea;
-value = "380";
-},
-{
-name = paramDepth;
-value = "16";
-},
-{
-name = paramOver;
-value = "0";
-},
-{
-name = typoAscender;
-value = 912;
-},
-{
-name = typoDescender;
-value = -233;
-},
-{
-name = typoLineGap;
-value = 130;
-},
-{
-name = winAscent;
-value = 912;
-},
-{
-name = winDescent;
-value = 287;
-},
-{
-name = hheaAscender;
-value = 912;
-},
-{
-name = hheaDescender;
-value = -233;
-},
-{
-name = hheaLineGap;
-value = 130;
-},
-{
-name = "Master Icon Glyph Name";
-value = a;
-}
-);
-iconName = Bold;
-id = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-metricValues = (
-{
-over = 12;
-pos = 712;
-},
-{
-over = 14;
-pos = 692;
-},
-{
-over = 12;
-pos = 544;
-},
-{
-over = -14;
-},
-{
-over = -12;
-pos = -218;
-},
-{
-over = 12;
-pos = 682;
-},
-{
-over = 12;
-pos = 552;
-},
-{
-over = -12;
-pos = -136;
-},
-{
-}
-);
-name = Bold;
-stemValues = (
-84,
-130
-);
-userData = {
-GSOffsetHorizontal = -5;
-GSOffsetProportional = 1;
-GSOffsetVertical = -2;
-};
-},
-{
-axesValues = (
 92,
 8
 );
@@ -1130,6 +1027,109 @@ KernOnModels = (
 "n r",
 "hyphen H"
 );
+};
+},
+{
+axesValues = (
+140,
+0
+);
+customParameters = (
+{
+name = paramArea;
+value = "380";
+},
+{
+name = paramDepth;
+value = "16";
+},
+{
+name = paramOver;
+value = "0";
+},
+{
+name = typoAscender;
+value = 912;
+},
+{
+name = typoDescender;
+value = -233;
+},
+{
+name = typoLineGap;
+value = 130;
+},
+{
+name = winAscent;
+value = 912;
+},
+{
+name = winDescent;
+value = 287;
+},
+{
+name = hheaAscender;
+value = 912;
+},
+{
+name = hheaDescender;
+value = -233;
+},
+{
+name = hheaLineGap;
+value = 130;
+},
+{
+name = "Master Icon Glyph Name";
+value = a;
+}
+);
+iconName = Bold;
+id = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+metricValues = (
+{
+over = 12;
+pos = 712;
+},
+{
+over = 14;
+pos = 692;
+},
+{
+over = 12;
+pos = 544;
+},
+{
+over = -14;
+},
+{
+over = -12;
+pos = -218;
+},
+{
+over = 12;
+pos = 682;
+},
+{
+over = 12;
+pos = 552;
+},
+{
+over = -12;
+pos = -136;
+},
+{
+}
+);
+name = Bold;
+stemValues = (
+84,
+130
+);
+userData = {
+GSOffsetHorizontal = -5;
+GSOffsetProportional = 1;
+GSOffsetVertical = -2;
 };
 },
 {
