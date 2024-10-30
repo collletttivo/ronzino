@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onetenth" format="2">
+  <advance width="1101"/>
+  <unicode hex="2152"/>
+  <outline>
+    <component base="one.numr"/>
+    <component base="fraction" xOffset="280"/>
+    <component base="one.dnom" xOffset="462"/>
+    <component base="zero.dnom" xOffset="669" identifier="EF2A1AA7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>one.numr</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>one.numr</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>EF2A1AA7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

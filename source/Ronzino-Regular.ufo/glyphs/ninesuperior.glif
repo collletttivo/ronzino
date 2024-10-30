@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ninesuperior" format="2">
+  <advance width="374"/>
+  <unicode hex="2079"/>
+  <outline>
+    <component base="nineinferior" yOffset="411"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>nineinferior</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>nineinferior</string>
+    </dict>
+  </lib>
+</glyph>

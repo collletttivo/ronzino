@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question" format="2">
+  <advance width="487"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="179" y="220" type="line"/>
+      <point x="307" y="220" type="line"/>
+      <point x="307" y="223" type="line" smooth="yes"/>
+      <point x="307" y="361"/>
+      <point x="476" y="365"/>
+      <point x="477" y="514" type="curve" smooth="yes"/>
+      <point x="480" y="628"/>
+      <point x="388" y="707"/>
+      <point x="249" y="707" type="curve" smooth="yes"/>
+      <point x="127" y="707"/>
+      <point x="29" y="640"/>
+      <point x="5" y="532" type="curve"/>
+      <point x="127" y="490" type="line"/>
+      <point x="136" y="559"/>
+      <point x="181" y="603"/>
+      <point x="243" y="603" type="curve" smooth="yes"/>
+      <point x="304" y="603"/>
+      <point x="342" y="565"/>
+      <point x="340" y="507" type="curve" smooth="yes"/>
+      <point x="340" y="399"/>
+      <point x="194" y="409"/>
+      <point x="180" y="242" type="curve" smooth="yes"/>
+    </contour>
+    <component base="period" xOffset="132"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>spaced-off</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

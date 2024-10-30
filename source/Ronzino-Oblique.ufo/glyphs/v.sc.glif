@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="v.sc" format="2">
+  <advance width="505"/>
+  <outline>
+    <contour>
+      <point x="170" y="0" type="line"/>
+      <point x="267" y="0" type="line"/>
+      <point x="534" y="561" type="line"/>
+      <point x="445" y="561" type="line"/>
+      <point x="230" y="98" type="line"/>
+      <point x="237" y="98" type="line"/>
+      <point x="145" y="561" type="line"/>
+      <point x="53" y="561" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>3</integer>
+        <key>height</key>
+        <integer>82</integer>
+        <key>weight</key>
+        <integer>-4</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>V</string>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>V</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="percent" format="2">
+  <advance width="862"/>
+  <unicode hex="0025"/>
+  <outline>
+    <component base="zero.numr" xOffset="9" identifier="A995C34A"/>
+    <component base="fraction" xOffset="325" identifier="6CD4B643"/>
+    <component base="zero.dnom" xOffset="491"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>spaced-off</string>
+        </dict>
+      </dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6CD4B643</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A995C34A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

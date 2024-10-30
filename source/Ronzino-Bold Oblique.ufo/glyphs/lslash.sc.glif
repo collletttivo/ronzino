@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash.sc" format="2">
+  <advance width="453"/>
+  <outline>
+    <component base="l.sc" xOffset="4"/>
+    <contour>
+      <point x="17" y="229" type="line"/>
+      <point x="319" y="318" type="line"/>
+      <point x="293" y="395" type="line"/>
+      <point x="-9" y="304" type="line"/>
+    </contour>
+  </outline>
+</glyph>

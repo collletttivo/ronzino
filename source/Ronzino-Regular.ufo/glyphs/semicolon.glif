@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="2">
+  <advance width="226"/>
+  <unicode hex="003B"/>
+  <outline>
+    <component base="comma" xOffset="8"/>
+    <component base="period" xOffset="5" yOffset="416"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>colon</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>spaced-off</string>
+          <key>R</key>
+          <string>spaced-off</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

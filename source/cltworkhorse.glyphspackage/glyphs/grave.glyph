@@ -32,10 +32,11 @@ width = 346;
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
 shapes = (
 {
+pos = (-4,0);
 ref = gravecomb;
 }
 );
-width = 390;
+width = 382;
 }
 );
 metricRight = "=|";

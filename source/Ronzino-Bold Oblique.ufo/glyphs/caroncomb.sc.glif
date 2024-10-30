@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.sc" format="2">
+  <advance width="448"/>
+  <anchor x="250" y="442" name="_top"/>
+  <outline>
+    <contour>
+      <point x="180" y="488" type="line"/>
+      <point x="332" y="488" type="line"/>
+      <point x="437" y="610" type="line"/>
+      <point x="331" y="610" type="line"/>
+      <point x="259" y="534" type="line"/>
+      <point x="265" y="534" type="line"/>
+      <point x="211" y="610" type="line"/>
+      <point x="107" y="610" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>80</integer>
+        <key>width</key>
+        <integer>80</integer>
+      </dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>NoKerning</string>
+          <key>R</key>
+          <string>NoKerning</string>
+        </dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>caroncomb</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

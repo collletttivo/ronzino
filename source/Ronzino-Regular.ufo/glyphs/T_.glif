@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T" format="2">
+  <advance width="562"/>
+  <unicode hex="0054"/>
+  <anchor x="283" y="0" name="bottom"/>
+  <anchor x="281" y="372" name="center"/>
+  <anchor x="281" y="680" name="top"/>
+  <outline>
+    <contour>
+      <point x="234" y="0" type="line"/>
+      <point x="328" y="0" type="line"/>
+      <point x="328" y="614" type="line"/>
+      <point x="234" y="614" type="line"/>
+    </contour>
+    <contour>
+      <point x="11" y="606" type="line"/>
+      <point x="551" y="606" type="line"/>
+      <point x="551" y="680" type="line"/>
+      <point x="11" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>T</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

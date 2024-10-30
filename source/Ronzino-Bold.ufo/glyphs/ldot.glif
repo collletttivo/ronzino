@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot" format="2">
+  <advance width="378"/>
+  <unicode hex="0140"/>
+  <outline>
+    <contour>
+      <point x="236" y="300" type="line"/>
+      <point x="370" y="300" type="line"/>
+      <point x="370" y="430" type="line"/>
+      <point x="236" y="430" type="line"/>
+    </contour>
+    <component base="l" identifier="0D206A99"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>l</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0D206A99</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

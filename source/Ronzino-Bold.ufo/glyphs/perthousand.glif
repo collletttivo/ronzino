@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="perthousand" format="2">
+  <advance width="1232"/>
+  <unicode hex="2030"/>
+  <outline>
+    <component base="zero.numr" xOffset="9" identifier="D728EA61"/>
+    <component base="fraction" xOffset="323"/>
+    <component base="zero.dnom" xOffset="489"/>
+    <component base="zero.dnom" xOffset="861"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>percent</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>percent</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>D728EA61</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

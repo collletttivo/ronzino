@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="s.sc" format="2">
+  <advance width="497"/>
+  <note>
+Falls to the right
+</note>
+  <anchor x="218" y="0" name="bottom"/>
+  <anchor x="286" y="561" name="top"/>
+  <outline>
+    <contour>
+      <point x="219" y="-11" type="curve" smooth="yes"/>
+      <point x="357" y="-11"/>
+      <point x="448" y="66"/>
+      <point x="448" y="179" type="curve" smooth="yes"/>
+      <point x="448" y="363"/>
+      <point x="160" y="285"/>
+      <point x="160" y="410" type="curve" smooth="yes"/>
+      <point x="160" y="466"/>
+      <point x="210" y="504"/>
+      <point x="277" y="504" type="curve" smooth="yes"/>
+      <point x="337" y="504"/>
+      <point x="375" y="470"/>
+      <point x="380" y="414" type="curve"/>
+      <point x="471" y="437" type="line"/>
+      <point x="459" y="526"/>
+      <point x="385" y="572"/>
+      <point x="289" y="572" type="curve" smooth="yes"/>
+      <point x="159" y="572"/>
+      <point x="69" y="501"/>
+      <point x="69" y="391" type="curve" smooth="yes"/>
+      <point x="69" y="211"/>
+      <point x="356" y="294"/>
+      <point x="356" y="161" type="curve" smooth="yes"/>
+      <point x="356" y="99"/>
+      <point x="304" y="57"/>
+      <point x="229" y="57" type="curve" smooth="yes"/>
+      <point x="161" y="57"/>
+      <point x="117" y="96"/>
+      <point x="111" y="165" type="curve"/>
+      <point x="22" y="142" type="line"/>
+      <point x="32" y="45"/>
+      <point x="112" y="-11"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>3</integer>
+        <key>height</key>
+        <integer>82</integer>
+        <key>weight</key>
+        <integer>-4</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>S</string>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>S</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

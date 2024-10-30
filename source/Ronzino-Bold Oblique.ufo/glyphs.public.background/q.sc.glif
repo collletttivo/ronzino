@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="q.sc" format="2">
+  <advance width="627"/>
+  <anchor x="361" y="692" name="top"/>
+  <outline>
+    <contour>
+      <point x="361" y="-15" type="curve" smooth="yes"/>
+      <point x="555" y="-15"/>
+      <point x="687" y="131"/>
+      <point x="687" y="346" type="curve" smooth="yes"/>
+      <point x="687" y="561"/>
+      <point x="555" y="707"/>
+      <point x="361" y="707" type="curve" smooth="yes"/>
+      <point x="168" y="707"/>
+      <point x="35" y="561"/>
+      <point x="35" y="346" type="curve" smooth="yes"/>
+      <point x="35" y="131"/>
+      <point x="168" y="-15"/>
+    </contour>
+    <contour>
+      <point x="361" y="97" type="curve" smooth="yes"/>
+      <point x="254" y="97"/>
+      <point x="186" y="194"/>
+      <point x="186" y="348" type="curve" smooth="yes"/>
+      <point x="186" y="501"/>
+      <point x="254" y="599"/>
+      <point x="361" y="599" type="curve" smooth="yes"/>
+      <point x="468" y="599"/>
+      <point x="536" y="501"/>
+      <point x="536" y="348" type="curve" smooth="yes"/>
+      <point x="536" y="194"/>
+      <point x="468" y="97"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>Q</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

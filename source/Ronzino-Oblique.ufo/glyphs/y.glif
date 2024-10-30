@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y" format="2">
+  <advance width="475"/>
+  <unicode hex="0079"/>
+  <anchor x="274" y="532" name="top"/>
+  <outline>
+    <contour>
+      <point x="-66" y="-208" type="line"/>
+      <point x="-31" y="-222"/>
+      <point x="2" y="-228"/>
+      <point x="31" y="-228" type="curve" smooth="yes"/>
+      <point x="98" y="-228"/>
+      <point x="148" y="-196"/>
+      <point x="177" y="-137" type="curve" smooth="yes"/>
+      <point x="511" y="532" type="line"/>
+      <point x="425" y="532" type="line"/>
+      <point x="212" y="96" type="line"/>
+      <point x="220" y="96" type="line"/>
+      <point x="128" y="532" type="line"/>
+      <point x="36" y="532" type="line"/>
+      <point x="161" y="-12" type="line"/>
+      <point x="163" y="8" type="line"/>
+      <point x="111" y="-98" type="line" smooth="yes"/>
+      <point x="93" y="-134"/>
+      <point x="63" y="-153"/>
+      <point x="26" y="-153" type="curve" smooth="yes"/>
+      <point x="4" y="-153"/>
+      <point x="-20" y="-146"/>
+      <point x="-45" y="-134" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>y</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

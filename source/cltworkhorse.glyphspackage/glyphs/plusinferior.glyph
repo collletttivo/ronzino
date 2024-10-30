@@ -65,7 +65,7 @@ weight = 4;
 width = 62;
 };
 };
-width = 331;
+width = 330;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
@@ -131,7 +131,7 @@ weight = 4;
 width = 62;
 };
 };
-width = 342;
+width = 339;
 }
 );
 unicode = 8330;

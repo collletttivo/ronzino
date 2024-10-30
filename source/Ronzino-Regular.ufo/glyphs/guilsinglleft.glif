@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglleft" format="2">
+  <advance width="346"/>
+  <unicode hex="2039"/>
+  <outline>
+    <contour>
+      <point x="299" y="50" type="line"/>
+      <point x="299" y="140" type="line"/>
+      <point x="88" y="258" type="line"/>
+      <point x="88" y="250" type="line"/>
+      <point x="297" y="368" type="line"/>
+      <point x="297" y="456" type="line"/>
+      <point x="26" y="290" type="line"/>
+      <point x="26" y="216" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>quotes</string>
+          <key>R</key>
+          <string>quotes</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

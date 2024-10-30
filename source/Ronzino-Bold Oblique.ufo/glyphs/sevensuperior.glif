@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sevensuperior" format="2">
+  <advance width="358"/>
+  <unicode hex="2077"/>
+  <outline>
+    <component base="seveninferior" xOffset="58" yOffset="415"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>seveninferior</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>seveninferior</string>
+    </dict>
+  </lib>
+</glyph>

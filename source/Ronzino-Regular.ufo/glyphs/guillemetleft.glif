@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetleft" format="2">
+  <advance width="565"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="272" y="50" type="line"/>
+      <point x="272" y="140" type="line"/>
+      <point x="77" y="258" type="line"/>
+      <point x="77" y="250" type="line"/>
+      <point x="270" y="368" type="line"/>
+      <point x="270" y="456" type="line"/>
+      <point x="26" y="292" type="line"/>
+      <point x="26" y="214" type="line"/>
+    </contour>
+    <contour>
+      <point x="518" y="50" type="line"/>
+      <point x="518" y="140" type="line"/>
+      <point x="323" y="258" type="line"/>
+      <point x="323" y="250" type="line"/>
+      <point x="516" y="368" type="line"/>
+      <point x="516" y="456" type="line"/>
+      <point x="272" y="292" type="line"/>
+      <point x="272" y="214" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>guilsinglleft</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>guilsinglleft</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>quotes</string>
+          <key>R</key>
+          <string>quotes</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="417"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="244" y="322" type="curve" smooth="yes"/>
+      <point x="357" y="322"/>
+      <point x="434" y="404"/>
+      <point x="434" y="524" type="curve" smooth="yes"/>
+      <point x="434" y="643"/>
+      <point x="357" y="725"/>
+      <point x="244" y="725" type="curve" smooth="yes"/>
+      <point x="131" y="725"/>
+      <point x="54" y="643"/>
+      <point x="54" y="524" type="curve" smooth="yes"/>
+      <point x="54" y="404"/>
+      <point x="131" y="322"/>
+    </contour>
+    <contour>
+      <point x="244" y="395" type="curve" smooth="yes"/>
+      <point x="202" y="395"/>
+      <point x="175" y="445"/>
+      <point x="175" y="525" type="curve" smooth="yes"/>
+      <point x="175" y="601"/>
+      <point x="201" y="653"/>
+      <point x="244" y="653" type="curve" smooth="yes"/>
+      <point x="286" y="653"/>
+      <point x="313" y="602"/>
+      <point x="313" y="525" type="curve" smooth="yes"/>
+      <point x="313" y="445"/>
+      <point x="286" y="395"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>superiors</string>
+          <key>R</key>
+          <string>superiors</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

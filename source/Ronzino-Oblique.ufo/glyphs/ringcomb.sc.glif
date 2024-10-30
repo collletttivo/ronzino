@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb.sc" format="2">
+  <advance width="285"/>
+  <anchor x="165" y="431" name="_top"/>
+  <outline>
+    <contour>
+      <point x="171" y="475" type="curve" smooth="yes"/>
+      <point x="225" y="475"/>
+      <point x="265" y="508"/>
+      <point x="265" y="552" type="curve" smooth="yes"/>
+      <point x="265" y="587"/>
+      <point x="235" y="611"/>
+      <point x="190" y="611" type="curve" smooth="yes"/>
+      <point x="138" y="611"/>
+      <point x="97" y="577"/>
+      <point x="97" y="533" type="curve" smooth="yes"/>
+      <point x="97" y="498"/>
+      <point x="127" y="475"/>
+    </contour>
+    <contour>
+      <point x="177" y="510" type="curve" smooth="yes"/>
+      <point x="159" y="510"/>
+      <point x="148" y="521"/>
+      <point x="148" y="537" type="curve" smooth="yes"/>
+      <point x="148" y="558"/>
+      <point x="165" y="575"/>
+      <point x="186" y="575" type="curve" smooth="yes"/>
+      <point x="203" y="575"/>
+      <point x="214" y="564"/>
+      <point x="214" y="548" type="curve" smooth="yes"/>
+      <point x="214" y="526"/>
+      <point x="198" y="510"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>80</integer>
+        <key>width</key>
+        <integer>80</integer>
+      </dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>NoKerning</string>
+          <key>R</key>
+          <string>NoKerning</string>
+        </dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>ringcomb</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

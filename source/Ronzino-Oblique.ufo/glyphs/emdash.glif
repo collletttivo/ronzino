@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emdash" format="2">
+  <advance width="1014"/>
+  <unicode hex="2014"/>
+  <outline>
+    <contour>
+      <point x="37" y="229" type="line"/>
+      <point x="967" y="229" type="line"/>
+      <point x="977" y="301" type="line"/>
+      <point x="47" y="301" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>dashes</string>
+          <key>R</key>
+          <string>dashes</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

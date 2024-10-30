@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesuperior" format="2">
+  <advance width="299"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <component base="oneinferior" xOffset="58" yOffset="411"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>oneinferior</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>oneinferior</string>
+    </dict>
+  </lib>
+</glyph>

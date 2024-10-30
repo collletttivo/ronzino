@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equivalence" format="2">
+  <advance width="691"/>
+  <unicode hex="2261"/>
+  <outline>
+    <contour>
+      <point x="111" y="104" type="line"/>
+      <point x="535" y="104" type="line"/>
+      <point x="545" y="175" type="line"/>
+      <point x="121" y="175" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="250" type="line"/>
+      <point x="556" y="250" type="line"/>
+      <point x="565" y="320" type="line"/>
+      <point x="141" y="320" type="line"/>
+    </contour>
+    <contour>
+      <point x="152" y="394" type="line"/>
+      <point x="576" y="394" type="line"/>
+      <point x="586" y="464" type="line"/>
+      <point x="162" y="464" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

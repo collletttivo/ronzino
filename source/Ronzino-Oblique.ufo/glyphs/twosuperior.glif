@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twosuperior" format="2">
+  <advance width="393"/>
+  <unicode hex="00B2"/>
+  <outline>
+    <component base="twoinferior" xOffset="58" yOffset="411"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>twoinferior</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>twoinferior</string>
+    </dict>
+  </lib>
+</glyph>

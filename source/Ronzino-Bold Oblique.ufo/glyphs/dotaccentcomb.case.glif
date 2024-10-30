@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb.case" format="2">
+  <advance width="291"/>
+  <anchor x="184" y="545" name="_top"/>
+  <outline>
+    <contour>
+      <point x="120" y="595" type="line"/>
+      <point x="262" y="595" type="line"/>
+      <point x="280" y="726" type="line"/>
+      <point x="138" y="726" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

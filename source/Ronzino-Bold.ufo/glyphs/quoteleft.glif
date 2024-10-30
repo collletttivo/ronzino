@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteleft" format="2">
+  <advance width="223"/>
+  <unicode hex="2018"/>
+  <outline>
+    <component base="comma" xScale="-1" yScale="-1" xOffset="231" yOffset="582"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>quotes</string>
+          <key>R</key>
+          <string>quotes</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

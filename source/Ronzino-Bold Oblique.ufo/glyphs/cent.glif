@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent" format="2">
+  <advance width="574"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <component base="c" xOffset="25" yOffset="24" identifier="CC2538D2"/>
+    <contour>
+      <point x="193" y="-124" type="line"/>
+      <point x="301" y="-124" type="line"/>
+      <point x="415" y="692" type="line"/>
+      <point x="307" y="692" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>symbols</string>
+          <key>R</key>
+          <string>symbols</string>
+        </dict>
+      </dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>CC2538D2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

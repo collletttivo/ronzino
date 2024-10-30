@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceleft" format="2">
+  <advance width="358"/>
+  <unicode hex="007B"/>
+  <outline>
+    <contour>
+      <point x="348" y="-220" type="curve"/>
+      <point x="342" y="-131" type="line"/>
+      <point x="270" y="-143"/>
+      <point x="235" y="-119"/>
+      <point x="238" y="-63" type="curve" smooth="yes"/>
+      <point x="248" y="144" type="line" smooth="yes"/>
+      <point x="241" y="199"/>
+      <point x="219" y="233"/>
+      <point x="165" y="236" type="curve"/>
+      <point x="165" y="228" type="line"/>
+      <point x="219" y="232"/>
+      <point x="251" y="266"/>
+      <point x="248" y="320" type="curve" smooth="yes"/>
+      <point x="236" y="529" type="line" smooth="yes"/>
+      <point x="233" y="585"/>
+      <point x="268" y="607"/>
+      <point x="340" y="595" type="curve"/>
+      <point x="343" y="684" type="line"/>
+      <point x="208" y="716"/>
+      <point x="96" y="671"/>
+      <point x="106" y="562" type="curve" smooth="yes"/>
+      <point x="126" y="336" type="line" smooth="yes"/>
+      <point x="129" y="297"/>
+      <point x="111" y="277"/>
+      <point x="72" y="277" type="curve" smooth="yes"/>
+      <point x="30" y="277" type="line"/>
+      <point x="30" y="188" type="line"/>
+      <point x="72" y="188" type="line" smooth="yes"/>
+      <point x="111" y="188"/>
+      <point x="129" y="168"/>
+      <point x="126" y="130" type="curve" smooth="yes"/>
+      <point x="108" y="-96" type="line" smooth="yes"/>
+      <point x="99" y="-206"/>
+      <point x="211" y="-252"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>R</key>
+          <string>parenthesis</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

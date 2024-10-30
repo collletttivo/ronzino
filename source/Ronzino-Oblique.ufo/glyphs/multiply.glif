@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="multiply" format="2">
+  <advance width="601"/>
+  <unicode hex="00D7"/>
+  <outline>
+    <contour>
+      <point x="156" y="88" type="line"/>
+      <point x="571" y="434" type="line"/>
+      <point x="531" y="484" type="line"/>
+      <point x="115" y="139" type="line"/>
+    </contour>
+    <contour>
+      <point x="476" y="88" type="line"/>
+      <point x="531" y="139" type="line"/>
+      <point x="211" y="484" type="line"/>
+      <point x="157" y="434" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>math</string>
+          <key>R</key>
+          <string>math</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

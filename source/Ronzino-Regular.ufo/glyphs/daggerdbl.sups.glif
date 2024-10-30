@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl.sups" format="2">
+  <advance width="320"/>
+  <outline>
+    <contour>
+      <point x="129" y="435" type="line"/>
+      <point x="191" y="435" type="line"/>
+      <point x="191" y="713" type="line"/>
+      <point x="129" y="713" type="line"/>
+    </contour>
+    <contour>
+      <point x="52" y="603" type="line"/>
+      <point x="267" y="603" type="line"/>
+      <point x="267" y="655" type="line"/>
+      <point x="52" y="655" type="line"/>
+    </contour>
+    <contour>
+      <point x="52" y="497" type="line"/>
+      <point x="268" y="497" type="line"/>
+      <point x="268" y="549" type="line"/>
+      <point x="52" y="549" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

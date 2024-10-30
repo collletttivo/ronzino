@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresismacron" format="2">
+  <advance width="675"/>
+  <unicode hex="01D5"/>
+  <outline>
+    <component base="U"/>
+    <component base="dieresiscomb.case" xOffset="126" yOffset="147"/>
+    <component base="macroncomb.case" xOffset="150" yOffset="293" identifier="E60940DB"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>E60940DB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

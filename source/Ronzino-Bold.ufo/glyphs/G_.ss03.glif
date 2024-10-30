@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="G.ss03" format="2">
+  <advance width="674"/>
+  <note>
+Versione senza gamba?
+</note>
+  <anchor x="337" y="0" name="bottom"/>
+  <anchor x="337" y="692" name="top"/>
+  <outline>
+    <contour>
+      <point x="336" y="-14" type="curve" smooth="yes"/>
+      <point x="447" y="-14"/>
+      <point x="521" y="53"/>
+      <point x="560" y="153" type="curve"/>
+      <point x="527" y="135" type="line"/>
+      <point x="527" y="0" type="line"/>
+      <point x="644" y="0" type="line"/>
+      <point x="644" y="380" type="line"/>
+      <point x="340" y="380" type="line"/>
+      <point x="340" y="280" type="line"/>
+      <point x="527" y="280" type="line"/>
+      <point x="520" y="154"/>
+      <point x="446" y="98"/>
+      <point x="367" y="98" type="curve" smooth="yes"/>
+      <point x="244" y="98"/>
+      <point x="182" y="201"/>
+      <point x="182" y="364" type="curve" smooth="yes"/>
+      <point x="182" y="508"/>
+      <point x="248" y="600"/>
+      <point x="350" y="600" type="curve" smooth="yes"/>
+      <point x="427" y="600"/>
+      <point x="486" y="548"/>
+      <point x="500" y="460" type="curve"/>
+      <point x="644" y="498" type="line"/>
+      <point x="616" y="622"/>
+      <point x="498" y="706"/>
+      <point x="354" y="706" type="curve" smooth="yes"/>
+      <point x="162" y="706"/>
+      <point x="32" y="562"/>
+      <point x="32" y="350" type="curve" smooth="yes"/>
+      <point x="32" y="132"/>
+      <point x="141" y="-14"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

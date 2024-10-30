@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sixinferior" format="2">
+  <advance width="396"/>
+  <unicode hex="2086"/>
+  <outline>
+    <contour>
+      <point x="209" y="-78" type="curve" smooth="yes"/>
+      <point x="306" y="-78"/>
+      <point x="373" y="-19"/>
+      <point x="373" y="67" type="curve" smooth="yes"/>
+      <point x="373" y="149"/>
+      <point x="309" y="203"/>
+      <point x="214" y="203" type="curve" smooth="yes"/>
+      <point x="156" y="203"/>
+      <point x="108" y="174"/>
+      <point x="96" y="135" type="curve"/>
+      <point x="123" y="135" type="line"/>
+      <point x="124" y="224"/>
+      <point x="143" y="280"/>
+      <point x="207" y="280" type="curve" smooth="yes"/>
+      <point x="241" y="280"/>
+      <point x="265" y="264"/>
+      <point x="274" y="231" type="curve"/>
+      <point x="359" y="265" type="line"/>
+      <point x="341" y="323"/>
+      <point x="277" y="361"/>
+      <point x="204" y="361" type="curve" smooth="yes"/>
+      <point x="89" y="361"/>
+      <point x="26" y="273"/>
+      <point x="26" y="134" type="curve" smooth="yes"/>
+      <point x="26" y="10"/>
+      <point x="90" y="-78"/>
+    </contour>
+    <contour>
+      <point x="203" y="-8" type="curve" smooth="yes"/>
+      <point x="169" y="-8"/>
+      <point x="143" y="20"/>
+      <point x="143" y="61" type="curve" smooth="yes"/>
+      <point x="143" y="105"/>
+      <point x="168" y="132"/>
+      <point x="202" y="132" type="curve" smooth="yes"/>
+      <point x="237" y="132"/>
+      <point x="263" y="104"/>
+      <point x="263" y="64" type="curve" smooth="yes"/>
+      <point x="263" y="20"/>
+      <point x="238" y="-8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>6</integer>
+        <key>height</key>
+        <integer>60</integer>
+        <key>verticalShift</key>
+        <integer>-73</integer>
+        <key>weight</key>
+        <integer>-28</integer>
+        <key>width</key>
+        <integer>60</integer>
+      </dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>six</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

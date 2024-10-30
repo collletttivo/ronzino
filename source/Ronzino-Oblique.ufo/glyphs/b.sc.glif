@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="b.sc" format="2">
+  <advance width="516"/>
+  <outline>
+    <contour>
+      <point x="32" y="0" type="line"/>
+      <point x="271" y="0" type="line" smooth="yes"/>
+      <point x="385" y="0"/>
+      <point x="466" y="74"/>
+      <point x="466" y="177" type="curve" smooth="yes"/>
+      <point x="466" y="248"/>
+      <point x="418" y="297"/>
+      <point x="336" y="298" type="curve"/>
+      <point x="335" y="292" type="line"/>
+      <point x="421" y="298"/>
+      <point x="482" y="361"/>
+      <point x="482" y="443" type="curve" smooth="yes"/>
+      <point x="482" y="516"/>
+      <point x="425" y="561"/>
+      <point x="337" y="561" type="curve" smooth="yes"/>
+      <point x="109" y="561" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="64" type="line"/>
+      <point x="189" y="498" type="line"/>
+      <point x="183" y="492" type="line"/>
+      <point x="311" y="492" type="line" smooth="yes"/>
+      <point x="358" y="492"/>
+      <point x="387" y="466"/>
+      <point x="387" y="423" type="curve" smooth="yes"/>
+      <point x="387" y="364"/>
+      <point x="346" y="323"/>
+      <point x="288" y="323" type="curve" smooth="yes"/>
+      <point x="159" y="323" type="line"/>
+      <point x="150" y="255" type="line"/>
+      <point x="294" y="255" type="line" smooth="yes"/>
+      <point x="341" y="255"/>
+      <point x="371" y="227"/>
+      <point x="371" y="180" type="curve" smooth="yes"/>
+      <point x="371" y="114"/>
+      <point x="328" y="70"/>
+      <point x="266" y="70" type="curve" smooth="yes"/>
+      <point x="125" y="70" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>3</integer>
+        <key>height</key>
+        <integer>82</integer>
+        <key>weight</key>
+        <integer>-4</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>B</string>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>B</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb.sc" format="2">
+  <advance width="292"/>
+  <anchor x="201" y="431" name="_top"/>
+  <outline>
+    <contour>
+      <point x="196" y="479" type="line"/>
+      <point x="263" y="479" type="line"/>
+      <point x="206" y="599" type="line"/>
+      <point x="106" y="599" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>80</integer>
+        <key>width</key>
+        <integer>80</integer>
+      </dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>NoKerning</string>
+          <key>R</key>
+          <string>NoKerning</string>
+        </dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>gravecomb</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonekcomb.sc" format="2">
+  <advance width="276"/>
+  <anchor x="141" y="0" name="_ogonek"/>
+  <outline>
+    <contour>
+      <point x="156" y="-173" type="curve"/>
+      <point x="150" y="-125" type="line"/>
+      <point x="105" y="-146"/>
+      <point x="75" y="-135"/>
+      <point x="75" y="-105" type="curve" smooth="yes"/>
+      <point x="75" y="-75"/>
+      <point x="104" y="-33"/>
+      <point x="147" y="-6" type="curve"/>
+      <point x="100" y="0" type="line"/>
+      <point x="41" y="-31"/>
+      <point x="4" y="-82"/>
+      <point x="4" y="-125" type="curve" smooth="yes"/>
+      <point x="4" y="-181"/>
+      <point x="72" y="-203"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>80</integer>
+        <key>width</key>
+        <integer>80</integer>
+      </dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>NoKerning</string>
+          <key>R</key>
+          <string>NoKerning</string>
+        </dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>ogonekcomb</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

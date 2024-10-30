@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="g.sc" format="2">
+  <advance width="574"/>
+  <note>
+Versione senza gamba?
+</note>
+  <anchor x="311" y="0" name="bottom"/>
+  <anchor x="294" y="561" name="top"/>
+  <outline>
+    <contour>
+      <point x="305" y="-11" type="curve" smooth="yes"/>
+      <point x="385" y="-11"/>
+      <point x="473" y="14"/>
+      <point x="523" y="62" type="curve"/>
+      <point x="523" y="293" type="line"/>
+      <point x="284" y="293" type="line"/>
+      <point x="284" y="226" type="line"/>
+      <point x="443" y="226" type="line"/>
+      <point x="443" y="95" type="line"/>
+      <point x="411" y="72"/>
+      <point x="357" y="60"/>
+      <point x="312" y="60" type="curve" smooth="yes"/>
+      <point x="200" y="60"/>
+      <point x="130" y="140"/>
+      <point x="130" y="292" type="curve" smooth="yes"/>
+      <point x="130" y="420"/>
+      <point x="194" y="503"/>
+      <point x="292" y="503" type="curve" smooth="yes"/>
+      <point x="367" y="503"/>
+      <point x="419" y="456"/>
+      <point x="431" y="384" type="curve"/>
+      <point x="521" y="406" type="line"/>
+      <point x="501" y="503"/>
+      <point x="411" y="572"/>
+      <point x="295" y="572" type="curve" smooth="yes"/>
+      <point x="140" y="572"/>
+      <point x="35" y="455"/>
+      <point x="35" y="284" type="curve" smooth="yes"/>
+      <point x="35" y="108"/>
+      <point x="138" y="-11"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>3</integer>
+        <key>height</key>
+        <integer>82</integer>
+        <key>weight</key>
+        <integer>-4</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o.sc</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>G</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

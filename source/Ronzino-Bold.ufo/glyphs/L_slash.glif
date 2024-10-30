@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance width="549"/>
+  <unicode hex="0141"/>
+  <outline>
+    <component base="L" xOffset="10"/>
+    <contour>
+      <point x="19" y="239" type="line"/>
+      <point x="407" y="351" type="line"/>
+      <point x="375" y="447" type="line"/>
+      <point x="-13" y="333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>L</string>
+    </dict>
+  </lib>
+</glyph>

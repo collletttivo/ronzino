@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y.sc" format="2">
+  <advance width="536"/>
+  <anchor x="321" y="598" name="top"/>
+  <outline>
+    <contour>
+      <point x="169" y="0" type="line"/>
+      <point x="302" y="0" type="line"/>
+      <point x="336" y="234" type="line"/>
+      <point x="576" y="598" type="line"/>
+      <point x="444" y="598" type="line"/>
+      <point x="274" y="334" type="line"/>
+      <point x="291" y="334" type="line"/>
+      <point x="195" y="598" type="line"/>
+      <point x="51" y="598" type="line"/>
+      <point x="201" y="235" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>8</integer>
+        <key>height</key>
+        <integer>86</integer>
+        <key>weight</key>
+        <integer>-8</integer>
+        <key>width</key>
+        <integer>86</integer>
+      </dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>Y</string>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>Y</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

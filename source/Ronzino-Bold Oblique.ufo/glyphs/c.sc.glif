@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c.sc" format="2">
+  <advance width="589"/>
+  <anchor x="279" y="0" name="bottom"/>
+  <anchor x="351" y="598" name="top"/>
+  <outline>
+    <contour>
+      <point x="266" y="-12" type="curve" smooth="yes"/>
+      <point x="402" y="-12"/>
+      <point x="518" y="73"/>
+      <point x="554" y="198" type="curve"/>
+      <point x="423" y="245" type="line"/>
+      <point x="402" y="146"/>
+      <point x="344" y="91"/>
+      <point x="280" y="91" type="curve" smooth="yes"/>
+      <point x="214" y="91"/>
+      <point x="176" y="150"/>
+      <point x="176" y="244" type="curve" smooth="yes"/>
+      <point x="176" y="391"/>
+      <point x="247" y="509"/>
+      <point x="338" y="509" type="curve" smooth="yes"/>
+      <point x="400" y="509"/>
+      <point x="438" y="461"/>
+      <point x="436" y="383" type="curve"/>
+      <point x="575" y="422" type="line"/>
+      <point x="566" y="538"/>
+      <point x="479" y="610"/>
+      <point x="354" y="610" type="curve" smooth="yes"/>
+      <point x="174" y="610"/>
+      <point x="33" y="452"/>
+      <point x="33" y="242" type="curve" smooth="yes"/>
+      <point x="33" y="90"/>
+      <point x="122" y="-12"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>8</integer>
+        <key>height</key>
+        <integer>86</integer>
+        <key>weight</key>
+        <integer>-8</integer>
+        <key>width</key>
+        <integer>86</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o.sc</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>C</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresismacron" format="2">
+  <advance width="567"/>
+  <unicode hex="01D6"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresiscomb" xOffset="80"/>
+    <component base="macroncomb" xOffset="82" yOffset="145" identifier="BEEB70AD"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>BEEB70AD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

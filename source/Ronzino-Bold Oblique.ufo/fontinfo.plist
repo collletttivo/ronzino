@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>712</integer>
+    <key>capHeight</key>
+    <integer>692</integer>
+    <key>descender</key>
+    <integer>-218</integer>
+    <key>familyName</key>
+    <string>Ronzino</string>
+    <key>italicAngle</key>
+    <integer>-8</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2023/03/31 10:00:41</string>
+    <key>openTypeHheaAscender</key>
+    <integer>912</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-233</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>130</integer>
+    <key>openTypeNameDesigner</key>
+    <string>Luigi Gorlero</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>https://www.luigigorlero.com</string>
+    <key>openTypeNameLicense</key>
+    <string>SIL OpenFont License</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>https://scripts.sil.org/OFL_web</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Collletttivo</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>https://collletttivo.it</string>
+    <key>openTypeNamePreferredSubfamilyName</key>
+    <string>Bold Oblique</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>912</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-233</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>130</integer>
+    <key>openTypeOS2UnicodeRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>1</integer>
+      <integer>2</integer>
+    </array>
+    <key>openTypeOS2VendorID</key>
+    <string>CLT</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>700</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>912</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>287</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-14</integer>
+      <integer>0</integer>
+      <integer>544</integer>
+      <integer>556</integer>
+      <integer>692</integer>
+      <integer>706</integer>
+      <integer>712</integer>
+      <integer>724</integer>
+    </array>
+    <key>postscriptFontName</key>
+    <string>Ronzino-BoldOblique</string>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-230</integer>
+      <integer>-218</integer>
+    </array>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <integer>84</integer>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <integer>130</integer>
+    </array>
+    <key>styleMapFamilyName</key>
+    <string>Ronzino Bold</string>
+    <key>styleMapStyleName</key>
+    <string>italic</string>
+    <key>styleName</key>
+    <string>Bold Oblique</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <integer>544</integer>
+  </dict>
+</plist>

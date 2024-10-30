@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJ.liga" format="2">
+  <advance width="585"/>
+  <outline>
+    <contour>
+      <point x="83" y="383" type="line"/>
+      <point x="173" y="383" type="line"/>
+      <point x="173" y="680" type="line"/>
+      <point x="83" y="680" type="line"/>
+    </contour>
+    <component base="J" xOffset="63"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>I</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>J</string>
+    </dict>
+  </lib>
+</glyph>

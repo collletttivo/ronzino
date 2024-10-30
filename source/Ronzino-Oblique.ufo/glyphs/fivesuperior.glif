@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fivesuperior" format="2">
+  <advance width="366"/>
+  <unicode hex="2075"/>
+  <outline>
+    <component base="fiveinferior" xOffset="58" yOffset="411"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>fiveinferior</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>fiveinferior</string>
+    </dict>
+  </lib>
+</glyph>

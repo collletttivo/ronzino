@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng" format="2">
+  <advance width="816"/>
+  <unicode hex="014A"/>
+  <outline>
+    <contour>
+      <point x="465" y="-220" type="line"/>
+      <point x="593" y="-256"/>
+      <point x="679" y="-210"/>
+      <point x="679" y="-106" type="curve" smooth="yes"/>
+      <point x="679" y="680" type="line"/>
+      <point x="593" y="680" type="line"/>
+      <point x="593" y="98" type="line"/>
+      <point x="601" y="98" type="line"/>
+      <point x="263" y="680" type="line"/>
+      <point x="141" y="680" type="line"/>
+      <point x="141" y="0" type="line"/>
+      <point x="227" y="0" type="line"/>
+      <point x="227" y="590" type="line"/>
+      <point x="219" y="590" type="line"/>
+      <point x="601" y="-54" type="line"/>
+      <point x="593" y="-22" type="line"/>
+      <point x="593" y="-98" type="line" smooth="yes"/>
+      <point x="593" y="-154"/>
+      <point x="548" y="-172"/>
+      <point x="477" y="-144" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

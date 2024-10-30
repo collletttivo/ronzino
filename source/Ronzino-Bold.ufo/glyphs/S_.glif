@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S" format="2">
+  <advance width="634"/>
+  <unicode hex="0053"/>
+  <note>
+Falls to the right
+</note>
+  <anchor x="320" y="0" name="bottom"/>
+  <anchor x="320" y="692" name="top"/>
+  <outline>
+    <contour>
+      <point x="329" y="-14" type="curve" smooth="yes"/>
+      <point x="494" y="-14"/>
+      <point x="599" y="59"/>
+      <point x="599" y="193" type="curve" smooth="yes"/>
+      <point x="599" y="486"/>
+      <point x="200" y="346"/>
+      <point x="200" y="515" type="curve" smooth="yes"/>
+      <point x="200" y="570"/>
+      <point x="243" y="605"/>
+      <point x="317" y="605" type="curve" smooth="yes"/>
+      <point x="389" y="605"/>
+      <point x="441" y="569"/>
+      <point x="447" y="506" type="curve"/>
+      <point x="587" y="556" type="line"/>
+      <point x="552" y="652"/>
+      <point x="451" y="706"/>
+      <point x="323" y="706" type="curve" smooth="yes"/>
+      <point x="163" y="706"/>
+      <point x="58" y="635"/>
+      <point x="58" y="505" type="curve" smooth="yes"/>
+      <point x="58" y="228"/>
+      <point x="456" y="367"/>
+      <point x="456" y="186" type="curve" smooth="yes"/>
+      <point x="456" y="124"/>
+      <point x="410" y="87"/>
+      <point x="331" y="87" type="curve" smooth="yes"/>
+      <point x="250" y="87"/>
+      <point x="194" y="132"/>
+      <point x="178" y="214" type="curve"/>
+      <point x="42" y="164" type="line"/>
+      <point x="74" y="52"/>
+      <point x="180" y="-14"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>S</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

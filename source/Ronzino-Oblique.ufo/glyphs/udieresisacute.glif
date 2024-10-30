@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresisacute" format="2">
+  <advance width="567"/>
+  <unicode hex="01D8"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresiscomb" xOffset="80"/>
+    <component base="acutecomb" xOffset="150" yOffset="147" identifier="A6752CAA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A6752CAA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

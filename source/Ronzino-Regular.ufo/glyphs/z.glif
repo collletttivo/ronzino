@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z" format="2">
+  <advance width="442"/>
+  <unicode hex="007A"/>
+  <anchor x="221" y="0" name="bottom"/>
+  <anchor x="221" y="266" name="center"/>
+  <anchor x="222" y="532" name="top"/>
+  <outline>
+    <contour>
+      <point x="16" y="0" type="line"/>
+      <point x="424" y="0" type="line"/>
+      <point x="424" y="68" type="line"/>
+      <point x="117" y="68" type="line"/>
+      <point x="121" y="60" type="line"/>
+      <point x="421" y="470" type="line"/>
+      <point x="421" y="532" type="line"/>
+      <point x="23" y="532" type="line"/>
+      <point x="23" y="464" type="line"/>
+      <point x="324" y="464" type="line"/>
+      <point x="320" y="472" type="line"/>
+      <point x="16" y="60" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>z</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

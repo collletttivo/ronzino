@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb.sc" format="2">
+  <advance width="375"/>
+  <anchor x="183" y="431" name="_top"/>
+  <outline>
+    <contour>
+      <point x="196" y="479" type="line"/>
+      <point x="258" y="479" type="line"/>
+      <point x="363" y="599" type="line"/>
+      <point x="276" y="599" type="line"/>
+    </contour>
+    <contour>
+      <point x="89" y="479" type="line"/>
+      <point x="152" y="479" type="line"/>
+      <point x="249" y="599" type="line"/>
+      <point x="163" y="599" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>80</integer>
+        <key>width</key>
+        <integer>80</integer>
+      </dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>NoKerning</string>
+          <key>R</key>
+          <string>NoKerning</string>
+        </dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>hungarumlautcomb</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

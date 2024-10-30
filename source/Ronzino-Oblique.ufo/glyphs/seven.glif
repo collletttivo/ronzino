@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven" format="2">
+  <advance width="470"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="85" y="0" type="curve"/>
+      <point x="179" y="0" type="line"/>
+      <point x="219" y="229"/>
+      <point x="331" y="440"/>
+      <point x="503" y="609" type="curve"/>
+      <point x="513" y="680" type="line"/>
+      <point x="79" y="680" type="line"/>
+      <point x="68" y="602" type="line"/>
+      <point x="408" y="602" type="line"/>
+      <point x="405" y="610" type="line"/>
+      <point x="254" y="459"/>
+      <point x="128" y="224"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>seven</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

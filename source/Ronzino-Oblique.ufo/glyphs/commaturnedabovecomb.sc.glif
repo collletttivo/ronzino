@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb.sc" format="2">
+  <advance width="210"/>
+  <anchor x="124" y="431" name="_top"/>
+  <outline>
+    <contour>
+      <point x="197" y="651" type="line"/>
+      <point x="147" y="643"/>
+      <point x="108" y="608"/>
+      <point x="101" y="558" type="curve" smooth="yes"/>
+      <point x="89" y="476" type="line"/>
+      <point x="178" y="476" type="line"/>
+      <point x="190" y="563" type="line"/>
+      <point x="143" y="563" type="line"/>
+      <point x="144" y="565" type="line" smooth="yes"/>
+      <point x="147" y="591"/>
+      <point x="168" y="611"/>
+      <point x="200" y="614" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>80</integer>
+        <key>width</key>
+        <integer>80</integer>
+      </dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>NoKerning</string>
+          <key>R</key>
+          <string>NoKerning</string>
+        </dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>commaturnedabovecomb</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

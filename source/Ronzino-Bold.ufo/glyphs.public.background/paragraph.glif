@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="paragraph" format="2">
+  <advance width="726"/>
+  <outline>
+    <contour>
+      <point x="392" y="0" type="curve" smooth="yes"/>
+      <point x="462" y="0" type="line"/>
+      <point x="462" y="680" type="line"/>
+      <point x="392" y="680" type="line" smooth="yes"/>
+      <point x="246" y="680"/>
+      <point x="110" y="544"/>
+      <point x="110" y="340" type="curve" smooth="yes"/>
+      <point x="110" y="136"/>
+      <point x="241" y="0"/>
+    </contour>
+    <contour>
+      <point x="578" y="22" type="line"/>
+      <point x="661" y="22" type="line"/>
+      <point x="661" y="680" type="line"/>
+      <point x="578" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="429" y="680" type="line"/>
+      <point x="429" y="613" type="line"/>
+      <point x="726" y="613" type="line"/>
+      <point x="726" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="429" y="67" type="line"/>
+      <point x="429" y="0" type="line"/>
+      <point x="726" y="0" type="line"/>
+      <point x="726" y="67" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>NoKerning</string>
+          <key>R</key>
+          <string>NoKerning</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

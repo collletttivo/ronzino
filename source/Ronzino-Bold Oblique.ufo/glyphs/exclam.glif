@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="275"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="94" y="220" type="line"/>
+      <point x="176" y="220" type="line"/>
+      <point x="251" y="532" type="line"/>
+      <point x="273" y="692" type="line"/>
+      <point x="128" y="692" type="line"/>
+      <point x="106" y="532" type="line"/>
+    </contour>
+    <component base="period" xOffset="19"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>spaced-off</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

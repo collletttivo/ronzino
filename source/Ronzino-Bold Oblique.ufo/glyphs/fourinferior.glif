@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fourinferior" format="2">
+  <advance width="393"/>
+  <unicode hex="2084"/>
+  <outline>
+    <contour>
+      <point x="172" y="-68" type="line"/>
+      <point x="281" y="-68" type="line"/>
+      <point x="340" y="353" type="line"/>
+      <point x="247" y="353" type="line"/>
+      <point x="-4" y="78" type="line"/>
+      <point x="-14" y="9" type="line"/>
+      <point x="348" y="9" type="line"/>
+      <point x="360" y="94" type="line"/>
+      <point x="88" y="94" type="line"/>
+      <point x="89" y="89" type="line"/>
+      <point x="218" y="231" type="line"/>
+      <point x="214" y="231" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>6</integer>
+        <key>height</key>
+        <integer>60</integer>
+        <key>verticalShift</key>
+        <integer>-73</integer>
+        <key>weight</key>
+        <integer>-28</integer>
+        <key>width</key>
+        <integer>60</integer>
+      </dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>four</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesingle" format="2">
+  <advance width="185"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="80" y="413" type="line"/>
+      <point x="144" y="413" type="line"/>
+      <point x="196" y="681" type="line"/>
+      <point x="105" y="681" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>quotes</string>
+          <key>R</key>
+          <string>quotes</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

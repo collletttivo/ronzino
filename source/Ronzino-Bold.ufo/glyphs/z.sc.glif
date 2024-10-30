@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z.sc" format="2">
+  <advance width="511"/>
+  <anchor x="256" y="0" name="bottom"/>
+  <anchor x="256" y="299" name="center"/>
+  <anchor x="255" y="598" name="top"/>
+  <outline>
+    <contour>
+      <point x="28" y="0" type="line"/>
+      <point x="483" y="0" type="line"/>
+      <point x="483" y="101" type="line"/>
+      <point x="184" y="101" type="line"/>
+      <point x="187" y="94" type="line"/>
+      <point x="481" y="519" type="line"/>
+      <point x="481" y="598" type="line"/>
+      <point x="39" y="598" type="line"/>
+      <point x="39" y="498" type="line"/>
+      <point x="328" y="498" type="line"/>
+      <point x="324" y="505" type="line"/>
+      <point x="28" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>8</integer>
+        <key>height</key>
+        <integer>86</integer>
+        <key>weight</key>
+        <integer>-8</integer>
+        <key>width</key>
+        <integer>86</integer>
+      </dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>Z</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

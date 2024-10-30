@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="884"/>
+  <unicode hex="0057"/>
+  <anchor x="442" y="0" name="bottom"/>
+  <anchor x="442" y="680" name="top"/>
+  <outline>
+    <contour>
+      <point x="202" y="0" type="line"/>
+      <point x="305" y="0" type="line"/>
+      <point x="451" y="596" type="line"/>
+      <point x="443" y="596" type="line"/>
+      <point x="585" y="0" type="line"/>
+      <point x="693" y="0" type="line"/>
+      <point x="872" y="680" type="line"/>
+      <point x="781" y="680" type="line"/>
+      <point x="639" y="84" type="line"/>
+      <point x="648" y="84" type="line"/>
+      <point x="502" y="680" type="line"/>
+      <point x="395" y="680" type="line"/>
+      <point x="253" y="84" type="line"/>
+      <point x="262" y="84" type="line"/>
+      <point x="112" y="680" type="line"/>
+      <point x="17" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>W</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

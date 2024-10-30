@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threeinferior" format="2">
+  <advance width="368"/>
+  <unicode hex="2083"/>
+  <outline>
+    <contour>
+      <point x="177" y="-78" type="curve" smooth="yes"/>
+      <point x="274" y="-78"/>
+      <point x="347" y="-27"/>
+      <point x="347" y="53" type="curve" smooth="yes"/>
+      <point x="347" y="109"/>
+      <point x="308" y="150"/>
+      <point x="250" y="156" type="curve"/>
+      <point x="250" y="152" type="line"/>
+      <point x="299" y="165"/>
+      <point x="328" y="202"/>
+      <point x="328" y="247" type="curve" smooth="yes"/>
+      <point x="328" y="315"/>
+      <point x="266" y="364"/>
+      <point x="178" y="364" type="curve" smooth="yes"/>
+      <point x="90" y="364"/>
+      <point x="27" y="318"/>
+      <point x="21" y="244" type="curve"/>
+      <point x="118" y="231" type="line"/>
+      <point x="125" y="271"/>
+      <point x="148" y="288"/>
+      <point x="173" y="288" type="curve" smooth="yes"/>
+      <point x="200" y="288"/>
+      <point x="217" y="269"/>
+      <point x="217" y="237" type="curve" smooth="yes"/>
+      <point x="217" y="206"/>
+      <point x="198" y="185"/>
+      <point x="169" y="185" type="curve" smooth="yes"/>
+      <point x="132" y="185" type="line"/>
+      <point x="132" y="118" type="line"/>
+      <point x="179" y="118" type="line" smooth="yes"/>
+      <point x="212" y="118"/>
+      <point x="234" y="95"/>
+      <point x="234" y="60" type="curve" smooth="yes"/>
+      <point x="234" y="23"/>
+      <point x="213" y="-1"/>
+      <point x="180" y="-1" type="curve" smooth="yes"/>
+      <point x="146" y="-1"/>
+      <point x="123" y="25"/>
+      <point x="119" y="65" type="curve"/>
+      <point x="10" y="39" type="line"/>
+      <point x="18" y="-30"/>
+      <point x="82" y="-78"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>6</integer>
+        <key>height</key>
+        <integer>60</integer>
+        <key>verticalShift</key>
+        <integer>-73</integer>
+        <key>weight</key>
+        <integer>-28</integer>
+        <key>width</key>
+        <integer>60</integer>
+      </dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>three</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedbl" format="2">
+  <advance width="340"/>
+  <unicode hex="0022"/>
+  <outline>
+    <component base="quotesingle"/>
+    <component base="quotesingle" xOffset="155"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>quotesingle</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>quotesingle</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>quotes</string>
+          <key>R</key>
+          <string>quotes</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -32,10 +32,11 @@ width = 450;
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
 shapes = (
 {
+pos = (2,0);
 ref = circumflexcomb;
 }
 );
-width = 511;
+width = 515;
 }
 );
 metricRight = "=|";

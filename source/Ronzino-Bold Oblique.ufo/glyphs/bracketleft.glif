@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketleft" format="2">
+  <advance width="333"/>
+  <unicode hex="005B"/>
+  <outline>
+    <contour>
+      <point x="-9" y="-218" type="line"/>
+      <point x="229" y="-218" type="line"/>
+      <point x="242" y="-128" type="line"/>
+      <point x="128" y="-128" type="line"/>
+      <point x="135" y="-136" type="line"/>
+      <point x="239" y="610" type="line"/>
+      <point x="230" y="603" type="line"/>
+      <point x="343" y="603" type="line"/>
+      <point x="356" y="692" type="line"/>
+      <point x="119" y="692" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>NoKerning</string>
+          <key>R</key>
+          <string>parenthesis</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

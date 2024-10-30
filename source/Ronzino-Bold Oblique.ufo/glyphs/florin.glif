@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="florin" format="2">
+  <advance width="585"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="-40" y="-14" type="line"/>
+      <point x="132" y="-75"/>
+      <point x="265" y="-26"/>
+      <point x="312" y="148" type="curve" smooth="yes"/>
+      <point x="412" y="522" type="line" smooth="yes"/>
+      <point x="434" y="605"/>
+      <point x="502" y="617"/>
+      <point x="601" y="594" type="curve"/>
+      <point x="632" y="695" type="line"/>
+      <point x="462" y="746"/>
+      <point x="331" y="699"/>
+      <point x="281" y="515" type="curve" smooth="yes"/>
+      <point x="182" y="150" type="line" smooth="yes"/>
+      <point x="160" y="69"/>
+      <point x="75" y="70"/>
+      <point x="-9" y="90" type="curve"/>
+    </contour>
+    <contour>
+      <point x="79" y="323" type="line"/>
+      <point x="544" y="323" type="line"/>
+      <point x="558" y="418" type="line"/>
+      <point x="93" y="418" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>NoKerning</string>
+          <key>R</key>
+          <string>NoKerning</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

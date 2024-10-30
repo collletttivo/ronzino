@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oneinferior" format="2">
+  <advance width="290"/>
+  <unicode hex="2081"/>
+  <outline>
+    <contour>
+      <point x="128" y="-68" type="line"/>
+      <point x="237" y="-68" type="line"/>
+      <point x="237" y="355" type="line"/>
+      <point x="141" y="355" type="line"/>
+      <point x="109" y="313"/>
+      <point x="65" y="285"/>
+      <point x="14" y="270" type="curve"/>
+      <point x="26" y="159" type="line"/>
+      <point x="75" y="171"/>
+      <point x="114" y="208"/>
+      <point x="133" y="248" type="curve"/>
+      <point x="128" y="248" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>6</integer>
+        <key>height</key>
+        <integer>60</integer>
+        <key>verticalShift</key>
+        <integer>-73</integer>
+        <key>weight</key>
+        <integer>-28</integer>
+        <key>width</key>
+        <integer>60</integer>
+      </dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>one</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

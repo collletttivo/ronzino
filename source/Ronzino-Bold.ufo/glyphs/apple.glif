@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="apple" format="2">
+  <advance width="1270"/>
+  <unicode hex="F8FF"/>
+  <outline>
+    <component base="C"/>
+    <component base="l" xOffset="659" identifier="ABA1A9ED"/>
+    <component base="t" xOffset="897"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>t</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>ABA1A9ED</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

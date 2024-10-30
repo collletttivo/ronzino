@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
+  <advance width="252"/>
+  <unicode hex="006C"/>
+  <anchor x="89" y="0" name="bottom"/>
+  <anchor x="186" y="692" name="top"/>
+  <anchor x="229" y="545" name="topright"/>
+  <outline>
+    <contour>
+      <point x="24" y="0" type="line"/>
+      <point x="154" y="0" type="line"/>
+      <point x="252" y="713" type="line"/>
+      <point x="122" y="713" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>l</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

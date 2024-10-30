@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t_t.liga" format="2">
+  <advance width="653"/>
+  <outline>
+    <contour>
+      <point x="315" y="466" type="line"/>
+      <point x="363" y="466" type="line"/>
+      <point x="372" y="532" type="line"/>
+      <point x="324" y="532" type="line"/>
+    </contour>
+    <component base="t"/>
+    <component base="t" xOffset="312"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>t</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>t</string>
+    </dict>
+  </lib>
+</glyph>

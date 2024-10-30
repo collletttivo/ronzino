@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="second" format="2">
+  <advance width="462"/>
+  <unicode hex="2033"/>
+  <outline>
+    <contour>
+      <point x="71" y="418" type="line"/>
+      <point x="166" y="418" type="line"/>
+      <point x="316" y="692" type="line"/>
+      <point x="168" y="692" type="line"/>
+    </contour>
+    <contour>
+      <point x="251" y="418" type="line"/>
+      <point x="346" y="418" type="line"/>
+      <point x="506" y="692" type="line"/>
+      <point x="358" y="692" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>minute</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>minute</string>
+    </dict>
+  </lib>
+</glyph>

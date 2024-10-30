@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="P" format="2">
+  <advance width="597"/>
+  <unicode hex="0050"/>
+  <outline>
+    <contour>
+      <point x="48" y="0" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="226" y="614" type="line"/>
+      <point x="217" y="606" type="line"/>
+      <point x="390" y="606" type="line" smooth="yes"/>
+      <point x="458" y="606"/>
+      <point x="499" y="569"/>
+      <point x="499" y="506" type="curve" smooth="yes"/>
+      <point x="499" y="415"/>
+      <point x="440" y="354"/>
+      <point x="352" y="354" type="curve" smooth="yes"/>
+      <point x="183" y="354" type="line"/>
+      <point x="172" y="280" type="line"/>
+      <point x="331" y="280" type="line" smooth="yes"/>
+      <point x="487" y="280"/>
+      <point x="598" y="377"/>
+      <point x="598" y="514" type="curve" smooth="yes"/>
+      <point x="598" y="616"/>
+      <point x="519" y="680"/>
+      <point x="390" y="680" type="curve" smooth="yes"/>
+      <point x="141" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>P</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

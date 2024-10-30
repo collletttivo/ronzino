@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresisacute" format="2">
+  <advance width="589"/>
+  <unicode hex="01D8"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresiscomb" xOffset="61"/>
+    <component base="acutecomb" xOffset="128" yOffset="167" identifier="B06EEA89"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B06EEA89</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

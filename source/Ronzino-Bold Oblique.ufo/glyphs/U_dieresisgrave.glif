@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresisgrave" format="2">
+  <advance width="675"/>
+  <unicode hex="01DB"/>
+  <outline>
+    <component base="U"/>
+    <component base="dieresiscomb.case" xOffset="126" yOffset="147"/>
+    <component base="gravecomb.case" xOffset="128" yOffset="285" identifier="946AE468"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>946AE468</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

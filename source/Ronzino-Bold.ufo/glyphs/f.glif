@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f" format="2">
+  <advance width="345"/>
+  <unicode hex="0066"/>
+  <note>
+Controlla curva
+</note>
+  <outline>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="215" y="0" type="line"/>
+      <point x="215" y="577" type="line" smooth="yes"/>
+      <point x="215" y="633"/>
+      <point x="251" y="653"/>
+      <point x="330" y="636" type="curve"/>
+      <point x="345" y="726" type="line"/>
+      <point x="181" y="763"/>
+      <point x="84" y="707"/>
+      <point x="84" y="573" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="10" y="461" type="line"/>
+      <point x="324" y="461" type="line"/>
+      <point x="324" y="545" type="line"/>
+      <point x="10" y="545" type="line"/>
+    </contour>
+  </outline>
+</glyph>

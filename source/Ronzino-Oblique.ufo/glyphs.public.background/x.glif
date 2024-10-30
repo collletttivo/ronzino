@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x" format="2">
+  <advance width="455"/>
+  <outline>
+    <contour>
+      <point x="-31" y="0" type="line"/>
+      <point x="62" y="0" type="line"/>
+      <point x="423" y="532" type="line"/>
+      <point x="330" y="532" type="line"/>
+    </contour>
+    <contour>
+      <point x="328" y="0" type="line"/>
+      <point x="431" y="0" type="line"/>
+      <point x="76" y="532" type="line"/>
+      <point x="-25" y="532" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>x</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

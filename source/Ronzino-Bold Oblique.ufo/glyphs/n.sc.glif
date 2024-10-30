@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n.sc" format="2">
+  <advance width="629"/>
+  <anchor x="283" y="0" name="bottom"/>
+  <anchor x="358" y="598" name="top"/>
+  <outline>
+    <contour>
+      <point x="31" y="0" type="line"/>
+      <point x="156" y="0" type="line"/>
+      <point x="212" y="417" type="line"/>
+      <point x="205" y="417" type="line"/>
+      <point x="386" y="0" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="606" y="598" type="line"/>
+      <point x="481" y="598" type="line"/>
+      <point x="427" y="199" type="line"/>
+      <point x="435" y="199" type="line"/>
+      <point x="261" y="598" type="line"/>
+      <point x="113" y="598" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>8</integer>
+        <key>height</key>
+        <integer>86</integer>
+        <key>weight</key>
+        <integer>-8</integer>
+        <key>width</key>
+        <integer>86</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>N</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

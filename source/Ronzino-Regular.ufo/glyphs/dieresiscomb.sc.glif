@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.sc" format="2">
+  <advance width="333"/>
+  <anchor x="167" y="431" name="_top"/>
+  <outline>
+    <contour>
+      <point x="192" y="493" type="line"/>
+      <point x="274" y="493" type="line"/>
+      <point x="274" y="575" type="line"/>
+      <point x="192" y="575" type="line"/>
+    </contour>
+    <contour>
+      <point x="59" y="493" type="line"/>
+      <point x="141" y="493" type="line"/>
+      <point x="141" y="575" type="line"/>
+      <point x="59" y="575" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>80</integer>
+        <key>width</key>
+        <integer>80</integer>
+      </dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>NoKerning</string>
+          <key>R</key>
+          <string>NoKerning</string>
+        </dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>dieresiscomb</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
