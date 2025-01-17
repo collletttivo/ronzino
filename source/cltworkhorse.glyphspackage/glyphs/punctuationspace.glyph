@@ -20,4 +20,10 @@ width = 237;
 );
 metricWidth = period;
 unicode = 8200;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

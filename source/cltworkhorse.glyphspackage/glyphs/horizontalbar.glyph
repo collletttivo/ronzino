@@ -65,4 +65,10 @@ width = 1022;
 metricLeft = hyphen;
 metricRight = hyphen;
 unicode = 8213;
+userData = {
+KernOnSpecialSpacing = {
+L = dashes;
+R = dashes;
+};
+};
 }

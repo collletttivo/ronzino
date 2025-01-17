@@ -42,4 +42,10 @@ ref = at;
 width = 1048;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
 }

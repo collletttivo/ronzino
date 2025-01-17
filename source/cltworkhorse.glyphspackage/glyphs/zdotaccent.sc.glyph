@@ -1,5 +1,7 @@
 {
 glyphname = zdotaccent.sc;
+kernLeft = KO_z.sc;
+kernRight = KO_z.sc;
 layers = (
 {
 layerId = m01;
@@ -54,4 +56,10 @@ ref = dotaccentcomb.sc;
 width = 504;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
 }

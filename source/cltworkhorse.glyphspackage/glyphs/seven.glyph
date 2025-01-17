@@ -1,5 +1,7 @@
 {
 glyphname = seven;
+kernLeft = KO_seven;
+kernRight = KO_seven;
 layers = (
 {
 layerId = m01;
@@ -95,7 +97,4 @@ width = 526;
 }
 );
 unicode = 55;
-userData = {
-KernOnName = seven;
-};
 }

@@ -89,4 +89,10 @@ width = 484;
 );
 metricRight = "=|";
 unicode = 821;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

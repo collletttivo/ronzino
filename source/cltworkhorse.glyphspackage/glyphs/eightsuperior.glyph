@@ -1,5 +1,6 @@
 {
 glyphname = eightsuperior;
+kernLeft = KO_eightsuperior;
 layers = (
 {
 layerId = m01;
@@ -45,4 +46,10 @@ width = 415;
 metricLeft = eightinferior;
 metricRight = eightinferior;
 unicode = 8312;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
 }

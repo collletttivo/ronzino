@@ -1,5 +1,6 @@
 {
 glyphname = question;
+kernLeft = KO_question;
 layers = (
 {
 layerId = m01;
@@ -238,6 +239,7 @@ width = 488;
 );
 unicode = 63;
 userData = {
+KernOnName = question;
 KernOnSpecialSpacing = {
 L = "spaced-off";
 };

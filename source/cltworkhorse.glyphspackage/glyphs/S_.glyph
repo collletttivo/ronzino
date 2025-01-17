@@ -1,5 +1,7 @@
 {
 glyphname = S;
+kernLeft = KO_S;
+kernRight = KO_S;
 layers = (
 {
 anchors = (
@@ -328,7 +330,4 @@ width = 625;
 );
 note = "Falls to the right";
 unicode = 83;
-userData = {
-KernOnName = S;
-};
 }

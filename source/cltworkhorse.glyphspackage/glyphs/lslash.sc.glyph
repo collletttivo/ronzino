@@ -75,4 +75,10 @@ nodes = (
 width = 453;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
 }

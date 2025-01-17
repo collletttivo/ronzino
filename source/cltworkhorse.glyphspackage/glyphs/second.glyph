@@ -101,4 +101,10 @@ width = 462;
 metricLeft = minute;
 metricRight = minute;
 unicode = 8243;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
 }

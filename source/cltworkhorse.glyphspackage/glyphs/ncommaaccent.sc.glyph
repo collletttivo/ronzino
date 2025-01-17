@@ -1,5 +1,6 @@
 {
 glyphname = ncommaaccent.sc;
+kernLeft = KO_e.sc;
 layers = (
 {
 layerId = m01;
@@ -54,4 +55,10 @@ ref = commaaccentcomb.sc;
 width = 629;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
 }

@@ -1,5 +1,7 @@
 {
 glyphname = asciicircum;
+kernLeft = KO_asciicircum;
+kernRight = KO_asciicircum;
 layers = (
 {
 layerId = m01;

@@ -1,5 +1,7 @@
 {
 glyphname = twosuperior;
+kernLeft = KO_twosuperior;
+kernRight = KO_twosuperior;
 layers = (
 {
 layerId = m01;
@@ -45,4 +47,10 @@ width = 410;
 metricLeft = twoinferior;
 metricRight = twoinferior;
 unicode = 178;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
 }

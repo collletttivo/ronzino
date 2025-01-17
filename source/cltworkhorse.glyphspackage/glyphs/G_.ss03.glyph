@@ -1,6 +1,8 @@
 {
 color = 3;
 glyphname = G.ss03;
+kernLeft = KO_O;
+kernRight = KO_G.ss03;
 layers = (
 {
 anchors = (

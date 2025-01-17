@@ -1,5 +1,6 @@
 {
 glyphname = uring.sc;
+kernLeft = KO_u.sc;
 layers = (
 {
 layerId = m01;
@@ -54,4 +55,10 @@ ref = ringcomb.sc;
 width = 596;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
 }

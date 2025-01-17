@@ -1,5 +1,7 @@
 {
 glyphname = g.ss02;
+kernLeft = KO_g.ss02;
+kernRight = KO_g.ss02;
 layers = (
 {
 anchors = (
@@ -404,7 +406,4 @@ nodes = (
 width = 594;
 }
 );
-userData = {
-KernOnName = g;
-};
 }

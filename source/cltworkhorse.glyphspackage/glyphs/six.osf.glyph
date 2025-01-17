@@ -1,5 +1,7 @@
 {
 glyphname = six.osf;
+kernLeft = KO_six;
+kernRight = KO_six;
 layers = (
 {
 layerId = m01;
@@ -17,7 +19,7 @@ shapes = (
 ref = six;
 }
 );
-width = 613;
+width = 610;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";

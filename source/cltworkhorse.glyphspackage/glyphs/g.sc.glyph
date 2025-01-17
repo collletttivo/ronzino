@@ -1,5 +1,7 @@
 {
 glyphname = g.sc;
+kernLeft = KO_o.sc;
+kernRight = KO_g.sc;
 layers = (
 {
 anchors = (
@@ -300,6 +302,10 @@ width = 606;
 metricLeft = o.sc;
 note = "Versione senza gamba?";
 userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
 RMXScaler = {
 source = G;
 };

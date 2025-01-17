@@ -1,5 +1,7 @@
 {
 glyphname = uhungarumlaut.sc;
+kernLeft = KO_u.sc;
+kernRight = KO_u.sc;
 layers = (
 {
 layerId = m01;
@@ -54,4 +56,10 @@ ref = hungarumlautcomb.sc;
 width = 596;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
 }

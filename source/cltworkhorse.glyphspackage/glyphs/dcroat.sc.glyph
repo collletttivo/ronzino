@@ -1,5 +1,6 @@
 {
 glyphname = dcroat.sc;
+kernRight = KO_d.sc;
 layers = (
 {
 layerId = m01;
@@ -38,4 +39,10 @@ ref = eth.sc;
 width = 604;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
 }

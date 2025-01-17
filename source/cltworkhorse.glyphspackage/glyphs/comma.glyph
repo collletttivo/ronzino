@@ -1,5 +1,7 @@
 {
 glyphname = comma;
+kernLeft = KO_comma;
+kernRight = KO_comma;
 layers = (
 {
 layerId = m01;
@@ -97,6 +99,7 @@ width = 236;
 metricRight = period;
 unicode = 44;
 userData = {
+KernOnName = comma;
 KernOnSpecialSpacing = {
 L = period;
 R = period;

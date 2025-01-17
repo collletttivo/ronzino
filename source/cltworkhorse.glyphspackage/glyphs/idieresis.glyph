@@ -1,5 +1,7 @@
 {
 glyphname = idieresis;
+kernLeft = KO_idieresis;
+kernRight = KO_idieresis;
 layers = (
 {
 layerId = m01;
@@ -115,4 +117,7 @@ width = 240;
 }
 );
 unicode = 239;
+userData = {
+KernOnName = idieresis;
+};
 }

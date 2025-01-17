@@ -1,5 +1,6 @@
 {
 glyphname = eth.sc;
+kernRight = KO_d.sc;
 layers = (
 {
 layerId = m01;
@@ -54,4 +55,10 @@ ref = strokeshortcomb;
 width = 604;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
 }

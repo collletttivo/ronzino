@@ -1,5 +1,6 @@
 {
 glyphname = divide;
+kernRight = KO_minus;
 layers = (
 {
 layerId = m01;

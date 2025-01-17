@@ -1,5 +1,7 @@
 {
 glyphname = igrave;
+kernLeft = KO_igrave;
+kernRight = KO_i;
 layers = (
 {
 layerId = m01;
@@ -55,4 +57,7 @@ width = 240;
 }
 );
 unicode = 236;
+userData = {
+KernOnName = igrave;
+};
 }

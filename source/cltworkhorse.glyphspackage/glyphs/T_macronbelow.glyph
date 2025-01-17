@@ -1,5 +1,6 @@
 {
 glyphname = Tmacronbelow;
+kernRight = KO_T;
 layers = (
 {
 layerId = m01;

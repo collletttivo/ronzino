@@ -1,5 +1,7 @@
 {
 glyphname = gbreve.sc;
+kernLeft = KO_o.sc;
+kernRight = KO_g.sc;
 layers = (
 {
 layerId = m01;
@@ -54,4 +56,10 @@ ref = brevecomb.sc;
 width = 606;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
 }

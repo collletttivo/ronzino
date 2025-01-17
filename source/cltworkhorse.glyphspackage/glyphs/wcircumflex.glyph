@@ -1,5 +1,6 @@
 {
 glyphname = wcircumflex;
+kernRight = KO_w;
 layers = (
 {
 layerId = m01;

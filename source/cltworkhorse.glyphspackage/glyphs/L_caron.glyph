@@ -1,5 +1,6 @@
 {
 glyphname = Lcaron;
+kernLeft = KO_H;
 layers = (
 {
 layerId = m01;

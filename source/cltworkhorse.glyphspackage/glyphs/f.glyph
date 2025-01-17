@@ -1,5 +1,7 @@
 {
 glyphname = f;
+kernLeft = KO_f;
+kernRight = KO_f;
 layers = (
 {
 layerId = m01;
@@ -124,4 +126,7 @@ width = 339;
 );
 note = "Controlla curva";
 unicode = 102;
+userData = {
+KernOnName = f;
+};
 }

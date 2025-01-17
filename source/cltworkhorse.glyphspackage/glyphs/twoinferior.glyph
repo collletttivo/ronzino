@@ -252,6 +252,10 @@ width = 410;
 );
 unicode = 8322;
 userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
 RMXScaler = {
 source = two;
 };

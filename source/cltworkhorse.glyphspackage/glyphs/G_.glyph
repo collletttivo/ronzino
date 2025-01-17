@@ -1,5 +1,7 @@
 {
 glyphname = G;
+kernLeft = KO_O;
+kernRight = KO_G;
 layers = (
 {
 anchors = (
@@ -330,4 +332,7 @@ width = 685;
 metricLeft = O;
 note = "Versione senza gamba?";
 unicode = 71;
+userData = {
+KernOnName = G;
+};
 }

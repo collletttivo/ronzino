@@ -1,5 +1,7 @@
 {
 glyphname = cdotaccent;
+kernLeft = KO_eacute;
+kernRight = KO_ccedilla;
 layers = (
 {
 layerId = m01;

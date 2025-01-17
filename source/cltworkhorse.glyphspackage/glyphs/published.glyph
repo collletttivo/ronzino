@@ -267,4 +267,9 @@ width = 832;
 }
 );
 unicode = 8471;
+userData = {
+KernOnSpecialSpacing = {
+R = symbols;
+};
+};
 }

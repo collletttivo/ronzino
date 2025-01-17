@@ -1,5 +1,7 @@
 {
 glyphname = Udieresismacron;
+kernLeft = KO_U;
+kernRight = KO_U;
 layers = (
 {
 layerId = m01;

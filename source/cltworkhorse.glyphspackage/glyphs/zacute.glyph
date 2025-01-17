@@ -1,5 +1,6 @@
 {
 glyphname = zacute;
+kernRight = KO_zcaron;
 layers = (
 {
 layerId = m01;

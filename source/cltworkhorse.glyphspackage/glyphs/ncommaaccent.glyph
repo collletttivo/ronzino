@@ -1,5 +1,6 @@
 {
 glyphname = ncommaaccent;
+kernRight = KO_h;
 layers = (
 {
 layerId = m01;

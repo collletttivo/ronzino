@@ -1,5 +1,6 @@
 {
 glyphname = tcedilla.sc;
+kernRight = KO_t.sc;
 layers = (
 {
 layerId = m01;

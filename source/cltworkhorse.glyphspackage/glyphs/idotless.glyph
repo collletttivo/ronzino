@@ -1,5 +1,6 @@
 {
 glyphname = idotless;
+kernLeft = KO_n;
 layers = (
 {
 anchors = (

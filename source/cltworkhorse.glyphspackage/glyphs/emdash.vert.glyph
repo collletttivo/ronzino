@@ -1,5 +1,7 @@
 {
 glyphname = emdash.vert;
+kernLeft = KO_emdash.vert;
+kernRight = KO_emdash.vert;
 layers = (
 {
 layerId = m01;

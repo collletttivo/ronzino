@@ -1,5 +1,6 @@
 {
 glyphname = less;
+kernRight = KO_less;
 layers = (
 {
 layerId = m01;

@@ -167,7 +167,10 @@ width = 571;
 }
 );
 userData = {
-KernOnName = X;
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
 RMXScaler = {
 source = X;
 };

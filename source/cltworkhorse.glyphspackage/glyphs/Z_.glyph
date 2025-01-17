@@ -1,5 +1,7 @@
 {
 glyphname = Z;
+kernLeft = KO_Z;
+kernRight = KO_Z;
 layers = (
 {
 anchors = (
@@ -152,4 +154,7 @@ width = 559;
 );
 metricRight = "=|";
 unicode = 90;
+userData = {
+KernOnName = Z;
+};
 }

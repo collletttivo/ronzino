@@ -1,5 +1,7 @@
 {
 glyphname = p;
+kernLeft = KO_p;
+kernRight = KO_p;
 layers = (
 {
 layerId = m01;
@@ -192,4 +194,7 @@ width = 598;
 );
 metricRight = o;
 unicode = 112;
+userData = {
+KernOnName = p;
+};
 }

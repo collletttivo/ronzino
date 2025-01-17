@@ -1,5 +1,7 @@
 {
 glyphname = parenright.case;
+kernLeft = KO_parenright.case;
+kernRight = KO_parenright.case;
 layers = (
 {
 background = {

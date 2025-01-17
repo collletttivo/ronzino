@@ -1,5 +1,7 @@
 {
 glyphname = f_i;
+kernLeft = KO_f;
+kernRight = KO_i;
 layers = (
 {
 layerId = m01;
@@ -47,11 +49,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (339,0);
+pos = (342,0);
 ref = i;
 }
 );
-width = 579;
+width = 582;
 }
 );
 metricLeft = f;

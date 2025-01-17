@@ -1,5 +1,7 @@
 {
 glyphname = nine;
+kernLeft = KO_nine;
+kernRight = KO_nine;
 layers = (
 {
 background = {
@@ -166,7 +168,7 @@ nodes = (
 );
 }
 );
-width = 609;
+width = 606;
 },
 {
 associatedMasterId = m01;

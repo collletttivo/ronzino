@@ -1,5 +1,6 @@
 {
 glyphname = Ldot;
+kernLeft = KO_H;
 layers = (
 {
 layerId = m01;
@@ -77,4 +78,9 @@ width = 533;
 metricLeft = H;
 metricRight = L;
 unicode = 319;
+userData = {
+KernOnSpecialSpacing = {
+R = NoKerning;
+};
+};
 }

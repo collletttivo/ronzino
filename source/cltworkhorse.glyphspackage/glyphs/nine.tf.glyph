@@ -46,4 +46,10 @@ ref = nine;
 width = 620;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

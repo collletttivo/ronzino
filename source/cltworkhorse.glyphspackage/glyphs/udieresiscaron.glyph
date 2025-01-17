@@ -1,5 +1,7 @@
 {
 glyphname = udieresiscaron;
+kernLeft = KO_uacute;
+kernRight = KO_uacute;
 layers = (
 {
 layerId = m01;

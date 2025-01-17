@@ -54,4 +54,10 @@ ref = commaaccentcomb.sc;
 width = 596;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
 }

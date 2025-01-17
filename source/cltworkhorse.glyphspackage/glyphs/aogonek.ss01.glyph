@@ -1,5 +1,7 @@
 {
 glyphname = aogonek.ss01;
+kernLeft = KO_d;
+kernRight = KO_q;
 layers = (
 {
 layerId = m01;

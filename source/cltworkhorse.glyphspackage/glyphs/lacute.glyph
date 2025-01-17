@@ -1,5 +1,6 @@
 {
 glyphname = lacute;
+kernLeft = KO_l;
 layers = (
 {
 layerId = m01;

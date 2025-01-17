@@ -1,5 +1,7 @@
 {
 glyphname = gdotaccent.ss02;
+kernLeft = KO_g.ss02;
+kernRight = KO_g.ss02;
 layers = (
 {
 layerId = m01;

@@ -1,5 +1,7 @@
 {
 glyphname = Rcommaaccent;
+kernLeft = KO_H;
+kernRight = KO_R;
 layers = (
 {
 layerId = m01;

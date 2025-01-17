@@ -178,7 +178,7 @@ weight = -32;
 width = 52;
 };
 };
-width = 384;
+width = 381;
 },
 {
 associatedMasterId = m01;

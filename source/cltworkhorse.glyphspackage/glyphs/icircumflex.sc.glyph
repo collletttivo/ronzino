@@ -54,4 +54,10 @@ ref = circumflexcomb.sc;
 width = 270;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
 }

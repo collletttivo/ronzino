@@ -1,5 +1,7 @@
 {
 glyphname = degree;
+kernLeft = KO_degree;
+kernRight = KO_degree;
 layers = (
 {
 layerId = m01;
@@ -167,6 +169,7 @@ unicode = 176;
 userData = {
 KernOnSpecialSpacing = {
 L = superiors;
+R = superiors;
 };
 };
 }

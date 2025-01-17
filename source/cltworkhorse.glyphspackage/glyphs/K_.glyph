@@ -1,5 +1,7 @@
 {
 glyphname = K;
+kernLeft = KO_H;
+kernRight = KO_K;
 layers = (
 {
 anchors = (
@@ -164,4 +166,7 @@ width = 662;
 );
 metricLeft = H;
 unicode = 75;
+userData = {
+KernOnName = K;
+};
 }

@@ -1,5 +1,7 @@
 {
 glyphname = nine.osf;
+kernLeft = KO_nine.osf;
+kernRight = KO_nine.osf;
 layers = (
 {
 layerId = m01;
@@ -19,7 +21,7 @@ pos = (0,-129);
 ref = nine;
 }
 );
-width = 609;
+width = 606;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";

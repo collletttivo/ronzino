@@ -63,4 +63,10 @@ width = 284;
 }
 );
 unicode = 8242;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
 }

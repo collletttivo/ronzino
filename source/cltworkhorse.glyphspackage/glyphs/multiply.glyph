@@ -1,5 +1,7 @@
 {
 glyphname = multiply;
+kernLeft = KO_multiply;
+kernRight = KO_multiply;
 layers = (
 {
 layerId = m01;

@@ -58,4 +58,10 @@ scale = (0.87,0.86);
 width = 625;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
 }

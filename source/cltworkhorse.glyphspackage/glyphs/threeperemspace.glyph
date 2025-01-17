@@ -20,4 +20,10 @@ width = 308;
 );
 metricWidth = "=emspace/3";
 unicode = 8196;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

@@ -1,5 +1,7 @@
 {
 glyphname = acircumflex.sc;
+kernLeft = KO_a.sc;
+kernRight = KO_a.sc;
 layers = (
 {
 layerId = m01;
@@ -54,4 +56,10 @@ ref = circumflexcomb.sc;
 width = 585;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
 }

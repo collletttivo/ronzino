@@ -1,5 +1,7 @@
 {
 glyphname = icircumflex;
+kernLeft = KO_icircumflex;
+kernRight = KO_icircumflex;
 layers = (
 {
 layerId = m01;
@@ -55,4 +57,7 @@ width = 240;
 }
 );
 unicode = 238;
+userData = {
+KernOnName = icircumflex;
+};
 }

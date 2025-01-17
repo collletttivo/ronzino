@@ -1,5 +1,6 @@
 {
 glyphname = thorn;
+kernRight = KO_p;
 layers = (
 {
 layerId = m01;

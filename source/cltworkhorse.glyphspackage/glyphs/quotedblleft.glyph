@@ -1,5 +1,7 @@
 {
 glyphname = quotedblleft;
+kernLeft = KO_quotedblleft;
+kernRight = KO_quotedblleft;
 layers = (
 {
 layerId = m01;
@@ -70,6 +72,7 @@ metricLeft = quoteleft;
 metricRight = quoteleft;
 unicode = 8220;
 userData = {
+KernOnName = quotedblleft;
 KernOnSpecialSpacing = {
 L = quotes;
 R = quotes;

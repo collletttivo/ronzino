@@ -1,5 +1,6 @@
 {
 glyphname = wdieresis;
+kernRight = KO_w;
 layers = (
 {
 layerId = m01;

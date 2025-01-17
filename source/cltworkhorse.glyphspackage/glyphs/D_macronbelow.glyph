@@ -1,5 +1,7 @@
 {
 glyphname = Dmacronbelow;
+kernLeft = KO_H;
+kernRight = KO_D;
 layers = (
 {
 layerId = m01;

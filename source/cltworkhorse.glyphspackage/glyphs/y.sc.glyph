@@ -1,5 +1,7 @@
 {
 glyphname = y.sc;
+kernLeft = KO_y.sc;
+kernRight = KO_y.sc;
 layers = (
 {
 anchors = (
@@ -143,7 +145,10 @@ width = 536;
 }
 );
 userData = {
-KernOnName = Y;
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
 RMXScaler = {
 source = Y;
 };

@@ -1,5 +1,7 @@
 {
 glyphname = nacute.sc;
+kernLeft = KO_e.sc;
+kernRight = KO_i.sc;
 layers = (
 {
 layerId = m01;
@@ -54,4 +56,10 @@ ref = acutecomb.sc;
 width = 629;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
 }

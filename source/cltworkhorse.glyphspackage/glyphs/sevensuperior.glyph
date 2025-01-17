@@ -1,5 +1,6 @@
 {
 glyphname = sevensuperior;
+kernLeft = KO_sevensuperior;
 layers = (
 {
 layerId = m01;
@@ -45,4 +46,10 @@ width = 358;
 metricLeft = seveninferior;
 metricRight = seveninferior;
 unicode = 8311;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
 }

@@ -1,5 +1,7 @@
 {
 glyphname = p.sc;
+kernLeft = KO_e.sc;
+kernRight = KO_p.sc;
 layers = (
 {
 layerId = m01;
@@ -204,7 +206,10 @@ width = 536;
 );
 metricLeft = h.sc;
 userData = {
-KernOnName = P;
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
 RMXScaler = {
 source = P;
 };

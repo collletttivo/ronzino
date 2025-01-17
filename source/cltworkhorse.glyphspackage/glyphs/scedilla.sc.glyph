@@ -1,5 +1,7 @@
 {
 glyphname = scedilla.sc;
+kernLeft = KO_s.sc;
+kernRight = KO_s.sc;
 layers = (
 {
 layerId = m01;
@@ -54,4 +56,10 @@ ref = cedillacomb.sc;
 width = 562;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
 }

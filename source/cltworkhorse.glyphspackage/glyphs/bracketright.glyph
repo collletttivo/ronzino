@@ -1,5 +1,6 @@
 {
 glyphname = bracketright;
+kernLeft = KO_bracketright;
 layers = (
 {
 layerId = m01;
@@ -50,8 +51,8 @@ metricLeft = "=|bracketleft";
 metricRight = l;
 unicode = 93;
 userData = {
+KernOnName = bracketright;
 KernOnSpecialSpacing = {
-L = parenthesis;
 R = NoKerning;
 };
 };

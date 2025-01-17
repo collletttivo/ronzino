@@ -1,5 +1,7 @@
 {
 glyphname = hyphen.case;
+kernLeft = KO_hyphen.case;
+kernRight = KO_hyphen;
 layers = (
 {
 layerId = m01;
@@ -42,4 +44,10 @@ ref = hyphen;
 width = 495;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = hyphen;
+R = hyphen;
+};
+};
 }

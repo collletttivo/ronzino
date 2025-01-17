@@ -19,4 +19,10 @@ width = 923;
 }
 );
 unicode = 8195;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

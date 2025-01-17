@@ -1,5 +1,6 @@
 {
 glyphname = Dcroat;
+kernRight = KO_D;
 layers = (
 {
 layerId = m01;

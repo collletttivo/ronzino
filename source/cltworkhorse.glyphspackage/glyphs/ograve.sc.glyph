@@ -1,5 +1,7 @@
 {
 glyphname = ograve.sc;
+kernLeft = KO_o.sc;
+kernRight = KO_o.sc;
 layers = (
 {
 layerId = m01;
@@ -54,4 +56,10 @@ ref = gravecomb.sc;
 width = 625;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
 }

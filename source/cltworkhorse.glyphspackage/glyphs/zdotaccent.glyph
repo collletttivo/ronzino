@@ -1,5 +1,6 @@
 {
 glyphname = zdotaccent;
+kernRight = KO_zcaron;
 layers = (
 {
 layerId = m01;

@@ -137,8 +137,8 @@ width = 353;
 unicode = 8332;
 userData = {
 KernOnSpecialSpacing = {
-L = math;
-R = math;
+L = underscore;
+R = underscore;
 };
 RMXScaler = {
 source = equal;
