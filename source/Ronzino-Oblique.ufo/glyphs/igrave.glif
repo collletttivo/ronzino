@@ -6,4 +6,13 @@
     <component base="idotless"/>
     <component base="gravecomb" xOffset="-108"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>igrave</string>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

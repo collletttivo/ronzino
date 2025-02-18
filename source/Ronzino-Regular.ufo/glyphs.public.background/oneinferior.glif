@@ -1,26 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oneinferior" format="2">
   <advance width="252"/>
+  <unicode hex="2081"/>
   <outline>
     <contour>
-      <point x="189" y="0" type="line"/>
-      <point x="276" y="0" type="line"/>
-      <point x="276" y="681" type="line"/>
-      <point x="198" y="681" type="line"/>
-      <point x="168" y="608"/>
-      <point x="98" y="556"/>
-      <point x="15" y="545" type="curve"/>
-      <point x="20" y="460" type="line"/>
-      <point x="100" y="471"/>
-      <point x="169" y="513"/>
-      <point x="196" y="565" type="curve"/>
-      <point x="189" y="565" type="line"/>
+      <point x="124" y="-68" type="line"/>
+      <point x="202" y="-68" type="line"/>
+      <point x="202" y="347" type="line"/>
+      <point x="132" y="347" type="line"/>
+      <point x="109" y="304"/>
+      <point x="64" y="275"/>
+      <point x="12" y="264" type="curve"/>
+      <point x="18" y="188" type="line"/>
+      <point x="65" y="195"/>
+      <point x="110" y="225"/>
+      <point x="129" y="265" type="curve"/>
+      <point x="124" y="265" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>6</integer>
+        <key>height</key>
+        <integer>60</integer>
+        <key>verticalShift</key>
+        <integer>-73</integer>
+        <key>weight</key>
+        <integer>-16</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
       <key>com.schriftgestaltung.glyph.userData</key>
       <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>superiors</string>
+          <key>R</key>
+          <string>superiors</string>
+        </dict>
         <key>RMXScaler</key>
         <dict>
           <key>source</key>

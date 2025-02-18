@@ -2,13 +2,23 @@
 <glyph name="eight.tf" format="2">
   <advance width="620"/>
   <outline>
-    <component base="eight" xOffset="1" identifier="49E865D9"/>
+    <component base="eight" xOffset="1" identifier="EFC87842"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>NoKerning</string>
+          <key>R</key>
+          <string>NoKerning</string>
+        </dict>
+      </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>49E865D9</key>
+        <key>EFC87842</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -26,11 +26,6 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=|</string>
-      <key>com.schriftgestaltung.glyph.userData</key>
-      <dict>
-        <key>KernOnName</key>
-        <string>X</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

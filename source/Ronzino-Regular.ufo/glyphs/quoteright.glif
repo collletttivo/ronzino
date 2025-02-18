@@ -9,6 +9,8 @@
     <dict>
       <key>com.schriftgestaltung.glyph.userData</key>
       <dict>
+        <key>KernOnName</key>
+        <string>quoteright</string>
         <key>KernOnSpecialSpacing</key>
         <dict>
           <key>L</key>

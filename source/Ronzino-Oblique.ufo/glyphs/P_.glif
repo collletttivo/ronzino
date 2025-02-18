@@ -31,11 +31,6 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
-      <key>com.schriftgestaltung.glyph.userData</key>
-      <dict>
-        <key>KernOnName</key>
-        <string>P</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

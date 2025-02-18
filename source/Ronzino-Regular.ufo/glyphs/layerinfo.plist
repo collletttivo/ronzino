@@ -10,12 +10,64 @@
       <integer>8</integer>
       <key>GSOffsetVertical</key>
       <integer>4</integer>
+      <key>KernOnIndependentPairs</key>
+      <array>
+        <string>H H</string>
+        <string>H E</string>
+        <string>slash d</string>
+        <string>i bracketright</string>
+        <string>idieresis bracketright</string>
+        <string>O O</string>
+        <string>n o</string>
+        <string>idieresis braceright</string>
+        <string>icircumflex parenright</string>
+        <string>braceleft icircumflex</string>
+        <string>u n</string>
+        <string>n n</string>
+      </array>
       <key>KernOnModels</key>
       <array>
+        <string>r hyphen</string>
+        <string>T o</string>
+        <string>T w</string>
+        <string>w period</string>
+        <string>k o</string>
+        <string>quotedblleft e</string>
+        <string>slash G</string>
+        <string>period c</string>
+        <string>R T</string>
+        <string>L o</string>
+        <string>E H</string>
+        <string>z period</string>
+        <string>w a</string>
+        <string>H R</string>
+        <string>idieresis idieresis</string>
+        <string>T E</string>
+        <string>t t</string>
+        <string>z g</string>
+        <string>O H</string>
+        <string>p colon</string>
+        <string>n j</string>
+        <string>n f</string>
+        <string>f n</string>
+        <string>t x</string>
+        <string>o o</string>
+        <string>q comma</string>
+        <string>igrave asterisk</string>
+        <string>zero zero</string>
         <string>l l</string>
-        <string>n i</string>
-        <string>n r</string>
-        <string>hyphen H</string>
+        <string>r y</string>
+        <string>z z</string>
+        <string>x x</string>
+        <string>idieresis asterisk</string>
+        <string>W w</string>
+        <string>quoteleft x</string>
+        <string>idieresis question</string>
+        <string>f idieresis</string>
+        <string>Z igrave</string>
+        <string>icircumflex braceright</string>
+        <string>bracketleft idieresis</string>
+        <string>idieresis icircumflex</string>
       </array>
     </dict>
   </dict>

@@ -13,10 +13,10 @@
       <string>l</string>
       <key>com.schriftgestaltung.glyph.userData</key>
       <dict>
+        <key>KernOnName</key>
+        <string>bracketright</string>
         <key>KernOnSpecialSpacing</key>
         <dict>
-          <key>L</key>
-          <string>parenthesis</string>
           <key>R</key>
           <string>NoKerning</string>
         </dict>

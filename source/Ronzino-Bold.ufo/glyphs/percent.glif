@@ -3,8 +3,8 @@
   <advance width="862"/>
   <unicode hex="0025"/>
   <outline>
-    <component base="zero.numr" xOffset="9" identifier="54903866"/>
-    <component base="fraction" xOffset="325" identifier="446EE64F"/>
+    <component base="zero.numr" xOffset="9" identifier="58EC3A75"/>
+    <component base="fraction" xOffset="325" identifier="6D806251"/>
     <component base="zero.dnom" xOffset="491"/>
   </outline>
   <lib>
@@ -19,12 +19,12 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>446EE64F</key>
+        <key>58EC3A75</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>54903866</key>
+        <key>6D806251</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

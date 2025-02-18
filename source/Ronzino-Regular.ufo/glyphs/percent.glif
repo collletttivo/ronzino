@@ -3,7 +3,7 @@
   <advance width="822"/>
   <unicode hex="0025"/>
   <outline>
-    <component base="zero.numr" identifier="9199E564"/>
+    <component base="zero.numr" identifier="F88BDC17"/>
     <component base="fraction" xOffset="360"/>
     <component base="zero.dnom" xOffset="462"/>
   </outline>
@@ -19,7 +19,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>9199E564</key>
+        <key>F88BDC17</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

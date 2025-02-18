@@ -55,8 +55,13 @@
       <string>h.sc</string>
       <key>com.schriftgestaltung.glyph.userData</key>
       <dict>
-        <key>KernOnName</key>
-        <string>R</string>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>smallcaps</string>
+          <key>R</key>
+          <string>smallcaps</string>
+        </dict>
         <key>RMXScaler</key>
         <dict>
           <key>source</key>

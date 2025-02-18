@@ -10,6 +10,43 @@
       <integer>1</integer>
       <key>GSOffsetVertical</key>
       <integer>-2</integer>
+      <key>KernOnIndependentPairs</key>
+      <array>
+        <string>O O</string>
+        <string>n n</string>
+        <string>u n</string>
+        <string>idieresis i</string>
+        <string>idieresis idieresis</string>
+      </array>
+      <key>KernOnModels</key>
+      <array>
+        <string>r hyphen</string>
+        <string>hyphen a</string>
+        <string>k o</string>
+        <string>o period</string>
+        <string>q comma</string>
+        <string>r y</string>
+        <string>period i</string>
+        <string>n j</string>
+        <string>n f</string>
+        <string>f n</string>
+        <string>t x</string>
+        <string>x x</string>
+        <string>n o</string>
+        <string>o o</string>
+        <string>zero zero</string>
+        <string>H H</string>
+        <string>b e</string>
+        <string>i idieresis</string>
+        <string>idieresis braceright</string>
+        <string>bracketleft idieresis</string>
+        <string>idieresis asterisk</string>
+        <string>icircumflex braceright</string>
+        <string>braceleft icircumflex</string>
+        <string>f idieresis</string>
+        <string>idieresis question</string>
+        <string>idieresis icircumflex</string>
+      </array>
     </dict>
   </dict>
 </plist>

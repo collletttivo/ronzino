@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="IJ.liga" format="2">
-  <advance width="604"/>
+<glyph name="I_J.dlig" format="2">
+  <advance width="601"/>
   <outline>
     <contour>
-      <point x="72" y="383" type="line"/>
-      <point x="212" y="383" type="line"/>
-      <point x="212" y="692" type="line"/>
-      <point x="72" y="692" type="line"/>
+      <point x="88" y="383" type="line"/>
+      <point x="228" y="383" type="line"/>
+      <point x="272" y="692" type="line"/>
+      <point x="132" y="692" type="line"/>
     </contour>
-    <component base="J" xOffset="56"/>
+    <component base="J" xOffset="59"/>
   </outline>
   <lib>
     <dict>

@@ -36,9 +36,9 @@
         <key>KernOnSpecialSpacing</key>
         <dict>
           <key>L</key>
-          <string>math</string>
+          <string>underscore</string>
           <key>R</key>
-          <string>math</string>
+          <string>underscore</string>
         </dict>
         <key>RMXScaler</key>
         <dict>

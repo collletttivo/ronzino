@@ -45,6 +45,11 @@ Versione senza gamba?
     <dict>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>O</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>G</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

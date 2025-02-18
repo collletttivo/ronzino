@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onesixth" format="2">
-  <advance width="871"/>
+  <advance width="798"/>
   <unicode hex="2159"/>
   <outline>
     <component base="one.numr"/>
-    <component base="fraction" xOffset="294"/>
-    <component base="six.dnom" xOffset="492"/>
+    <component base="fraction" xOffset="255"/>
+    <component base="six.dnom" xOffset="422"/>
   </outline>
   <lib>
     <dict>
@@ -13,6 +13,16 @@
       <string>one.numr</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>one.numr</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>NoKerning</string>
+          <key>R</key>
+          <string>NoKerning</string>
+        </dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

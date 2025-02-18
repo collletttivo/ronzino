@@ -11,6 +11,16 @@
       <string>twoinferior</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>twoinferior</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>superiors</string>
+          <key>R</key>
+          <string>superiors</string>
+        </dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

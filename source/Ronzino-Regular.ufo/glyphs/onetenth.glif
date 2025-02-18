@@ -4,9 +4,9 @@
   <unicode hex="2152"/>
   <outline>
     <component base="one.numr"/>
-    <component base="fraction" xOffset="280"/>
-    <component base="one.dnom" xOffset="462"/>
-    <component base="zero.dnom" xOffset="669" identifier="EF2A1AA7"/>
+    <component base="fraction" xOffset="251"/>
+    <component base="one.dnom" xOffset="433"/>
+    <component base="zero.dnom" xOffset="669" identifier="B1FC5367"/>
   </outline>
   <lib>
     <dict>
@@ -14,9 +14,19 @@
       <string>one.numr</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>one.numr</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>NoKerning</string>
+          <key>R</key>
+          <string>NoKerning</string>
+        </dict>
+      </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>EF2A1AA7</key>
+        <key>B1FC5367</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

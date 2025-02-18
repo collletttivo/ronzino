@@ -24,6 +24,8 @@
       <string>period</string>
       <key>com.schriftgestaltung.glyph.userData</key>
       <dict>
+        <key>KernOnName</key>
+        <string>comma</string>
         <key>KernOnSpecialSpacing</key>
         <dict>
           <key>L</key>

@@ -2,13 +2,23 @@
 <glyph name="five.tf" format="2">
   <advance width="620"/>
   <outline>
-    <component base="five" xOffset="2" identifier="4464C276"/>
+    <component base="five" xOffset="2" identifier="5643C9A3"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>NoKerning</string>
+          <key>R</key>
+          <string>NoKerning</string>
+        </dict>
+      </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>4464C276</key>
+        <key>5643C9A3</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

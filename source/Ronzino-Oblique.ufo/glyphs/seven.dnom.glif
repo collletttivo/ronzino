@@ -34,8 +34,6 @@
       </dict>
       <key>com.schriftgestaltung.glyph.userData</key>
       <dict>
-        <key>KernOnName</key>
-        <string>seven</string>
         <key>RMXScaler</key>
         <dict>
           <key>source</key>

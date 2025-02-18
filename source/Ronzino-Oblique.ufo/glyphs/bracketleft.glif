@@ -22,6 +22,8 @@
       <string>l</string>
       <key>com.schriftgestaltung.glyph.userData</key>
       <dict>
+        <key>KernOnName</key>
+        <string>bracketleft</string>
         <key>KernOnSpecialSpacing</key>
         <dict>
           <key>L</key>

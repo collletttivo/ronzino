@@ -25,4 +25,13 @@ Controlla curva
       <point x="9" y="532" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>f</string>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

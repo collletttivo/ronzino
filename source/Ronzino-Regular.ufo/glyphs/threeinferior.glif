@@ -65,6 +65,13 @@
       </dict>
       <key>com.schriftgestaltung.glyph.userData</key>
       <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>superiors</string>
+          <key>R</key>
+          <string>superiors</string>
+        </dict>
         <key>RMXScaler</key>
         <dict>
           <key>source</key>

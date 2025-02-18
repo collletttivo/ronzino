@@ -43,6 +43,11 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>o</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>p</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -1,5 +1,5 @@
 # automatic
-@Uppercase = [ A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotbelow Dmacronbelow Eth E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute K Kcommaaccent Kmacronbelow L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tmacronbelow U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow IJ.liga Lcommaaccent.loclMAH Ncommaaccent.loclMAH G.ss03 ];
+@Uppercase = [ A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotbelow Dmacronbelow Eth E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute K Kcommaaccent Kmacronbelow L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tmacronbelow U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Lcommaaccent.loclMAH Ncommaaccent.loclMAH G.ss03 I_J.dlig ];
 
 # Prefix: Languagesystems
 # automatic
@@ -35,12 +35,10 @@ feature onum;
 feature c2sc;
 feature smcp;
 feature case;
-feature vert;
-feature vrt2;
 feature ss01;
 feature ss02;
 feature ss03;
-feature clig;
+feature ss04;
 } aalt;
 
 feature calt {
@@ -62,26 +60,26 @@ sub atilde by atilde.ss01;
 
 feature ccmp {
 # automatic
-lookup ccmp_Other_1 {
+lookup ccmp_DFLT_1 {
 	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
 	sub i' @CombiningTopAccents by idotless;
 	sub j' @CombiningTopAccents by jdotless;
-} ccmp_Other_1;
+} ccmp_DFLT_1;
 
-lookup ccmp_Other_2 {
+lookup ccmp_Other_1 {
 	lookupflag 0;
 	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb];
 	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case];
 	sub @Markscomb @Markscomb' by @MarkscombCase;
 	sub @Uppercase @Markscomb' by @MarkscombCase;
-} ccmp_Other_2;
+} ccmp_Other_1;
 
-lookup ccmp_Other_3 {
+lookup ccmp_Other_2 {
 	lookupflag 0;
 	sub @Markscomb' @MarkscombCase by @MarkscombCase;
 	sub @MarkscombCase @Markscomb' by @MarkscombCase;
-} ccmp_Other_3;
+} ccmp_Other_2;
 } ccmp;
 
 feature locl {
@@ -643,6 +641,12 @@ sub eight.osf by eight;
 sub nine.osf by nine;
 } case;
 
+feature dlig {
+# automatic
+lookupflag IgnoreMarks;
+sub I J by I_J.dlig;
+} dlig;
+
 feature liga {
 # automatic
 lookupflag IgnoreMarks;
@@ -650,18 +654,7 @@ sub t t t i by t_t_t_i.liga;
 sub f i by f_i;
 sub f l by f_l;
 sub t t by t_t.liga;
-sub I J by IJ.liga;
 } liga;
-
-feature vert {
-# automatic
-sub emdash by emdash.vert;
-} vert;
-
-feature vrt2 {
-# automatic
-sub emdash by emdash.vert;
-} vrt2;
 
 feature ss01 {
 featureNames {
@@ -702,27 +695,11 @@ featureNames {
 sub G by G.ss03;
 } ss03;
 
-feature clig {
-    sub parenleft' one by parenleft.case ;
-    sub parenleft' two by parenleft.case ;
-    sub parenleft' three by parenleft.case ;
-    sub parenleft' four by parenleft.case ;
-    sub parenleft' five by parenleft.case ;
-    sub parenleft' six by parenleft.case ;
-    sub parenleft' seven by parenleft.case ;
-    sub parenleft' eight by parenleft.case ;
-    sub parenleft' nine by parenleft.case ;
-    sub parenleft' zero by parenleft.case ;
-
-    sub one parenright' by  parenright.case;
-    sub two parenright' by  parenright.case;
-    sub three parenright' by  parenright.case;
-    sub four parenright' by  parenright.case;
-    sub five parenright' by  parenright.case;
-    sub six parenright' by  parenright.case;
-    sub seven parenright' by  parenright.case;
-    sub eight parenright' by  parenright.case;
-    sub nine parenright' by  parenright.case;
-    sub zero parenright' by  parenright.case;
-} clig;
+feature ss04 {
+# automatic
+featureNames {
+	name "Inclusive Asterisk";
+};
+sub asterisk by asterisk.ss04;
+} ss04;
 

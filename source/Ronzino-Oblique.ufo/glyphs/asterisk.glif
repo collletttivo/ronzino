@@ -42,6 +42,8 @@
       <string>=|</string>
       <key>com.schriftgestaltung.glyph.userData</key>
       <dict>
+        <key>KernOnName</key>
+        <string>asterisk</string>
         <key>KernOnSpecialSpacing</key>
         <dict>
           <key>L</key>

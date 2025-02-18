@@ -9,15 +9,23 @@
       <point x="399" y="430" type="line"/>
       <point x="265" y="430" type="line"/>
     </contour>
-    <component base="l" identifier="28B3D1CB"/>
+    <component base="l" identifier="FBB2448D"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>l</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>R</key>
+          <string>NoKerning</string>
+        </dict>
+      </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>28B3D1CB</key>
+        <key>FBB2448D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

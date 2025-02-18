@@ -43,13 +43,4 @@ Falls to the right
       <point x="179" y="-14"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.glyph.userData</key>
-      <dict>
-        <key>KernOnName</key>
-        <string>S</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

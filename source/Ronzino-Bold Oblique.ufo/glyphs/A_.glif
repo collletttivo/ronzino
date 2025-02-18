@@ -22,13 +22,4 @@
       <point x="185" y="268" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.glyph.userData</key>
-      <dict>
-        <key>KernOnName</key>
-        <string>A</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

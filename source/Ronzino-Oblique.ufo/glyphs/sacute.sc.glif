@@ -5,4 +5,18 @@
     <component base="s.sc"/>
     <component base="acutecomb.sc" xOffset="149" yOffset="130"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>smallcaps</string>
+          <key>R</key>
+          <string>smallcaps</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

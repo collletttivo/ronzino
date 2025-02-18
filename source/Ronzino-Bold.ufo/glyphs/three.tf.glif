@@ -2,13 +2,23 @@
 <glyph name="three.tf" format="2">
   <advance width="620"/>
   <outline>
-    <component base="three" xOffset="34" yOffset="1" identifier="F2879B7F"/>
+    <component base="three" xOffset="34" yOffset="1" identifier="434F7E0B"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>NoKerning</string>
+          <key>R</key>
+          <string>NoKerning</string>
+        </dict>
+      </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>F2879B7F</key>
+        <key>434F7E0B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

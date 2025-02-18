@@ -44,6 +44,8 @@
     <dict>
       <key>com.schriftgestaltung.glyph.userData</key>
       <dict>
+        <key>KernOnName</key>
+        <string>braceleft</string>
         <key>KernOnSpecialSpacing</key>
         <dict>
           <key>R</key>

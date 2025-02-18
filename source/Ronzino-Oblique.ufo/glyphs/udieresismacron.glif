@@ -5,13 +5,13 @@
   <outline>
     <component base="u"/>
     <component base="dieresiscomb" xOffset="80"/>
-    <component base="macroncomb" xOffset="82" yOffset="145" identifier="BEEB70AD"/>
+    <component base="macroncomb" xOffset="82" yOffset="145" identifier="4469D32C"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>BEEB70AD</key>
+        <key>4469D32C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

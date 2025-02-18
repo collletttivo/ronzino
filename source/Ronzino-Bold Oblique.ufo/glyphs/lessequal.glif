@@ -1,9 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lessequal" format="2">
-  <advance width="782"/>
+  <advance width="679"/>
   <unicode hex="2264"/>
   <outline>
-    <component base="greaterequal" xScale="-1" xOffset="706"/>
+    <contour>
+      <point x="531" y="0" type="line"/>
+      <point x="543" y="94" type="line"/>
+      <point x="91" y="94" type="line"/>
+      <point x="79" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="546" y="126" type="line"/>
+      <point x="560" y="239" type="line"/>
+      <point x="207" y="359" type="line"/>
+      <point x="203" y="321" type="line"/>
+      <point x="585" y="453" type="line"/>
+      <point x="599" y="566" type="line"/>
+      <point x="127" y="390" type="line"/>
+      <point x="115" y="290" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

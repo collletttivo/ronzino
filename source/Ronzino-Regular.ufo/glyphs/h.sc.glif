@@ -40,10 +40,13 @@
       </dict>
       <key>com.schriftgestaltung.glyph.userData</key>
       <dict>
-        <key>KernOnName</key>
-        <string>H</string>
         <key>KernOnSpecialSpacing</key>
-        <dict/>
+        <dict>
+          <key>L</key>
+          <string>smallcaps</string>
+          <key>R</key>
+          <string>smallcaps</string>
+        </dict>
         <key>RMXScaler</key>
         <dict>
           <key>source</key>

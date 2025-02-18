@@ -5,4 +5,18 @@
     <component base="g.sc"/>
     <component base="brevecomb.sc" xOffset="137" yOffset="154"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>smallcaps</string>
+          <key>R</key>
+          <string>smallcaps</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

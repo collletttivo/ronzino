@@ -3,7 +3,7 @@
   <advance width="1232"/>
   <unicode hex="2030"/>
   <outline>
-    <component base="zero.numr" xOffset="9" identifier="4423A758"/>
+    <component base="zero.numr" xOffset="9" identifier="8A64A37F"/>
     <component base="fraction" xOffset="323"/>
     <component base="zero.dnom" xOffset="489"/>
     <component base="zero.dnom" xOffset="861"/>
@@ -16,7 +16,7 @@
       <string>percent</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>4423A758</key>
+        <key>8A64A37F</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

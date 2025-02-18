@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="twothirds" format="2">
-  <advance width="901"/>
+  <advance width="874"/>
   <unicode hex="2154"/>
   <outline>
     <component base="two.numr"/>
-    <component base="fraction" xOffset="340"/>
-    <component base="three.dnom" xOffset="547"/>
+    <component base="fraction" xOffset="329"/>
+    <component base="three.dnom" xOffset="520"/>
   </outline>
   <lib>
     <dict>
@@ -13,6 +13,16 @@
       <string>two.numr</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>two.numr</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>NoKerning</string>
+          <key>R</key>
+          <string>NoKerning</string>
+        </dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

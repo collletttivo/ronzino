@@ -13,6 +13,8 @@
       <string>=|parenleft</string>
       <key>com.schriftgestaltung.glyph.userData</key>
       <dict>
+        <key>KernOnName</key>
+        <string>parenright</string>
         <key>KernOnSpecialSpacing</key>
         <dict>
           <key>L</key>

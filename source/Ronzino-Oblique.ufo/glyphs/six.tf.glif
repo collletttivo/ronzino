@@ -2,13 +2,23 @@
 <glyph name="six.tf" format="2">
   <advance width="620"/>
   <outline>
-    <component base="six" xOffset="22" identifier="6CF9A39F"/>
+    <component base="six" xOffset="22" identifier="8B12252D"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>NoKerning</string>
+          <key>R</key>
+          <string>NoKerning</string>
+        </dict>
+      </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>6CF9A39F</key>
+        <key>8B12252D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -22,6 +22,16 @@
       <string>minute</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>minute</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>quotes</string>
+          <key>R</key>
+          <string>quotes</string>
+        </dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

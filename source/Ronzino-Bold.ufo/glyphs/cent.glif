@@ -3,7 +3,7 @@
   <advance width="583"/>
   <unicode hex="00A2"/>
   <outline>
-    <component base="c" xOffset="22" yOffset="24" identifier="C7F0D961"/>
+    <component base="c" xOffset="22" yOffset="24" identifier="0BA9FCDE"/>
     <contour>
       <point x="247" y="-124" type="line"/>
       <point x="355" y="-124" type="line"/>
@@ -25,7 +25,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>C7F0D961</key>
+        <key>0BA9FCDE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

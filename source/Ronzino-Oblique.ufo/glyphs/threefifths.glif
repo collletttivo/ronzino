@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="threefifths" format="2">
-  <advance width="833"/>
+  <advance width="796"/>
   <unicode hex="2157"/>
   <outline>
     <component base="three.numr"/>
-    <component base="fraction" xOffset="346"/>
-    <component base="five.dnom" xOffset="491"/>
+    <component base="fraction" xOffset="326"/>
+    <component base="five.dnom" xOffset="454"/>
   </outline>
   <lib>
     <dict>
@@ -13,6 +13,16 @@
       <string>three.numr</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>three.numr</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>NoKerning</string>
+          <key>R</key>
+          <string>NoKerning</string>
+        </dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

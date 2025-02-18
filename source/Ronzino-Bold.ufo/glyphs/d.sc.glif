@@ -49,6 +49,13 @@
       <string>o.sc</string>
       <key>com.schriftgestaltung.glyph.userData</key>
       <dict>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>smallcaps</string>
+          <key>R</key>
+          <string>smallcaps</string>
+        </dict>
         <key>RMXScaler</key>
         <dict>
           <key>source</key>

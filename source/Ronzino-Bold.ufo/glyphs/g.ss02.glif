@@ -77,13 +77,4 @@
       <point x="424" y="455" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.glyph.userData</key>
-      <dict>
-        <key>KernOnName</key>
-        <string>g</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

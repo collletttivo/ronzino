@@ -6,4 +6,13 @@
     <component base="idotless"/>
     <component base="dieresiscomb" xOffset="-88"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>idieresis</string>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

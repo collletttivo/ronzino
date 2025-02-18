@@ -18,13 +18,4 @@
       <point x="134" y="221"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.glyph.userData</key>
-      <dict>
-        <key>KernOnName</key>
-        <string>seven</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
