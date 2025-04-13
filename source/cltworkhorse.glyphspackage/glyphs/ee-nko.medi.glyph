@@ -1,23 +1,8 @@
 {
-glyphname = "yazz-tifi";
+glyphname = "ee-nko.medi";
 layers = (
 {
 layerId = m01;
-shapes = (
-{
-pos = (-5,0);
-ref = "yaz-tifi";
-},
-{
-closed = 1;
-nodes = (
-(616,285,l),
-(616,361,l),
-(52,361,l),
-(52,285,l)
-);
-}
-);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -34,24 +19,10 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 678;
+width = 600;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
-shapes = (
-{
-ref = "yaz-tifi";
-},
-{
-closed = 1;
-nodes = (
-(617,285,l),
-(628,361,l),
-(64,361,l),
-(53,285,l)
-);
-}
-);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -68,24 +39,10 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 665;
+width = 600;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-shapes = (
-{
-ref = "yaz-tifi";
-},
-{
-closed = 1;
-nodes = (
-(639,273,l),
-(639,383,l),
-(59,383,l),
-(59,273,l)
-);
-}
-);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -102,24 +59,10 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 698;
+width = 600;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
-shapes = (
-{
-ref = "yaz-tifi";
-},
-{
-closed = 1;
-nodes = (
-(640,273,l),
-(656,383,l),
-(76,383,l),
-(60,273,l)
-);
-}
-);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -136,8 +79,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 699;
+width = 600;
 }
 );
-unicode = 11621;
 }

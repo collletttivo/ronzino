@@ -3,6 +3,35 @@ glyphname = "yagnTuareg-tifi";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(524,386,l),
+(524,462,l),
+(30,462,l),
+(30,386,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(324,0,l),
+(324,645,l),
+(230,645,l),
+(230,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(524,186,l),
+(524,262,l),
+(30,262,l),
+(30,186,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -23,6 +52,35 @@ width = 600;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(296,0,l),
+(384,645,l),
+(290,645,l),
+(202,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(524,185,l),
+(524,261,l),
+(35,261,l),
+(35,185,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(552,385,l),
+(552,461,l),
+(63,461,l),
+(63,385,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -39,10 +97,39 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 570;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(560,375,l),
+(560,485,l),
+(40,485,l),
+(40,375,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(371,0,l),
+(371,655,l),
+(229,655,l),
+(229,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(560,174,l),
+(560,284,l),
+(40,284,l),
+(40,174,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -63,6 +150,35 @@ width = 600;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+shapes = (
+{
+closed = 1;
+nodes = (
+(332,0,l),
+(426,655,l),
+(284,655,l),
+(190,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(554,174,l),
+(554,284,l),
+(34,284,l),
+(34,174,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(583,375,l),
+(583,485,l),
+(63,485,l),
+(63,375,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -79,7 +195,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 601;
 }
 );
 unicode = 11600;

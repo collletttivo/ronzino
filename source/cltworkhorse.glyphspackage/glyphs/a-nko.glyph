@@ -3,6 +3,17 @@ glyphname = "a-nko";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(175,0,l),
+(175,712,l),
+(85,712,l),
+(85,0,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -19,7 +30,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 260;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";

@@ -3,6 +3,28 @@ glyphname = "yaghAyer-tifi";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+ref = "yakhTuareg-tifi";
+},
+{
+closed = 1;
+nodes = (
+(352,249,o),
+(382,279,o),
+(382,321,cs),
+(382,363,o),
+(352,393,o),
+(311,393,cs),
+(270,393,o),
+(240,363,o),
+(240,321,cs),
+(240,279,o),
+(270,249,o),
+(311,249,cs)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;

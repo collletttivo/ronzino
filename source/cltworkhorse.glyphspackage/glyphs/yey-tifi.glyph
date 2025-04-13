@@ -37,7 +37,7 @@ com.hugojourdan.ColorFlow = {
 width = 553;
 },
 {
-layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+background = {
 shapes = (
 {
 pos = (19,0);
@@ -50,6 +50,23 @@ nodes = (
 (543,357,l),
 (54,357,l),
 (43,289,l)
+);
+}
+);
+};
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+shapes = (
+{
+pos = (19,0);
+ref = "yu-tifi";
+},
+{
+closed = 1;
+nodes = (
+(538,289,l),
+(538,357,l),
+(49,357,l),
+(49,289,l)
 );
 }
 );
@@ -116,10 +133,10 @@ ref = "yu-tifi";
 {
 closed = 1;
 nodes = (
-(543,279,l),
-(558,373,l),
-(46,373,l),
-(31,279,l)
+(551,279,l),
+(551,373,l),
+(39,373,l),
+(39,279,l)
 );
 }
 );
@@ -139,7 +156,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 572;
+width = 573;
 }
 );
 metricLeft = "yu-tifi";
