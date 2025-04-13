@@ -7,7 +7,7 @@ layers = (
 anchors = (
 {
 name = ogonek;
-pos = (368,8);
+pos = (358,8);
 },
 {
 name = top;
@@ -47,6 +47,20 @@ height = 82;
 weight = -4;
 width = 82;
 };
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
 };
 width = 567;
 },
@@ -54,7 +68,7 @@ width = 567;
 anchors = (
 {
 name = ogonek;
-pos = (394,6);
+pos = (381,6);
 },
 {
 name = top;
@@ -94,6 +108,20 @@ height = 86;
 weight = -8;
 width = 86;
 };
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
 };
 width = 604;
 },
@@ -101,7 +129,7 @@ width = 604;
 anchors = (
 {
 name = ogonek;
-pos = (326,8);
+pos = (316,8);
 },
 {
 name = top;
@@ -141,6 +169,20 @@ height = 82;
 weight = -4;
 width = 82;
 };
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
 };
 width = 558;
 },
@@ -148,7 +190,7 @@ width = 558;
 anchors = (
 {
 name = ogonek;
-pos = (351,6);
+pos = (338,6);
 },
 {
 name = top;
@@ -187,6 +229,20 @@ adjustSpace = 8;
 height = 86;
 weight = -8;
 width = 86;
+};
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
 };
 };
 width = 596;
