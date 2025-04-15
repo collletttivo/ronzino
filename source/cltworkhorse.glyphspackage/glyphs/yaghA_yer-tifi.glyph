@@ -65,6 +65,28 @@ width = 600;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+ref = "yakhTuareg-tifi";
+},
+{
+closed = 1;
+nodes = (
+(366,242,o),
+(405,282,o),
+(405,336,cs),
+(405,390,o),
+(366,430,o),
+(313,430,cs),
+(260,430,o),
+(220,390,o),
+(220,336,cs),
+(220,282,o),
+(260,242,o),
+(313,242,cs)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -81,7 +103,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 625;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";

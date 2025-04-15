@@ -3,6 +3,29 @@ glyphname = "yach-tifi";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+ref = "yash-tifi";
+},
+{
+closed = 1;
+nodes = (
+(322,207,l),
+(322,446,l),
+(248,446,l),
+(248,207,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(415,293,l),
+(415,365,l),
+(140,365,l),
+(140,293,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -43,6 +66,29 @@ width = 600;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+ref = "yash-tifi";
+},
+{
+closed = 1;
+nodes = (
+(342,207,l),
+(342,446,l),
+(248,446,l),
+(248,207,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(415,283,l),
+(415,375,l),
+(140,375,l),
+(140,283,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -59,7 +105,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 757;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";

@@ -3,6 +3,14 @@ glyphname = "yaddh-tifi";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (484,645);
+ref = "yadd-tifi";
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -19,7 +27,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 484;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
@@ -43,6 +51,14 @@ width = 600;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (582,655);
+ref = "yadd-tifi";
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;

@@ -1,8 +1,38 @@
 {
+color = 9;
 glyphname = "ba-nko";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(140,0,l),
+(140,712,l),
+(50,712,l),
+(50,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(81,629,l),
+(313,629,l),
+(313,712,l),
+(81,712,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(81,403,l),
+(333,403,l),
+(333,486,l),
+(81,486,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -19,7 +49,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 363;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
@@ -63,6 +93,56 @@ width = 600;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 600;
+},
+{
+associatedMasterId = m01;
+layerId = "32904655-B3AC-45B6-B8C6-169FA5286B15";
+name = "Apr 15, 25 at 11:35";
+shapes = (
+{
+closed = 1;
+nodes = (
+(175,0,l),
+(175,542,ls),
+(175,599,o),
+(209,629,o),
+(272,629,cs),
+(348,629,l),
+(348,712,l),
+(282,712,ls),
+(130,712,o),
+(85,667,o),
+(85,525,cs),
+(85,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(116,403,l),
+(388,403,l),
+(388,486,l),
+(116,486,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;

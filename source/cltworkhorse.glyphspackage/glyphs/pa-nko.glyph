@@ -1,8 +1,38 @@
 {
+color = 9;
 glyphname = "pa-nko";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(343,712,l),
+(253,712,l),
+(253,0,l),
+(343,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(80,712,l),
+(80,629,l),
+(312,629,l),
+(312,712,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(50,486,l),
+(50,403,l),
+(312,403,l),
+(312,486,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -19,7 +49,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 403;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";

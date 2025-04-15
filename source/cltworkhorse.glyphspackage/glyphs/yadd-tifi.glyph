@@ -3,6 +3,44 @@ glyphname = "yadd-tifi";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(154,0,l),
+(154,645,l),
+(60,645,l),
+(60,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(454,563,l),
+(454,645,l),
+(80,645,l),
+(80,563,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(454,0,l),
+(454,82,l),
+(80,82,l),
+(80,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(434,286,l),
+(434,364,l),
+(80,364,l),
+(80,286,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -19,7 +57,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 494;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
@@ -43,6 +81,44 @@ width = 600;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(185,0,l),
+(185,655,l),
+(43,655,l),
+(43,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(490,535,l),
+(490,655,l),
+(70,655,l),
+(70,535,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(490,0,l),
+(490,120,l),
+(70,120,l),
+(70,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(469,275,l),
+(469,385,l),
+(70,385,l),
+(70,275,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;

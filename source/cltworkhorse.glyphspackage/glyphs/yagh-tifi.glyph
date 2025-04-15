@@ -3,6 +3,44 @@ glyphname = "yagh-tifi";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(162,260,l),
+(162,645,l),
+(68,645,l),
+(68,260,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(512,260,l),
+(512,336,l),
+(88,336,l),
+(88,260,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(532,260,l),
+(532,645,l),
+(438,645,l),
+(438,260,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(347,0,l),
+(347,295,l),
+(253,295,l),
+(253,0,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -43,6 +81,44 @@ width = 600;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(185,259,l),
+(185,655,l),
+(43,655,l),
+(43,259,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(530,259,l),
+(530,369,l),
+(70,369,l),
+(70,259,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(557,259,l),
+(557,655,l),
+(415,655,l),
+(415,259,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(375,0,l),
+(375,324,l),
+(233,324,l),
+(233,0,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;

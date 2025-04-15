@@ -1,8 +1,29 @@
 {
+color = 9;
 glyphname = "nawoloso-nko";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(330,0,l),
+(330,712,l),
+(240,712,l),
+(240,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(88,629,l),
+(482,629,l),
+(482,712,l),
+(88,712,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;

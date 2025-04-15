@@ -3,6 +3,28 @@ glyphname = "ee-nko.fina";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+ref = "ee-nko";
+},
+{
+closed = 1;
+nodes = (
+(427,190,ls),
+(427,46,o),
+(490,0,o),
+(607,0,cs),
+(664,0,l),
+(664,90,l),
+(605,90,ls),
+(519,90,o),
+(507,134,o),
+(507,200,cs),
+(507,219,l),
+(427,219,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -19,7 +41,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 624;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";

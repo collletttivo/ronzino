@@ -907,9 +907,9 @@ stemValues = (
 86
 );
 userData = {
-GSCornerRadius = 40;
-GSOffsetHorizontal = 8;
-GSOffsetVertical = 4;
+GSCornerRadius = 147;
+GSOffsetHorizontal = 18;
+GSOffsetVertical = 14;
 KernOnIndependentPairs = (
 "H H",
 "H E",
@@ -1202,7 +1202,7 @@ stemValues = (
 130
 );
 userData = {
-GSOffsetHorizontal = 25;
+GSOffsetHorizontal = 35;
 GSOffsetProportional = 1;
 GSOffsetVertical = -2;
 KernOnIndependentPairs = (

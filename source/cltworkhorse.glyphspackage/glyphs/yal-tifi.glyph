@@ -3,6 +3,35 @@ glyphname = "yal-tifi";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(212,0,l),
+(212,645,l),
+(118,645,l),
+(118,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(512,0,l),
+(512,645,l),
+(418,645,l),
+(418,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(202,170,l),
+(492,615,l),
+(418,645,l),
+(128,200,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -43,6 +72,35 @@ width = 600;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(185,0,l),
+(185,655,l),
+(43,655,l),
+(43,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(485,0,l),
+(485,655,l),
+(343,655,l),
+(343,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(175,226,l),
+(465,615,l),
+(343,655,l),
+(53,266,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -59,7 +117,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 528;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";

@@ -63,7 +63,7 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (624,655);
+pos = (723,655);
 ref = "yag-tifi";
 }
 );
@@ -83,7 +83,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 723;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";

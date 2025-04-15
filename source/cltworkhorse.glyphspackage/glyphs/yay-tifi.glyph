@@ -3,6 +3,24 @@ glyphname = "yay-tifi";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(264,326,l),
+(35,0,l),
+(147,0,l),
+(357,293,l),
+(357,368,l),
+(164,599,l),
+(135,563,l),
+(444,563,l),
+(444,645,l),
+(70,645,l),
+(70,569,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -19,7 +37,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 474;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
@@ -43,6 +61,24 @@ width = 600;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(249,332,l),
+(30,0,l),
+(201,0,l),
+(394,286,l),
+(394,386,l),
+(124,640,l),
+(62,535,l),
+(499,535,l),
+(499,655,l),
+(35,655,l),
+(35,530,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
