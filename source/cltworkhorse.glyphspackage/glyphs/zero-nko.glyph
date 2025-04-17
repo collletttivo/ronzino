@@ -2,6 +2,16 @@
 glyphname = "zero-nko";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = top;
+pos = (300,712);
+}
+);
 layerId = m01;
 userData = {
 com.hugojourdan.ColorFlow = {

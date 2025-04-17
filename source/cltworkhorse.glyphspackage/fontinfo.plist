@@ -932,9 +932,51 @@ code = "sub I_J.dlig by I_J.dlig.ss06;
 tag = ss06;
 },
 {
-automatic = 1;
-code = "";
+code = "    markClass shortlowtonecomb-nko <252 712> @NKO_Marks;
+    markClass longdescendingtonecomb-nko <207 712> @NKO_Marks;
+
+        pos base a-nko <130 712> mark @NKO_Marks;
+        pos base a-nko.fina <171 712> mark @NKO_Marks;
+        pos base a-nko.medi <172 712> mark @NKO_Marks;
+        pos base a-nko.init <150 712> mark @NKO_Marks;
+        pos base ee-nko <276 712> mark @NKO_Marks;
+        pos base ee-nko.fina <324 712> mark @NKO_Marks;
+        pos base ee-nko.medi <301 712> mark @NKO_Marks;
+        pos base ee-nko.init <286 712> mark @NKO_Marks;
+        pos base i-nko <260 712> mark @NKO_Marks;
+        pos base i-nko.fina <274 712> mark @NKO_Marks;
+        pos base i-nko.medi <277 712> mark @NKO_Marks;
+        pos base i-nko.init <266 712> mark @NKO_Marks;
+        pos base e-nko <300 712> mark @NKO_Marks;
+        pos base e-nko.fina <332 712> mark @NKO_Marks;
+        pos base e-nko.medi <284 712> mark @NKO_Marks;
+        pos base e-nko.init <296 712> mark @NKO_Marks;
+        pos base u-nko <284 712> mark @NKO_Marks;
+        pos base u-nko.fina <313 712> mark @NKO_Marks;
+        pos base u-nko.medi <347 712> mark @NKO_Marks;
+        pos base u-nko.init <334 712> mark @NKO_Marks;
+        pos base oo-nko <300 712> mark @NKO_Marks;
+        pos base oo-nko.fina <300 712> mark @NKO_Marks;
+        pos base oo-nko.medi <282 712> mark @NKO_Marks;
+        pos base oo-nko.init <300 712> mark @NKO_Marks;
+        pos base o-nko <300 712> mark @NKO_Marks;
+        pos base o-nko.fina <274 712> mark @NKO_Marks;
+        pos base o-nko.medi <300 712> mark @NKO_Marks;
+        pos base o-nko.init <271 712> mark @NKO_Marks;
+
+        pos mark shortlowtonecomb-nko <252 712> mark @NKO_Marks;
+        pos mark longdescendingtonecomb-nko <207 712> mark @NKO_Marks;
+";
 tag = mark;
+},
+{
+code = "    markClass shortlowtonecomb-nko <252 712> @NKO_Marks;
+    markClass longdescendingtonecomb-nko <207 712> @NKO_Marks;
+
+        pos mark shortlowtonecomb-nko <252 712> mark @NKO_Marks;
+        pos mark longdescendingtonecomb-nko <207 712> mark @NKO_Marks;
+";
+tag = mkmk;
 }
 );
 fontMaster = (
@@ -1541,6 +1583,7 @@ axesValues = (
 92,
 8
 );
+exports = 0;
 instanceInterpolations = {
 "980A8AF2-BF11-492D-9410-496A94B21BD3" = 1;
 };
@@ -1552,6 +1595,7 @@ axesValues = (
 120,
 0
 );
+exports = 0;
 instanceInterpolations = {
 "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81" = 0.58333;
 m01 = 0.41667;
@@ -1564,6 +1608,7 @@ axesValues = (
 120,
 8
 );
+exports = 0;
 instanceInterpolations = {
 "829AF10C-3E33-4291-B5B6-8F7CF12D6A62" = 0.58333;
 "980A8AF2-BF11-492D-9410-496A94B21BD3" = 0.41667;
@@ -1578,6 +1623,7 @@ axesValues = (
 140,
 0
 );
+exports = 0;
 instanceInterpolations = {
 "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81" = 1;
 };
@@ -1590,6 +1636,7 @@ axesValues = (
 140,
 8
 );
+exports = 0;
 instanceInterpolations = {
 "829AF10C-3E33-4291-B5B6-8F7CF12D6A62" = 1;
 };

@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (0,712);
+pos = (207,712);
 }
 );
 layerId = m01;
@@ -13,14 +13,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(-73,795,l),
-(5,878,l),
-(-3,878,l),
-(74,795,l),
-(157,795,l),
-(52,917,l),
-(-48,917,l),
-(-157,795,l)
+(144,712,l),
+(232,897,l),
+(192,897,l),
+(279,712,l),
+(362,712,l),
+(245,945,l),
+(182,945,l),
+(62,712,l)
 );
 }
 );
@@ -40,9 +40,15 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 0;
+width = 414;
 },
 {
+anchors = (
+{
+name = _top;
+pos = (-44,-50);
+}
+);
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
 userData = {
 com.hugojourdan.ColorFlow = {
@@ -63,7 +69,28 @@ com.hugojourdan.ColorFlow = {
 width = 300;
 },
 {
+anchors = (
+{
+name = _top;
+pos = (155,683);
+}
+);
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(94,733,l),
+(202,1000,l),
+(102,1000,l),
+(209,733,l),
+(338,733,l),
+(201,1048,l),
+(112,1048,l),
+(-28,733,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -83,6 +110,12 @@ com.hugojourdan.ColorFlow = {
 width = 300;
 },
 {
+anchors = (
+{
+name = _top;
+pos = (-45,-50);
+}
+);
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
 userData = {
 com.hugojourdan.ColorFlow = {

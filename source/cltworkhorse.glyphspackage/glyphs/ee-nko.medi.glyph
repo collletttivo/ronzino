@@ -2,26 +2,29 @@
 glyphname = "ee-nko.medi";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (301,0);
+},
+{
+name = top;
+pos = (301,712);
+}
+);
 layerId = m01;
 shapes = (
 {
+pos = (-20,0);
 ref = "ee-nko.init";
 },
 {
 closed = 1;
 nodes = (
-(557,190,ls),
-(557,46,o),
-(620,0,o),
-(737,0,cs),
-(794,0,l),
-(794,80,l),
-(735,80,ls),
-(649,80,o),
-(637,124,o),
-(637,190,cs),
-(637,214,l),
-(557,219,l)
+(337,0,l),
+(612,0,l),
+(612,80,l),
+(337,80,l)
 );
 }
 );
@@ -41,9 +44,19 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 754;
+width = 602;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (263,0);
+},
+{
+name = top;
+pos = (363,712);
+}
+);
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
 userData = {
 com.hugojourdan.ColorFlow = {
@@ -64,6 +77,16 @@ com.hugojourdan.ColorFlow = {
 width = 600;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = top;
+pos = (300,712);
+}
+);
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
 userData = {
 com.hugojourdan.ColorFlow = {
@@ -84,6 +107,16 @@ com.hugojourdan.ColorFlow = {
 width = 600;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (262,0);
+},
+{
+name = top;
+pos = (362,712);
+}
+);
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
 userData = {
 com.hugojourdan.ColorFlow = {
