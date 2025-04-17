@@ -5,15 +5,16 @@ layers = (
 layerId = m01;
 shapes = (
 {
+pos = (70,0);
 ref = "da-nko";
 },
 {
 closed = 1;
 nodes = (
-(-103,0,l),
-(90,0,l),
-(90,90,l),
-(-103,90,l)
+(-33,0,l),
+(160,0,l),
+(160,80,l),
+(-33,80,l)
 );
 }
 );
@@ -33,7 +34,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 681;
+width = 751;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";

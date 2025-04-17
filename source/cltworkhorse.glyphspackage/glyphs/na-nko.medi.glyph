@@ -3,6 +3,16 @@ glyphname = "na-nko.medi";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (115,0);
+ref = nkoen;
+},
+{
+ref = "na-nko.init";
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -19,7 +29,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 663;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";

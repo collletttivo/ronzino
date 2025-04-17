@@ -3,6 +3,32 @@ glyphname = "ma-nko";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(61,0,l),
+(535,0,l),
+(535,86,l),
+(61,86,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(45,75,l),
+(45,0,l),
+(110,0,l),
+(310,610,l),
+(299,610,l),
+(503,0,l),
+(572,0,l),
+(572,75,l),
+(357,712,l),
+(257,712,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;

@@ -3,6 +3,20 @@ glyphname = "gba-nko.fina";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+ref = "gba-nko";
+},
+{
+closed = 1;
+nodes = (
+(321,0,l),
+(645,0,l),
+(645,90,l),
+(321,90,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -19,7 +33,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 640;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
@@ -82,4 +96,5 @@ com.hugojourdan.ColorFlow = {
 width = 600;
 }
 );
+metricLeft = "gba-nko";
 }

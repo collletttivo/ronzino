@@ -3,6 +3,30 @@ glyphname = "ma-nko.medi";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+pos = (50,0);
+ref = "ma-nko";
+},
+{
+closed = 1;
+nodes = (
+(560,0,l),
+(764,0,l),
+(764,80,l),
+(560,80,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(-40,0,l),
+(164,0,l),
+(164,80,l),
+(-40,80,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -19,7 +43,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 724;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";

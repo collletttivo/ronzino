@@ -14,7 +14,7 @@ tag = slnt;
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotbelow Dmacronbelow Eth E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute K Kcommaaccent Kmacronbelow L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tmacronbelow U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Lcommaaccent.loclMAH Ncommaaccent.loclMAH G.ss03 I_J.dlig";
+code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotbelow Dmacronbelow Eth E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute K Kcommaaccent Kmacronbelow L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tmacronbelow U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Lcommaaccent.loclMAH Ncommaaccent.loclMAH G.ss03 I_J.dlig I_J.dlig.ss06 A-cy";
 name = Uppercase;
 }
 );
@@ -51,7 +51,6 @@ date = "2023-03-31 10:00:41 +0000";
 familyName = Ronzino;
 featurePrefixes = (
 {
-automatic = 1;
 code = "languagesystem DFLT dflt;
 
 languagesystem latn dflt;
@@ -65,6 +64,8 @@ languagesystem latn MOL;
 languagesystem latn MAH;
 languagesystem latn CAT;
 languagesystem latn NLD;
+
+languagesystem nko  NKO;
 ";
 name = Languagesystems;
 }
@@ -88,11 +89,15 @@ feature onum;
 feature c2sc;
 feature smcp;
 feature case;
+feature init;
+feature medi;
+feature fina;
 feature ss01;
 feature ss02;
 feature ss03;
 feature ss04;
 feature ss05;
+feature ss06;
 ";
 tag = aalt;
 },
@@ -714,6 +719,120 @@ tag = case;
 },
 {
 automatic = 1;
+code = "sub a-nko by a-nko.init;
+sub ee-nko by ee-nko.init;
+sub i-nko by i-nko.init;
+sub e-nko by e-nko.init;
+sub u-nko by u-nko.init;
+sub oo-nko by oo-nko.init;
+sub o-nko by o-nko.init;
+sub dagbasinna-nko by dagbasinna-nko.init;
+sub n-nko by n-nko.init;
+sub ba-nko by ba-nko.init;
+sub pa-nko by pa-nko.init;
+sub ta-nko by ta-nko.init;
+sub ja-nko by ja-nko.init;
+sub cha-nko by cha-nko.init;
+sub da-nko by da-nko.init;
+sub ra-nko by ra-nko.init;
+sub rra-nko by rra-nko.init;
+sub sa-nko by sa-nko.init;
+sub gba-nko by gba-nko.init;
+sub fa-nko by fa-nko.init;
+sub ka-nko by ka-nko.init;
+sub la-nko by la-nko.init;
+sub nawoloso-nko by nawoloso-nko.init;
+sub ma-nko by ma-nko.init;
+sub nya-nko by nya-nko.init;
+sub na-nko by na-nko.init;
+sub ha-nko by ha-nko.init;
+sub wa-nko by wa-nko.init;
+sub ya-nko by ya-nko.init;
+sub nyawoloso-nko by nyawoloso-nko.init;
+sub jonaja-nko by jonaja-nko.init;
+sub jonacha-nko by jonacha-nko.init;
+sub jonara-nko by jonara-nko.init;
+";
+tag = init;
+},
+{
+automatic = 1;
+code = "sub a-nko by a-nko.medi;
+sub ee-nko by ee-nko.medi;
+sub i-nko by i-nko.medi;
+sub e-nko by e-nko.medi;
+sub u-nko by u-nko.medi;
+sub oo-nko by oo-nko.medi;
+sub o-nko by o-nko.medi;
+sub dagbasinna-nko by dagbasinna-nko.medi;
+sub n-nko by n-nko.medi;
+sub ba-nko by ba-nko.medi;
+sub pa-nko by pa-nko.medi;
+sub ta-nko by ta-nko.medi;
+sub ja-nko by ja-nko.medi;
+sub cha-nko by cha-nko.medi;
+sub da-nko by da-nko.medi;
+sub ra-nko by ra-nko.medi;
+sub rra-nko by rra-nko.medi;
+sub sa-nko by sa-nko.medi;
+sub gba-nko by gba-nko.medi;
+sub fa-nko by fa-nko.medi;
+sub ka-nko by ka-nko.medi;
+sub la-nko by la-nko.medi;
+sub nawoloso-nko by nawoloso-nko.medi;
+sub ma-nko by ma-nko.medi;
+sub nya-nko by nya-nko.medi;
+sub na-nko by na-nko.medi;
+sub ha-nko by ha-nko.medi;
+sub wa-nko by wa-nko.medi;
+sub ya-nko by ya-nko.medi;
+sub nyawoloso-nko by nyawoloso-nko.medi;
+sub jonaja-nko by jonaja-nko.medi;
+sub jonacha-nko by jonacha-nko.medi;
+sub jonara-nko by jonara-nko.medi;
+";
+tag = medi;
+},
+{
+automatic = 1;
+code = "sub a-nko by a-nko.fina;
+sub ee-nko by ee-nko.fina;
+sub i-nko by i-nko.fina;
+sub e-nko by e-nko.fina;
+sub u-nko by u-nko.fina;
+sub oo-nko by oo-nko.fina;
+sub o-nko by o-nko.fina;
+sub dagbasinna-nko by dagbasinna-nko.fina;
+sub n-nko by n-nko.fina;
+sub ba-nko by ba-nko.fina;
+sub pa-nko by pa-nko.fina;
+sub ta-nko by ta-nko.fina;
+sub ja-nko by ja-nko.fina;
+sub cha-nko by cha-nko.fina;
+sub da-nko by da-nko.fina;
+sub ra-nko by ra-nko.fina;
+sub rra-nko by rra-nko.fina;
+sub sa-nko by sa-nko.fina;
+sub gba-nko by gba-nko.fina;
+sub fa-nko by fa-nko.fina;
+sub ka-nko by ka-nko.fina;
+sub la-nko by la-nko.fina;
+sub nawoloso-nko by nawoloso-nko.fina;
+sub ma-nko by ma-nko.fina;
+sub nya-nko by nya-nko.fina;
+sub na-nko by na-nko.fina;
+sub ha-nko by ha-nko.fina;
+sub wa-nko by wa-nko.fina;
+sub ya-nko by ya-nko.fina;
+sub nyawoloso-nko by nyawoloso-nko.fina;
+sub jonaja-nko by jonaja-nko.fina;
+sub jonacha-nko by jonacha-nko.fina;
+sub jonara-nko by jonara-nko.fina;
+";
+tag = fina;
+},
+{
+automatic = 1;
 code = "lookupflag IgnoreMarks;
 sub I J by I_J.dlig;
 ";
@@ -795,6 +914,8 @@ tag = ss04;
 automatic = 1;
 code = "sub yag-tifi by yag-tifi.ss05;
 sub yaghh-tifi by yaghh-tifi.ss05;
+sub yajBerberacademy-tifi by yajBerberacademy-tifi.ss05;
+sub yav-tifi by yav-tifi.ss05;
 ";
 labels = (
 {
@@ -803,6 +924,17 @@ value = "Alt Tifinagh";
 }
 );
 tag = ss05;
+},
+{
+automatic = 1;
+code = "sub I_J.dlig by I_J.dlig.ss06;
+";
+tag = ss06;
+},
+{
+automatic = 1;
+code = "";
+tag = mark;
 }
 );
 fontMaster = (
@@ -1202,7 +1334,7 @@ stemValues = (
 130
 );
 userData = {
-GSOffsetHorizontal = 35;
+GSOffsetHorizontal = 23;
 GSOffsetProportional = 1;
 GSOffsetVertical = -2;
 KernOnIndependentPairs = (

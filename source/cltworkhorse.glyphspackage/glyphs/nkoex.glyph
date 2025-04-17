@@ -1,0 +1,71 @@
+{
+glyphname = nkoex;
+layers = (
+{
+anchors = (
+{
+name = "#exit";
+pos = (283,242);
+}
+);
+hints = (
+{
+name = _corner.nko;
+options = 1;
+origin = (0,11);
+scale = (-0.4,1);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(130,0,ls),
+(253,0,o),
+(318,26,o),
+(318,170,cs),
+(318,242,l),
+(232,242,l),
+(232,170,ls),
+(232,104,o),
+(220,80,o),
+(132,80,cs),
+(-87,80,l),
+(-87,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 600;
+},
+{
+layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
+width = 600;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+width = 600;
+},
+{
+layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
+width = 600;
+}
+);
+}

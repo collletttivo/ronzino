@@ -3,6 +3,28 @@ glyphname = "nawoloso-nko.medi";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+ref = "nawoloso-nko.fina";
+},
+{
+closed = 1;
+nodes = (
+(138,0,ls),
+(262,0,o),
+(328,26,o),
+(328,170,cs),
+(328,246,l),
+(242,236,l),
+(242,170,ls),
+(242,104,o),
+(230,80,o),
+(144,80,cs),
+(-25,80,l),
+(-25,0,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -19,7 +41,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 575;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";

@@ -3,6 +3,16 @@ color = 9;
 glyphname = "a-nko";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (130,0);
+},
+{
+name = top;
+pos = (130,712);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -55,6 +65,17 @@ width = 600;
 },
 {
 layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(198,0,l),
+(198,712,l),
+(63,712,l),
+(63,0,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -71,7 +92,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 261;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";

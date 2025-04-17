@@ -3,6 +3,32 @@ glyphname = "gba-nko";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(535,712,l),
+(81,712,l),
+(81,632,l),
+(535,632,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(551,637,l),
+(551,712,l),
+(486,712,l),
+(296,102,l),
+(307,102,l),
+(113,712,l),
+(44,712,l),
+(44,637,l),
+(249,0,l),
+(349,0,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;

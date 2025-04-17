@@ -3,6 +3,28 @@ glyphname = "rra-nko.medi";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+ref = "rra-nko.init";
+},
+{
+closed = 1;
+nodes = (
+(507,190,ls),
+(507,46,o),
+(573,0,o),
+(697,0,cs),
+(814,0,l),
+(810,80,l),
+(691,80,ls),
+(605,80,o),
+(593,124,o),
+(593,190,cs),
+(593,242,l),
+(507,252,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -19,7 +41,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 762;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
