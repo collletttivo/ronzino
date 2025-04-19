@@ -14,7 +14,7 @@ tag = slnt;
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotbelow Dmacronbelow Eth E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute K Kcommaaccent Kmacronbelow L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tmacronbelow U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Lcommaaccent.loclMAH Ncommaaccent.loclMAH G.ss03 I_J.dlig I_J.dlig.ss06 A-cy";
+code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotbelow Dmacronbelow Eth E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute K Kcommaaccent Kmacronbelow L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tmacronbelow U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Lcommaaccent.loclMAH Ncommaaccent.loclMAH G.ss03 I_J.dlig A-cy Be-cy Ve-cy Ge-cy De-cy Ie-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Ka-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ef-cy Ha-cy Tse-cy Che-cy Sha-cy Shcha-cy Softsign-cy Hardsign-cy Yu-cy Ya-cy";
 name = Uppercase;
 }
 );
@@ -97,7 +97,6 @@ feature ss02;
 feature ss03;
 feature ss04;
 feature ss05;
-feature ss06;
 ";
 tag = aalt;
 },
@@ -122,11 +121,23 @@ tag = calt;
 {
 automatic = 1;
 code = "lookup ccmp_DFLT_1 {
-	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
 	sub i' @CombiningTopAccents by idotless;
 	sub j' @CombiningTopAccents by jdotless;
 } ccmp_DFLT_1;
+
+lookup ccmp_DFLT_2 {
+	lookupflag 0;
+	sub brevecomb acutecomb by brevecomb_acutecomb;
+	sub brevecomb gravecomb by brevecomb_gravecomb;
+	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
+	sub brevecomb tildecomb by brevecomb_tildecomb;
+	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
+	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
+	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
+	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
+} ccmp_DFLT_2;
 
 lookup ccmp_Other_1 {
 	lookupflag 0;
@@ -926,55 +937,59 @@ value = "Alt Tifinagh";
 tag = ss05;
 },
 {
-automatic = 1;
-code = "sub I_J.dlig by I_J.dlig.ss06;
-";
-tag = ss06;
-},
-{
-code = "    markClass shortlowtonecomb-nko <252 712> @NKO_Marks;
-    markClass longdescendingtonecomb-nko <207 712> @NKO_Marks;
+code = "
+    markClass shorthightonecomb-nko <275 700> @Marks;
+    markClass shortlowtonecomb-nko <252 712> @Marks;
+    markClass longdescendingtonecomb-nko <207 712> @Marks;
+    markClass longhightonecomb-nko <250 712> @Marks;
+    markClass longlowtonecomb-nko <250 687> @Marks;
+    markClass longrisingtonecomb-nko <275 700> @Marks;
 
-        pos base a-nko <130 712> mark @NKO_Marks;
-        pos base a-nko.fina <171 712> mark @NKO_Marks;
-        pos base a-nko.medi <172 712> mark @NKO_Marks;
-        pos base a-nko.init <150 712> mark @NKO_Marks;
-        pos base ee-nko <276 712> mark @NKO_Marks;
-        pos base ee-nko.fina <324 712> mark @NKO_Marks;
-        pos base ee-nko.medi <301 712> mark @NKO_Marks;
-        pos base ee-nko.init <286 712> mark @NKO_Marks;
-        pos base i-nko <260 712> mark @NKO_Marks;
-        pos base i-nko.fina <274 712> mark @NKO_Marks;
-        pos base i-nko.medi <277 712> mark @NKO_Marks;
-        pos base i-nko.init <266 712> mark @NKO_Marks;
-        pos base e-nko <300 712> mark @NKO_Marks;
-        pos base e-nko.fina <332 712> mark @NKO_Marks;
-        pos base e-nko.medi <284 712> mark @NKO_Marks;
-        pos base e-nko.init <296 712> mark @NKO_Marks;
-        pos base u-nko <284 712> mark @NKO_Marks;
-        pos base u-nko.fina <313 712> mark @NKO_Marks;
-        pos base u-nko.medi <347 712> mark @NKO_Marks;
-        pos base u-nko.init <334 712> mark @NKO_Marks;
-        pos base oo-nko <300 712> mark @NKO_Marks;
-        pos base oo-nko.fina <300 712> mark @NKO_Marks;
-        pos base oo-nko.medi <282 712> mark @NKO_Marks;
-        pos base oo-nko.init <300 712> mark @NKO_Marks;
-        pos base o-nko <300 712> mark @NKO_Marks;
-        pos base o-nko.fina <274 712> mark @NKO_Marks;
-        pos base o-nko.medi <300 712> mark @NKO_Marks;
-        pos base o-nko.init <271 712> mark @NKO_Marks;
-
-        pos mark shortlowtonecomb-nko <252 712> mark @NKO_Marks;
-        pos mark longdescendingtonecomb-nko <207 712> mark @NKO_Marks;
+    lookup mark_base {
+        pos base a-nko <130 712> mark @Marks;
+        pos base a-nko.fina <171 712> mark @Marks;
+        pos base a-nko.medi <172 712> mark @Marks;
+        pos base a-nko.init <150 712> mark @Marks;
+        pos base ee-nko <276 712> mark @Marks;
+        pos base ee-nko.fina <324 712> mark @Marks;
+        pos base ee-nko.medi <301 712> mark @Marks;
+        pos base ee-nko.init <286 712> mark @Marks;
+        pos base i-nko <260 712> mark @Marks;
+        pos base i-nko.fina <274 712> mark @Marks;
+        pos base i-nko.medi <277 712> mark @Marks;
+        pos base i-nko.init <266 712> mark @Marks;
+        pos base e-nko <300 712> mark @Marks;
+        pos base e-nko.fina <332 712> mark @Marks;
+        pos base e-nko.medi <284 712> mark @Marks;
+        pos base e-nko.init <296 712> mark @Marks;
+        pos base u-nko <284 712> mark @Marks;
+        pos base u-nko.fina <313 712> mark @Marks;
+        pos base u-nko.medi <347 712> mark @Marks;
+        pos base u-nko.init <334 712> mark @Marks;
+        pos base oo-nko <300 712> mark @Marks;
+        pos base oo-nko.fina <300 712> mark @Marks;
+        pos base oo-nko.medi <282 712> mark @Marks;
+        pos base oo-nko.init <300 712> mark @Marks;
+    } mark_base;
 ";
 tag = mark;
 },
 {
-code = "    markClass shortlowtonecomb-nko <252 712> @NKO_Marks;
-    markClass longdescendingtonecomb-nko <207 712> @NKO_Marks;
-
-        pos mark shortlowtonecomb-nko <252 712> mark @NKO_Marks;
-        pos mark longdescendingtonecomb-nko <207 712> mark @NKO_Marks;
+code = "
+    markClass shorthightonecomb-nko <275 700> @Marks;
+    markClass shortlowtonecomb-nko <252 712> @Marks;
+    markClass longdescendingtonecomb-nko <207 712> @Marks;
+    markClass longhightonecomb-nko <250 712> @Marks;
+    markClass longlowtonecomb-nko <250 687> @Marks;
+    markClass longrisingtonecomb-nko <275 700> @Marks;
+    lookup mark_mark {
+        pos mark shorthightonecomb-nko <275 842> mark @Marks;
+        pos mark shortlowtonecomb-nko <255 842> mark @Marks;
+        pos mark longdescendingtonecomb-nko <207 902> mark @Marks;
+        pos mark longhightonecomb-nko <245 842> mark @Marks;
+        pos mark longlowtonecomb-nko <249 842> mark @Marks;
+        pos mark longrisingtonecomb-nko <277 842> mark @Marks;
+    } mark_mark;
 ";
 tag = mkmk;
 }

@@ -5,10 +5,34 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (0,-50);
+pos = (275,700);
+},
+{
+name = top;
+pos = (277,842);
 }
 );
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(417,775,l),
+(417,841,l),
+(133,841,l),
+(133,775,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(83,833,l),
+(133,775,l),
+(241,931,l),
+(149,931,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;

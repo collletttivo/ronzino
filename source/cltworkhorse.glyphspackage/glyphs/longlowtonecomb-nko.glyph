@@ -5,10 +5,21 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (0,-50);
+pos = (250,687);
+},
+{
+name = top;
+pos = (249,842);
 }
 );
 layerId = m01;
+shapes = (
+{
+pos = (499,0);
+ref = "shortlowtonecomb-nko";
+scale = (-1,1);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -25,7 +36,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 500;
+width = 492;
 },
 {
 anchors = (

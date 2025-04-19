@@ -1,24 +1,11 @@
 {
-color = 0;
-glyphname = I_J.dlig.ss06;
-kernLeft = KO_I_J.dlig;
-kernRight = KO_J;
+glyphname = "ie-cy";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-closed = 1;
-nodes = (
-(173,383,l),
-(173,680,l),
-(83,680,l),
-(83,383,l)
-);
-},
-{
-pos = (63,0);
-ref = J;
+ref = e;
 }
 );
 userData = {
@@ -37,58 +24,13 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 585;
-},
-{
-layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
-shapes = (
-{
-closed = 1;
-nodes = (
-(212,383,l),
-(212,692,l),
-(72,692,l),
-(72,383,l)
-);
-},
-{
-pos = (56,0);
-ref = J;
-}
-);
-userData = {
-com.hugojourdan.ColorFlow = {
-"0" = 0;
-"1" = 0;
-"10" = 0;
-"11" = 0;
-"2" = 0;
-"3" = 0;
-"4" = 0;
-"5" = 0;
-"6" = 0;
-"7" = 0;
-"8" = 0;
-"9" = 0;
-};
-};
-width = 604;
+width = 546;
 },
 {
 layerId = "980A8AF2-BF11-492D-9410-496A94B21BD3";
 shapes = (
 {
-closed = 1;
-nodes = (
-(191,383,l),
-(233,680,l),
-(143,680,l),
-(101,383,l)
-);
-},
-{
-pos = (62,0);
-ref = J;
+ref = e;
 }
 );
 userData = {
@@ -107,23 +49,38 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 574;
+width = 533;
+},
+{
+layerId = "E9FB66CC-5D7A-47B2-9A25-A0E8EEF5BB81";
+shapes = (
+{
+ref = e;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 558;
 },
 {
 layerId = "829AF10C-3E33-4291-B5B6-8F7CF12D6A62";
 shapes = (
 {
-closed = 1;
-nodes = (
-(228,383,l),
-(272,692,l),
-(132,692,l),
-(88,383,l)
-);
-},
-{
-pos = (59,0);
-ref = J;
+ref = e;
 }
 );
 userData = {
@@ -142,9 +99,8 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 601;
+width = 549;
 }
 );
-metricLeft = I;
-metricRight = J;
+unicode = 1077;
 }

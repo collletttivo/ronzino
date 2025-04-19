@@ -5,10 +5,21 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (0,-50);
+pos = (250,712);
+},
+{
+name = top;
+pos = (245,842);
 }
 );
 layerId = m01;
+shapes = (
+{
+pos = (500,0);
+ref = "longrisingtonecomb-nko";
+scale = (-1,1);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
