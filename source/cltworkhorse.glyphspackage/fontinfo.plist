@@ -65,7 +65,8 @@ languagesystem latn MAH;
 languagesystem latn CAT;
 languagesystem latn NLD;
 
-languagesystem nko  NKO;
+languagesystem nko dflt;
+languagesystem nko NKO;
 ";
 name = Languagesystems;
 }
@@ -65243,5 +65244,5 @@ m01 = {
 "com.hugojourdan.ColorFlow-selectedLayer-data" = "<null>";
 };
 versionMajor = 1;
-versionMinor = 200;
+versionMinor = 300;
 }
